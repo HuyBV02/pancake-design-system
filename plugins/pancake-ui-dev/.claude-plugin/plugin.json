@@ -1,0 +1,7 @@
+{
+  "name": "pancake-ui-dev",
+  "version": "0.1.0",
+  "description": "Lên design và code giao diện Pancake Web đúng Design System DS_AI bằng @pancake/ui + @pancake/tokens, không cần Figma. Kèm hook tự chặn mã màu / khoảng cách tự đặt và import antd trực tiếp.",
+  "author": { "name": "Pancake Design Team" },
+  "keywords": ["pancake", "design-system", "ui", "react", "antd"]
+}

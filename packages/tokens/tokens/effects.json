@@ -1,0 +1,347 @@
+{
+  "elevation": {
+    "raised": {
+      "$type": "shadow",
+      "$value": [
+        {
+          "color": "#00000026",
+          "offsetX": {
+            "value": 0,
+            "unit": "px"
+          },
+          "offsetY": {
+            "value": 2,
+            "unit": "px"
+          },
+          "blur": {
+            "value": 8,
+            "unit": "px"
+          },
+          "spread": {
+            "value": 0,
+            "unit": "px"
+          }
+        }
+      ],
+      "$description": "Dòng bảng khi hover, card gói khuyến nghị",
+      "$extensions": {
+        "vn.pancake.figma": {
+          "file": "aScl8gFsM1pWrd0atTwyJM",
+          "effectStyle": "Drop-Shadow/0.15"
+        }
+      }
+    },
+    "overlay": {
+      "$type": "shadow",
+      "$value": [
+        {
+          "color": "#0000000d",
+          "offsetX": {
+            "value": 0,
+            "unit": "px"
+          },
+          "offsetY": {
+            "value": 9,
+            "unit": "px"
+          },
+          "blur": {
+            "value": 28,
+            "unit": "px"
+          },
+          "spread": {
+            "value": 8,
+            "unit": "px"
+          }
+        },
+        {
+          "color": "#00000014",
+          "offsetX": {
+            "value": 0,
+            "unit": "px"
+          },
+          "offsetY": {
+            "value": 6,
+            "unit": "px"
+          },
+          "blur": {
+            "value": 16,
+            "unit": "px"
+          },
+          "spread": {
+            "value": 0,
+            "unit": "px"
+          }
+        },
+        {
+          "color": "#0000001f",
+          "offsetX": {
+            "value": 0,
+            "unit": "px"
+          },
+          "offsetY": {
+            "value": 3,
+            "unit": "px"
+          },
+          "blur": {
+            "value": 6,
+            "unit": "px"
+          },
+          "spread": {
+            "value": -4,
+            "unit": "px"
+          }
+        }
+      ],
+      "$description": "Dropdown, popover, modal, message, notification",
+      "$extensions": {
+        "vn.pancake.figma": {
+          "file": "aScl8gFsM1pWrd0atTwyJM",
+          "effectStyle": "Drop-Shadow/0.12+0.8+0.5"
+        }
+      }
+    },
+    "selected": {
+      "$type": "shadow",
+      "$description": "Item segmented đang chọn",
+      "$value": [
+        {
+          "color": "#0000000d",
+          "offsetX": {
+            "value": 0,
+            "unit": "px"
+          },
+          "offsetY": {
+            "value": 2,
+            "unit": "px"
+          },
+          "blur": {
+            "value": 8,
+            "unit": "px"
+          },
+          "spread": {
+            "value": 0,
+            "unit": "px"
+          }
+        }
+      ]
+    },
+    "button-primary": {
+      "$type": "shadow",
+      "$value": [
+        {
+          "color": "#0000000b",
+          "offsetX": {
+            "value": 0,
+            "unit": "px"
+          },
+          "offsetY": {
+            "value": 2,
+            "unit": "px"
+          },
+          "blur": {
+            "value": 0,
+            "unit": "px"
+          },
+          "spread": {
+            "value": 0,
+            "unit": "px"
+          }
+        }
+      ],
+      "$description": "Nút Primary",
+      "$extensions": {
+        "vn.pancake.figma": {
+          "file": "aScl8gFsM1pWrd0atTwyJM",
+          "effectStyle": "Drop-Shadow/button-primary"
+        }
+      }
+    },
+    "button-default": {
+      "$type": "shadow",
+      "$value": [
+        {
+          "color": "#00000004",
+          "offsetX": {
+            "value": 0,
+            "unit": "px"
+          },
+          "offsetY": {
+            "value": 2,
+            "unit": "px"
+          },
+          "blur": {
+            "value": 0,
+            "unit": "px"
+          },
+          "spread": {
+            "value": 0,
+            "unit": "px"
+          }
+        }
+      ],
+      "$description": "Nút Tertiary (có viền)",
+      "$extensions": {
+        "vn.pancake.figma": {
+          "file": "aScl8gFsM1pWrd0atTwyJM",
+          "effectStyle": "Drop-Shadow/button-secondary"
+        }
+      }
+    }
+  },
+  "focus": {
+    "brand": {
+      "$type": "shadow",
+      "$description": "Vòng focus nút Primary / Tertiary Blue, input focus",
+      "$value": [
+        {
+          "color": "#6399f233",
+          "offsetX": {
+            "value": 0,
+            "unit": "px"
+          },
+          "offsetY": {
+            "value": 0,
+            "unit": "px"
+          },
+          "blur": {
+            "value": 0,
+            "unit": "px"
+          },
+          "spread": {
+            "value": 4,
+            "unit": "px"
+          }
+        }
+      ]
+    },
+    "danger": {
+      "$type": "shadow",
+      "$description": "Vòng focus nút Negative",
+      "$value": [
+        {
+          "color": "{crimson.50}",
+          "offsetX": {
+            "value": 0,
+            "unit": "px"
+          },
+          "offsetY": {
+            "value": 0,
+            "unit": "px"
+          },
+          "blur": {
+            "value": 0,
+            "unit": "px"
+          },
+          "spread": {
+            "value": 4,
+            "unit": "px"
+          }
+        }
+      ]
+    },
+    "neutral": {
+      "$type": "shadow",
+      "$description": "Vòng focus nút Tertiary Gray",
+      "$value": [
+        {
+          "color": "#8496b41a",
+          "offsetX": {
+            "value": 0,
+            "unit": "px"
+          },
+          "offsetY": {
+            "value": 0,
+            "unit": "px"
+          },
+          "blur": {
+            "value": 0,
+            "unit": "px"
+          },
+          "spread": {
+            "value": 4,
+            "unit": "px"
+          }
+        }
+      ]
+    },
+    "control": {
+      "$type": "shadow",
+      "$description": "Vòng focus checkbox, radio",
+      "$value": [
+        {
+          "color": "{blue.50}",
+          "offsetX": {
+            "value": 0,
+            "unit": "px"
+          },
+          "offsetY": {
+            "value": 0,
+            "unit": "px"
+          },
+          "blur": {
+            "value": 0,
+            "unit": "px"
+          },
+          "spread": {
+            "value": 4,
+            "unit": "px"
+          }
+        }
+      ]
+    }
+  },
+  "blur": {
+    "sm": {
+      "$type": "dimension",
+      "$value": {
+        "value": 8,
+        "unit": "px"
+      },
+      "$extensions": {
+        "vn.pancake.figma": {
+          "file": "aScl8gFsM1pWrd0atTwyJM",
+          "effectStyle": "Background blur/sm"
+        }
+      }
+    },
+    "md": {
+      "$type": "dimension",
+      "$value": {
+        "value": 16,
+        "unit": "px"
+      },
+      "$extensions": {
+        "vn.pancake.figma": {
+          "file": "aScl8gFsM1pWrd0atTwyJM",
+          "effectStyle": "Background blur/md"
+        }
+      }
+    },
+    "lg": {
+      "$type": "dimension",
+      "$value": {
+        "value": 24,
+        "unit": "px"
+      },
+      "$extensions": {
+        "vn.pancake.figma": {
+          "file": "aScl8gFsM1pWrd0atTwyJM",
+          "effectStyle": "Background blur/lg"
+        }
+      }
+    },
+    "xl": {
+      "$type": "dimension",
+      "$value": {
+        "value": 40,
+        "unit": "px"
+      },
+      "$extensions": {
+        "vn.pancake.figma": {
+          "file": "aScl8gFsM1pWrd0atTwyJM",
+          "effectStyle": "Background blur/xl"
+        }
+      }
+    }
+  }
+}

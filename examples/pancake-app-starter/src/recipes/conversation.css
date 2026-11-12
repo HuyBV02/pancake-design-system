@@ -1,0 +1,48 @@
+/* Danh sách hội thoại + bong bóng chat — chỉ dùng token --pk-*. */
+.pk-conv {
+  display: flex;
+  gap: var(--pk-space-150);
+  align-items: flex-start;
+  width: 100%;
+  min-height: 72px;
+  padding: var(--pk-space-150) var(--pk-space-200);
+  border: 0;
+  border-radius: var(--pk-radius-md);
+  background: transparent;
+  text-align: left;
+  cursor: pointer;
+}
+.pk-conv:hover { background: var(--pk-bg-item-hover); }
+.pk-conv.is-selected { background: var(--pk-bg-item-selected); }
+.pk-conv:focus-visible { outline: none; box-shadow: var(--pk-focus-brand); }
+.pk-conv__avatar { position: relative; flex-shrink: 0; }
+.pk-conv__channel {
+  position: absolute; right: calc(var(--pk-space-050) * -1); bottom: calc(var(--pk-space-050) * -1);
+  display: grid; place-items: center; width: var(--pk-size-icon-lg); height: var(--pk-size-icon-lg);
+  border-radius: var(--pk-radius-rounded); background: var(--pk-surface-default);
+  border: var(--pk-border-width-default) solid var(--pk-border-inverse);
+}
+.pk-conv__body { flex: 1; min-width: 0; display: grid; gap: var(--pk-space-025); }
+.pk-conv__row { display: flex; align-items: center; justify-content: space-between; gap: var(--pk-space-100); min-width: 0; }
+.pk-conv__tags { display: flex; flex-wrap: wrap; gap: var(--pk-space-050); margin-top: var(--pk-space-025); }
+.pk-ellipsis { overflow: hidden; white-space: nowrap; text-overflow: ellipsis; min-width: 0; }
+
+/* Tag mini — vùng mật độ cao (Tag/Mini trong DS_AI): cao 18, chữ Dense 10 */
+.pk-tag-mini {
+  display: inline-flex; align-items: center; height: var(--pk-size-kbd-sm); padding: 0 var(--pk-space-075);
+  border-radius: var(--pk-radius-xs); font: var(--pk-typography-dense-10-medium);
+}
+.pk-tag-mini--blue { background: var(--pk-accent-blue-bg); color: var(--pk-accent-blue-text); }
+.pk-tag-mini--gold { background: var(--pk-accent-gold-bg); color: var(--pk-accent-gold-text); }
+.pk-tag-mini--green { background: var(--pk-accent-green-bg); color: var(--pk-accent-green-text); }
+.pk-tag-mini--red { background: var(--pk-accent-red-bg); color: var(--pk-accent-red-text); }
+.pk-tag-mini--purple { background: var(--pk-accent-purple-bg); color: var(--pk-accent-purple-text); }
+.pk-tag-mini--volcano { background: var(--pk-accent-volcano-bg); color: var(--pk-accent-volcano-text); }
+
+/* Khung chat */
+.pk-chat { background: var(--pk-chat-bg); padding: var(--pk-space-300); display: grid; gap: var(--pk-space-100); align-content: start; }
+.pk-bubble { max-width: 70%; padding: var(--pk-space-100) var(--pk-space-150); border-radius: var(--pk-radius-xl); display: grid; gap: var(--pk-space-025); }
+.pk-bubble p { margin: 0; }
+.pk-bubble--in { justify-self: start; background: var(--pk-chat-bubble-incoming); border-bottom-left-radius: var(--pk-radius-xs); }
+.pk-bubble--out { justify-self: end; background: var(--pk-chat-bubble-outgoing); border-bottom-right-radius: var(--pk-radius-xs); }
+.pk-bubble__time { justify-self: end; }

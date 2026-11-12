@@ -1,0 +1,5 @@
+node_modules/
+packages/ui/storybook-static/
+packages/ui/gallery/.ssr/
+*.log
+.DS_Store

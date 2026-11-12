@@ -1,0 +1,32 @@
+{
+  "name": "pancake-app-starter",
+  "private": true,
+  "version": "0.1.0",
+  "type": "module",
+  "description": "App mẫu: cách dựng màn Pancake Web bằng @pancake/ui — khung app, recipes, playground, lint",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc --noEmit && vite build",
+    "lint": "eslint . && stylelint \"src/**/*.css\" --allow-empty-input",
+    "typecheck": "tsc --noEmit"
+  },
+  "dependencies": {
+    "@fontsource/roboto": "*",
+    "@fontsource/roboto-mono": "*",
+    "@pancake/tokens": "1.3.0",
+    "@pancake/ui": "0.1.0",
+    "@phosphor-icons/react": "^2.1.10",
+    "antd": "^6.7.0",
+    "react": "^19.3.1",
+    "react-dom": "^19.3.1"
+  },
+  "devDependencies": {
+    "@pancake/lint": "0.1.0",
+    "@vitejs/plugin-react": "^6.3.0",
+    "eslint": "^10.14.0",
+    "stylelint": "^18.0.0",
+    "typescript": "^7.0.2",
+    "typescript-eslint": "^8.72.2",
+    "vite": "^8.3.8"
+  }
+}

@@ -1,0 +1,1337 @@
+{
+  "space": {
+    "0": {
+      "$type": "dimension",
+      "$value": {
+        "value": 0,
+        "unit": "px"
+      },
+      "$extensions": {
+        "vn.pancake.figma": {
+          "file": "aScl8gFsM1pWrd0atTwyJM",
+          "collection": "Dimension",
+          "variable": "space/0"
+        }
+      }
+    },
+    "100": {
+      "$type": "dimension",
+      "$value": {
+        "value": 8,
+        "unit": "px"
+      },
+      "$extensions": {
+        "vn.pancake.figma": {
+          "file": "aScl8gFsM1pWrd0atTwyJM",
+          "collection": "Dimension",
+          "variable": "space/100"
+        }
+      }
+    },
+    "125": {
+      "$type": "dimension",
+      "$value": {
+        "value": 10,
+        "unit": "px"
+      },
+      "$extensions": {
+        "vn.pancake.figma": {
+          "file": "aScl8gFsM1pWrd0atTwyJM",
+          "collection": "Dimension",
+          "variable": "space/125"
+        }
+      }
+    },
+    "150": {
+      "$type": "dimension",
+      "$value": {
+        "value": 12,
+        "unit": "px"
+      },
+      "$extensions": {
+        "vn.pancake.figma": {
+          "file": "aScl8gFsM1pWrd0atTwyJM",
+          "collection": "Dimension",
+          "variable": "space/150"
+        }
+      }
+    },
+    "200": {
+      "$type": "dimension",
+      "$value": {
+        "value": 16,
+        "unit": "px"
+      },
+      "$extensions": {
+        "vn.pancake.figma": {
+          "file": "aScl8gFsM1pWrd0atTwyJM",
+          "collection": "Dimension",
+          "variable": "space/200"
+        }
+      }
+    },
+    "250": {
+      "$type": "dimension",
+      "$value": {
+        "value": 20,
+        "unit": "px"
+      },
+      "$extensions": {
+        "vn.pancake.figma": {
+          "file": "aScl8gFsM1pWrd0atTwyJM",
+          "collection": "Dimension",
+          "variable": "space/250"
+        }
+      }
+    },
+    "300": {
+      "$type": "dimension",
+      "$value": {
+        "value": 24,
+        "unit": "px"
+      },
+      "$extensions": {
+        "vn.pancake.figma": {
+          "file": "aScl8gFsM1pWrd0atTwyJM",
+          "collection": "Dimension",
+          "variable": "space/300"
+        }
+      }
+    },
+    "400": {
+      "$type": "dimension",
+      "$value": {
+        "value": 32,
+        "unit": "px"
+      },
+      "$extensions": {
+        "vn.pancake.figma": {
+          "file": "aScl8gFsM1pWrd0atTwyJM",
+          "collection": "Dimension",
+          "variable": "space/400"
+        }
+      }
+    },
+    "500": {
+      "$type": "dimension",
+      "$value": {
+        "value": 40,
+        "unit": "px"
+      },
+      "$extensions": {
+        "vn.pancake.figma": {
+          "file": "aScl8gFsM1pWrd0atTwyJM",
+          "collection": "Dimension",
+          "variable": "space/500"
+        }
+      }
+    },
+    "600": {
+      "$type": "dimension",
+      "$value": {
+        "value": 48,
+        "unit": "px"
+      },
+      "$extensions": {
+        "vn.pancake.figma": {
+          "file": "aScl8gFsM1pWrd0atTwyJM",
+          "collection": "Dimension",
+          "variable": "space/600"
+        }
+      }
+    },
+    "800": {
+      "$type": "dimension",
+      "$value": {
+        "value": 64,
+        "unit": "px"
+      },
+      "$extensions": {
+        "vn.pancake.figma": {
+          "file": "aScl8gFsM1pWrd0atTwyJM",
+          "collection": "Dimension",
+          "variable": "space/800"
+        }
+      }
+    },
+    "025": {
+      "$type": "dimension",
+      "$value": {
+        "value": 2,
+        "unit": "px"
+      },
+      "$extensions": {
+        "vn.pancake.figma": {
+          "file": "aScl8gFsM1pWrd0atTwyJM",
+          "collection": "Dimension",
+          "variable": "space/025"
+        }
+      }
+    },
+    "050": {
+      "$type": "dimension",
+      "$value": {
+        "value": 4,
+        "unit": "px"
+      },
+      "$extensions": {
+        "vn.pancake.figma": {
+          "file": "aScl8gFsM1pWrd0atTwyJM",
+          "collection": "Dimension",
+          "variable": "space/050"
+        }
+      }
+    },
+    "075": {
+      "$type": "dimension",
+      "$value": {
+        "value": 6,
+        "unit": "px"
+      },
+      "$extensions": {
+        "vn.pancake.figma": {
+          "file": "aScl8gFsM1pWrd0atTwyJM",
+          "collection": "Dimension",
+          "variable": "space/075"
+        }
+      }
+    }
+  },
+  "radius": {
+    "none": {
+      "$type": "dimension",
+      "$value": {
+        "value": 0,
+        "unit": "px"
+      },
+      "$extensions": {
+        "vn.pancake.figma": {
+          "file": "aScl8gFsM1pWrd0atTwyJM",
+          "collection": "Dimension",
+          "variable": "radius/none"
+        }
+      }
+    },
+    "xxs": {
+      "$type": "dimension",
+      "$value": {
+        "value": 2,
+        "unit": "px"
+      },
+      "$extensions": {
+        "vn.pancake.figma": {
+          "file": "aScl8gFsM1pWrd0atTwyJM",
+          "collection": "Dimension",
+          "variable": "radius/xxs"
+        }
+      }
+    },
+    "xs": {
+      "$type": "dimension",
+      "$value": {
+        "value": 4,
+        "unit": "px"
+      },
+      "$extensions": {
+        "vn.pancake.figma": {
+          "file": "aScl8gFsM1pWrd0atTwyJM",
+          "collection": "Dimension",
+          "variable": "radius/xs"
+        }
+      }
+    },
+    "sm": {
+      "$type": "dimension",
+      "$value": {
+        "value": 6,
+        "unit": "px"
+      },
+      "$extensions": {
+        "vn.pancake.figma": {
+          "file": "aScl8gFsM1pWrd0atTwyJM",
+          "collection": "Dimension",
+          "variable": "radius/sm"
+        }
+      }
+    },
+    "md": {
+      "$type": "dimension",
+      "$value": {
+        "value": 8,
+        "unit": "px"
+      },
+      "$extensions": {
+        "vn.pancake.figma": {
+          "file": "aScl8gFsM1pWrd0atTwyJM",
+          "collection": "Dimension",
+          "variable": "radius/md"
+        }
+      }
+    },
+    "xl": {
+      "$type": "dimension",
+      "$value": {
+        "value": 12,
+        "unit": "px"
+      },
+      "$extensions": {
+        "vn.pancake.figma": {
+          "file": "aScl8gFsM1pWrd0atTwyJM",
+          "collection": "Dimension",
+          "variable": "radius/xl"
+        }
+      }
+    },
+    "xxl": {
+      "$type": "dimension",
+      "$value": {
+        "value": 16,
+        "unit": "px"
+      },
+      "$extensions": {
+        "vn.pancake.figma": {
+          "file": "aScl8gFsM1pWrd0atTwyJM",
+          "collection": "Dimension",
+          "variable": "radius/xxl"
+        }
+      }
+    },
+    "3xl": {
+      "$type": "dimension",
+      "$value": {
+        "value": 20,
+        "unit": "px"
+      },
+      "$extensions": {
+        "vn.pancake.figma": {
+          "file": "aScl8gFsM1pWrd0atTwyJM",
+          "collection": "Dimension",
+          "variable": "radius/3xl"
+        }
+      }
+    },
+    "rounded": {
+      "$type": "dimension",
+      "$value": {
+        "value": 999,
+        "unit": "px"
+      },
+      "$extensions": {
+        "vn.pancake.figma": {
+          "file": "aScl8gFsM1pWrd0atTwyJM",
+          "collection": "Dimension",
+          "variable": "radius/rounded"
+        }
+      }
+    }
+  },
+  "size": {
+    "control": {
+      "sm": {
+        "$type": "dimension",
+        "$value": {
+          "value": 24,
+          "unit": "px"
+        },
+        "$extensions": {
+          "vn.pancake.figma": {
+            "file": "aScl8gFsM1pWrd0atTwyJM",
+            "collection": "Dimension",
+            "variable": "size/control/sm"
+          }
+        }
+      },
+      "md": {
+        "$type": "dimension",
+        "$value": {
+          "value": 32,
+          "unit": "px"
+        },
+        "$extensions": {
+          "vn.pancake.figma": {
+            "file": "aScl8gFsM1pWrd0atTwyJM",
+            "collection": "Dimension",
+            "variable": "size/control/md"
+          }
+        }
+      },
+      "lg": {
+        "$type": "dimension",
+        "$value": {
+          "value": 40,
+          "unit": "px"
+        },
+        "$extensions": {
+          "vn.pancake.figma": {
+            "file": "aScl8gFsM1pWrd0atTwyJM",
+            "collection": "Dimension",
+            "variable": "size/control/lg"
+          }
+        }
+      }
+    },
+    "icon": {
+      "xs": {
+        "$type": "dimension",
+        "$value": {
+          "value": 12,
+          "unit": "px"
+        },
+        "$extensions": {
+          "vn.pancake.figma": {
+            "file": "aScl8gFsM1pWrd0atTwyJM",
+            "collection": "Dimension",
+            "variable": "size/icon/xs"
+          }
+        }
+      },
+      "sm": {
+        "$type": "dimension",
+        "$value": {
+          "value": 16,
+          "unit": "px"
+        },
+        "$extensions": {
+          "vn.pancake.figma": {
+            "file": "aScl8gFsM1pWrd0atTwyJM",
+            "collection": "Dimension",
+            "variable": "size/icon/sm"
+          }
+        }
+      },
+      "md": {
+        "$type": "dimension",
+        "$value": {
+          "value": 18,
+          "unit": "px"
+        },
+        "$extensions": {
+          "vn.pancake.figma": {
+            "file": "aScl8gFsM1pWrd0atTwyJM",
+            "collection": "Dimension",
+            "variable": "size/icon/md"
+          }
+        }
+      },
+      "lg": {
+        "$type": "dimension",
+        "$value": {
+          "value": 20,
+          "unit": "px"
+        },
+        "$extensions": {
+          "vn.pancake.figma": {
+            "file": "aScl8gFsM1pWrd0atTwyJM",
+            "collection": "Dimension",
+            "variable": "size/icon/lg"
+          }
+        }
+      },
+      "xl": {
+        "$type": "dimension",
+        "$value": {
+          "value": 24,
+          "unit": "px"
+        },
+        "$extensions": {
+          "vn.pancake.figma": {
+            "file": "aScl8gFsM1pWrd0atTwyJM",
+            "collection": "Dimension",
+            "variable": "size/icon/xl"
+          }
+        }
+      }
+    },
+    "checkbox": {
+      "md": {
+        "$type": "dimension",
+        "$value": {
+          "value": 16,
+          "unit": "px"
+        },
+        "$extensions": {
+          "vn.pancake.figma": {
+            "file": "aScl8gFsM1pWrd0atTwyJM",
+            "collection": "Dimension",
+            "variable": "size/checkbox/md"
+          }
+        }
+      },
+      "lg": {
+        "$type": "dimension",
+        "$value": {
+          "value": 20,
+          "unit": "px"
+        },
+        "$extensions": {
+          "vn.pancake.figma": {
+            "file": "aScl8gFsM1pWrd0atTwyJM",
+            "collection": "Dimension",
+            "variable": "size/checkbox/lg"
+          }
+        }
+      }
+    },
+    "switch": {
+      "width": {
+        "$type": "dimension",
+        "$value": {
+          "value": 40,
+          "unit": "px"
+        },
+        "$extensions": {
+          "vn.pancake.figma": {
+            "file": "aScl8gFsM1pWrd0atTwyJM",
+            "collection": "Dimension",
+            "variable": "size/switch/width"
+          }
+        }
+      },
+      "height": {
+        "$type": "dimension",
+        "$value": {
+          "value": 22,
+          "unit": "px"
+        },
+        "$extensions": {
+          "vn.pancake.figma": {
+            "file": "aScl8gFsM1pWrd0atTwyJM",
+            "collection": "Dimension",
+            "variable": "size/switch/height"
+          }
+        }
+      }
+    },
+    "badge": {
+      "sm": {
+        "$type": "dimension",
+        "$value": {
+          "value": 16,
+          "unit": "px"
+        },
+        "$extensions": {
+          "vn.pancake.figma": {
+            "file": "aScl8gFsM1pWrd0atTwyJM",
+            "collection": "Dimension",
+            "variable": "size/badge/sm"
+          }
+        }
+      },
+      "md": {
+        "$type": "dimension",
+        "$value": {
+          "value": 20,
+          "unit": "px"
+        },
+        "$extensions": {
+          "vn.pancake.figma": {
+            "file": "aScl8gFsM1pWrd0atTwyJM",
+            "collection": "Dimension",
+            "variable": "size/badge/md"
+          }
+        }
+      }
+    },
+    "dot": {
+      "$type": "dimension",
+      "$value": {
+        "value": 6,
+        "unit": "px"
+      },
+      "$extensions": {
+        "vn.pancake.figma": {
+          "file": "aScl8gFsM1pWrd0atTwyJM",
+          "collection": "Dimension",
+          "variable": "size/dot"
+        }
+      }
+    },
+    "tag": {
+      "$type": "dimension",
+      "$value": {
+        "value": 24,
+        "unit": "px"
+      },
+      "$extensions": {
+        "vn.pancake.figma": {
+          "file": "aScl8gFsM1pWrd0atTwyJM",
+          "collection": "Dimension",
+          "variable": "size/tag"
+        }
+      }
+    },
+    "menu-item": {
+      "$type": "dimension",
+      "$value": {
+        "value": 32,
+        "unit": "px"
+      },
+      "$extensions": {
+        "vn.pancake.figma": {
+          "file": "aScl8gFsM1pWrd0atTwyJM",
+          "collection": "Dimension",
+          "variable": "size/menu-item"
+        }
+      }
+    },
+    "table": {
+      "header": {
+        "$type": "dimension",
+        "$value": {
+          "value": 48,
+          "unit": "px"
+        },
+        "$extensions": {
+          "vn.pancake.figma": {
+            "file": "aScl8gFsM1pWrd0atTwyJM",
+            "collection": "Dimension",
+            "variable": "size/table/header"
+          }
+        }
+      },
+      "row": {
+        "$type": "dimension",
+        "$value": {
+          "value": 48,
+          "unit": "px"
+        },
+        "$extensions": {
+          "vn.pancake.figma": {
+            "file": "aScl8gFsM1pWrd0atTwyJM",
+            "collection": "Dimension",
+            "variable": "size/table/row"
+          }
+        }
+      }
+    },
+    "tabs": {
+      "sm": {
+        "$type": "dimension",
+        "$value": {
+          "value": 38,
+          "unit": "px"
+        },
+        "$extensions": {
+          "vn.pancake.figma": {
+            "file": "aScl8gFsM1pWrd0atTwyJM",
+            "collection": "Dimension",
+            "variable": "size/tabs/sm"
+          }
+        }
+      },
+      "md": {
+        "$type": "dimension",
+        "$value": {
+          "value": 46,
+          "unit": "px"
+        },
+        "$extensions": {
+          "vn.pancake.figma": {
+            "file": "aScl8gFsM1pWrd0atTwyJM",
+            "collection": "Dimension",
+            "variable": "size/tabs/md"
+          }
+        }
+      },
+      "lg": {
+        "$type": "dimension",
+        "$value": {
+          "value": 56,
+          "unit": "px"
+        },
+        "$extensions": {
+          "vn.pancake.figma": {
+            "file": "aScl8gFsM1pWrd0atTwyJM",
+            "collection": "Dimension",
+            "variable": "size/tabs/lg"
+          }
+        }
+      }
+    },
+    "segmented": {
+      "sm": {
+        "$type": "dimension",
+        "$value": {
+          "value": 26,
+          "unit": "px"
+        },
+        "$extensions": {
+          "vn.pancake.figma": {
+            "file": "aScl8gFsM1pWrd0atTwyJM",
+            "collection": "Dimension",
+            "variable": "size/segmented/sm"
+          }
+        }
+      },
+      "md": {
+        "$type": "dimension",
+        "$value": {
+          "value": 34,
+          "unit": "px"
+        },
+        "$extensions": {
+          "vn.pancake.figma": {
+            "file": "aScl8gFsM1pWrd0atTwyJM",
+            "collection": "Dimension",
+            "variable": "size/segmented/md"
+          }
+        }
+      },
+      "lg": {
+        "$type": "dimension",
+        "$value": {
+          "value": 40,
+          "unit": "px"
+        },
+        "$extensions": {
+          "vn.pancake.figma": {
+            "file": "aScl8gFsM1pWrd0atTwyJM",
+            "collection": "Dimension",
+            "variable": "size/segmented/lg"
+          }
+        }
+      }
+    },
+    "sidebar-icon": {
+      "$type": "dimension",
+      "$value": {
+        "value": 52,
+        "unit": "px"
+      },
+      "$extensions": {
+        "vn.pancake.figma": {
+          "file": "aScl8gFsM1pWrd0atTwyJM",
+          "collection": "Dimension",
+          "variable": "size/sidebar-icon"
+        }
+      }
+    },
+    "dropdown": {
+      "width": {
+        "$type": "dimension",
+        "$value": {
+          "value": 210,
+          "unit": "px"
+        },
+        "$extensions": {
+          "vn.pancake.figma": {
+            "file": "aScl8gFsM1pWrd0atTwyJM",
+            "collection": "Dimension",
+            "variable": "size/dropdown/width"
+          }
+        }
+      }
+    },
+    "tooltip": {
+      "max": {
+        "$type": "dimension",
+        "$value": {
+          "value": 328,
+          "unit": "px"
+        },
+        "$extensions": {
+          "vn.pancake.figma": {
+            "file": "aScl8gFsM1pWrd0atTwyJM",
+            "collection": "Dimension",
+            "variable": "size/tooltip/max"
+          }
+        }
+      }
+    },
+    "popover": {
+      "width": {
+        "$type": "dimension",
+        "$value": {
+          "value": 432,
+          "unit": "px"
+        },
+        "$extensions": {
+          "vn.pancake.figma": {
+            "file": "aScl8gFsM1pWrd0atTwyJM",
+            "collection": "Dimension",
+            "variable": "size/popover/width"
+          }
+        }
+      }
+    },
+    "modal": {
+      "confirm": {
+        "$type": "dimension",
+        "$value": {
+          "value": 500,
+          "unit": "px"
+        },
+        "$extensions": {
+          "vn.pancake.figma": {
+            "file": "aScl8gFsM1pWrd0atTwyJM",
+            "collection": "Dimension",
+            "variable": "size/modal/confirm"
+          }
+        }
+      },
+      "md": {
+        "$type": "dimension",
+        "$value": {
+          "value": 883,
+          "unit": "px"
+        },
+        "$extensions": {
+          "vn.pancake.figma": {
+            "file": "aScl8gFsM1pWrd0atTwyJM",
+            "collection": "Dimension",
+            "variable": "size/modal/md"
+          }
+        }
+      }
+    },
+    "drawer": {
+      "md": {
+        "$type": "dimension",
+        "$value": {
+          "value": 760,
+          "unit": "px"
+        },
+        "$extensions": {
+          "vn.pancake.figma": {
+            "file": "aScl8gFsM1pWrd0atTwyJM",
+            "collection": "Dimension",
+            "variable": "size/drawer/md"
+          }
+        }
+      }
+    },
+    "kbd": {
+      "sm": {
+        "$type": "dimension",
+        "$value": {
+          "value": 18,
+          "unit": "px"
+        },
+        "$extensions": {
+          "vn.pancake.figma": {
+            "file": "aScl8gFsM1pWrd0atTwyJM",
+            "collection": "Dimension",
+            "variable": "size/kbd/sm"
+          }
+        }
+      },
+      "md": {
+        "$type": "dimension",
+        "$value": {
+          "value": 22,
+          "unit": "px"
+        },
+        "$extensions": {
+          "vn.pancake.figma": {
+            "file": "aScl8gFsM1pWrd0atTwyJM",
+            "collection": "Dimension",
+            "variable": "size/kbd/md"
+          }
+        }
+      }
+    }
+  },
+  "border-width": {
+    "default": {
+      "$type": "dimension",
+      "$value": {
+        "value": 1,
+        "unit": "px"
+      },
+      "$extensions": {
+        "vn.pancake.figma": {
+          "file": "aScl8gFsM1pWrd0atTwyJM",
+          "collection": "Dimension",
+          "variable": "border-width/default"
+        }
+      }
+    },
+    "indicator": {
+      "$type": "dimension",
+      "$value": {
+        "value": 2,
+        "unit": "px"
+      },
+      "$extensions": {
+        "vn.pancake.figma": {
+          "file": "aScl8gFsM1pWrd0atTwyJM",
+          "collection": "Dimension",
+          "variable": "border-width/indicator"
+        }
+      }
+    },
+    "accent": {
+      "$type": "dimension",
+      "$value": {
+        "value": 4,
+        "unit": "px"
+      },
+      "$extensions": {
+        "vn.pancake.figma": {
+          "file": "aScl8gFsM1pWrd0atTwyJM",
+          "collection": "Dimension",
+          "variable": "border-width/accent"
+        }
+      }
+    }
+  },
+  "font": {
+    "weight": {
+      "regular": {
+        "$type": "fontWeight",
+        "$value": 400,
+        "$extensions": {
+          "vn.pancake.figma": {
+            "file": "aScl8gFsM1pWrd0atTwyJM",
+            "collection": "Dimension",
+            "variable": "font/weight/regular"
+          }
+        }
+      },
+      "medium": {
+        "$type": "fontWeight",
+        "$value": 500,
+        "$extensions": {
+          "vn.pancake.figma": {
+            "file": "aScl8gFsM1pWrd0atTwyJM",
+            "collection": "Dimension",
+            "variable": "font/weight/medium"
+          }
+        }
+      },
+      "bold": {
+        "$type": "fontWeight",
+        "$value": 700,
+        "$extensions": {
+          "vn.pancake.figma": {
+            "file": "aScl8gFsM1pWrd0atTwyJM",
+            "collection": "Dimension",
+            "variable": "font/weight/bold"
+          }
+        }
+      }
+    },
+    "heading": {
+      "2xl": {
+        "size": {
+          "$type": "dimension",
+          "$value": {
+            "value": 46,
+            "unit": "px"
+          },
+          "$extensions": {
+            "vn.pancake.figma": {
+              "file": "aScl8gFsM1pWrd0atTwyJM",
+              "collection": "Dimension",
+              "variable": "font/heading/2xl/size"
+            }
+          }
+        },
+        "line-height": {
+          "$type": "dimension",
+          "$value": {
+            "value": 54,
+            "unit": "px"
+          },
+          "$extensions": {
+            "vn.pancake.figma": {
+              "file": "aScl8gFsM1pWrd0atTwyJM",
+              "collection": "Dimension",
+              "variable": "font/heading/2xl/line-height"
+            }
+          }
+        }
+      },
+      "xl": {
+        "size": {
+          "$type": "dimension",
+          "$value": {
+            "value": 38,
+            "unit": "px"
+          },
+          "$extensions": {
+            "vn.pancake.figma": {
+              "file": "aScl8gFsM1pWrd0atTwyJM",
+              "collection": "Dimension",
+              "variable": "font/heading/xl/size"
+            }
+          }
+        },
+        "line-height": {
+          "$type": "dimension",
+          "$value": {
+            "value": 46,
+            "unit": "px"
+          },
+          "$extensions": {
+            "vn.pancake.figma": {
+              "file": "aScl8gFsM1pWrd0atTwyJM",
+              "collection": "Dimension",
+              "variable": "font/heading/xl/line-height"
+            }
+          }
+        }
+      },
+      "lg": {
+        "size": {
+          "$type": "dimension",
+          "$value": {
+            "value": 30,
+            "unit": "px"
+          },
+          "$extensions": {
+            "vn.pancake.figma": {
+              "file": "aScl8gFsM1pWrd0atTwyJM",
+              "collection": "Dimension",
+              "variable": "font/heading/lg/size"
+            }
+          }
+        },
+        "line-height": {
+          "$type": "dimension",
+          "$value": {
+            "value": 40,
+            "unit": "px"
+          },
+          "$extensions": {
+            "vn.pancake.figma": {
+              "file": "aScl8gFsM1pWrd0atTwyJM",
+              "collection": "Dimension",
+              "variable": "font/heading/lg/line-height"
+            }
+          }
+        }
+      },
+      "md": {
+        "size": {
+          "$type": "dimension",
+          "$value": {
+            "value": 24,
+            "unit": "px"
+          },
+          "$extensions": {
+            "vn.pancake.figma": {
+              "file": "aScl8gFsM1pWrd0atTwyJM",
+              "collection": "Dimension",
+              "variable": "font/heading/md/size"
+            }
+          }
+        },
+        "line-height": {
+          "$type": "dimension",
+          "$value": {
+            "value": 32,
+            "unit": "px"
+          },
+          "$extensions": {
+            "vn.pancake.figma": {
+              "file": "aScl8gFsM1pWrd0atTwyJM",
+              "collection": "Dimension",
+              "variable": "font/heading/md/line-height"
+            }
+          }
+        }
+      },
+      "sm": {
+        "size": {
+          "$type": "dimension",
+          "$value": {
+            "value": 20,
+            "unit": "px"
+          },
+          "$extensions": {
+            "vn.pancake.figma": {
+              "file": "aScl8gFsM1pWrd0atTwyJM",
+              "collection": "Dimension",
+              "variable": "font/heading/sm/size"
+            }
+          }
+        },
+        "line-height": {
+          "$type": "dimension",
+          "$value": {
+            "value": 28,
+            "unit": "px"
+          },
+          "$extensions": {
+            "vn.pancake.figma": {
+              "file": "aScl8gFsM1pWrd0atTwyJM",
+              "collection": "Dimension",
+              "variable": "font/heading/sm/line-height"
+            }
+          }
+        }
+      },
+      "xs": {
+        "size": {
+          "$type": "dimension",
+          "$value": {
+            "value": 16,
+            "unit": "px"
+          },
+          "$extensions": {
+            "vn.pancake.figma": {
+              "file": "aScl8gFsM1pWrd0atTwyJM",
+              "collection": "Dimension",
+              "variable": "font/heading/xs/size"
+            }
+          }
+        },
+        "line-height": {
+          "$type": "dimension",
+          "$value": {
+            "value": 24,
+            "unit": "px"
+          },
+          "$extensions": {
+            "vn.pancake.figma": {
+              "file": "aScl8gFsM1pWrd0atTwyJM",
+              "collection": "Dimension",
+              "variable": "font/heading/xs/line-height"
+            }
+          }
+        }
+      }
+    },
+    "body": {
+      "md": {
+        "size": {
+          "$type": "dimension",
+          "$value": {
+            "value": 14,
+            "unit": "px"
+          },
+          "$extensions": {
+            "vn.pancake.figma": {
+              "file": "aScl8gFsM1pWrd0atTwyJM",
+              "collection": "Dimension",
+              "variable": "font/body/md/size"
+            }
+          }
+        },
+        "line-height": {
+          "$type": "dimension",
+          "$value": {
+            "value": 22,
+            "unit": "px"
+          },
+          "$extensions": {
+            "vn.pancake.figma": {
+              "file": "aScl8gFsM1pWrd0atTwyJM",
+              "collection": "Dimension",
+              "variable": "font/body/md/line-height"
+            }
+          }
+        }
+      },
+      "sm": {
+        "size": {
+          "$type": "dimension",
+          "$value": {
+            "value": 12,
+            "unit": "px"
+          },
+          "$extensions": {
+            "vn.pancake.figma": {
+              "file": "aScl8gFsM1pWrd0atTwyJM",
+              "collection": "Dimension",
+              "variable": "font/body/sm/size"
+            }
+          }
+        },
+        "line-height": {
+          "$type": "dimension",
+          "$value": {
+            "value": 16,
+            "unit": "px"
+          },
+          "$extensions": {
+            "vn.pancake.figma": {
+              "file": "aScl8gFsM1pWrd0atTwyJM",
+              "collection": "Dimension",
+              "variable": "font/body/sm/line-height"
+            }
+          }
+        }
+      }
+    },
+    "code": {
+      "md": {
+        "size": {
+          "$type": "dimension",
+          "$value": {
+            "value": 14,
+            "unit": "px"
+          },
+          "$extensions": {
+            "vn.pancake.figma": {
+              "file": "aScl8gFsM1pWrd0atTwyJM",
+              "collection": "Dimension",
+              "variable": "font/code/md/size"
+            }
+          }
+        },
+        "line-height": {
+          "$type": "dimension",
+          "$value": {
+            "value": 22,
+            "unit": "px"
+          },
+          "$extensions": {
+            "vn.pancake.figma": {
+              "file": "aScl8gFsM1pWrd0atTwyJM",
+              "collection": "Dimension",
+              "variable": "font/code/md/line-height"
+            }
+          }
+        }
+      },
+      "sm": {
+        "size": {
+          "$type": "dimension",
+          "$value": {
+            "value": 12,
+            "unit": "px"
+          },
+          "$extensions": {
+            "vn.pancake.figma": {
+              "file": "aScl8gFsM1pWrd0atTwyJM",
+              "collection": "Dimension",
+              "variable": "font/code/sm/size"
+            }
+          }
+        },
+        "line-height": {
+          "$type": "dimension",
+          "$value": {
+            "value": 16,
+            "unit": "px"
+          },
+          "$extensions": {
+            "vn.pancake.figma": {
+              "file": "aScl8gFsM1pWrd0atTwyJM",
+              "collection": "Dimension",
+              "variable": "font/code/sm/line-height"
+            }
+          }
+        }
+      }
+    },
+    "dense": {
+      "md": {
+        "size": {
+          "$type": "dimension",
+          "$value": {
+            "value": 13,
+            "unit": "px"
+          },
+          "$extensions": {
+            "vn.pancake.figma": {
+              "file": "aScl8gFsM1pWrd0atTwyJM",
+              "collection": "Dimension",
+              "variable": "font/dense/md/size"
+            }
+          }
+        },
+        "line-height": {
+          "$type": "dimension",
+          "$value": {
+            "value": 20,
+            "unit": "px"
+          },
+          "$extensions": {
+            "vn.pancake.figma": {
+              "file": "aScl8gFsM1pWrd0atTwyJM",
+              "collection": "Dimension",
+              "variable": "font/dense/md/line-height"
+            }
+          }
+        }
+      },
+      "sm": {
+        "size": {
+          "$type": "dimension",
+          "$value": {
+            "value": 11,
+            "unit": "px"
+          },
+          "$extensions": {
+            "vn.pancake.figma": {
+              "file": "aScl8gFsM1pWrd0atTwyJM",
+              "collection": "Dimension",
+              "variable": "font/dense/sm/size"
+            }
+          }
+        },
+        "line-height": {
+          "$type": "dimension",
+          "$value": {
+            "value": 16,
+            "unit": "px"
+          },
+          "$extensions": {
+            "vn.pancake.figma": {
+              "file": "aScl8gFsM1pWrd0atTwyJM",
+              "collection": "Dimension",
+              "variable": "font/dense/sm/line-height"
+            }
+          }
+        }
+      },
+      "xs": {
+        "size": {
+          "$type": "dimension",
+          "$value": {
+            "value": 10,
+            "unit": "px"
+          },
+          "$extensions": {
+            "vn.pancake.figma": {
+              "file": "aScl8gFsM1pWrd0atTwyJM",
+              "collection": "Dimension",
+              "variable": "font/dense/xs/size"
+            }
+          }
+        },
+        "line-height": {
+          "$type": "dimension",
+          "$value": {
+            "value": 14,
+            "unit": "px"
+          },
+          "$extensions": {
+            "vn.pancake.figma": {
+              "file": "aScl8gFsM1pWrd0atTwyJM",
+              "collection": "Dimension",
+              "variable": "font/dense/xs/line-height"
+            }
+          }
+        }
+      }
+    },
+    "family": {
+      "sans": {
+        "$type": "fontFamily",
+        "$value": "Roboto",
+        "$extensions": {
+          "vn.pancake.figma": {
+            "file": "aScl8gFsM1pWrd0atTwyJM",
+            "collection": "Dimension",
+            "variable": "font/family/sans"
+          }
+        }
+      },
+      "mono": {
+        "$type": "fontFamily",
+        "$value": "Roboto Mono",
+        "$extensions": {
+          "vn.pancake.figma": {
+            "file": "aScl8gFsM1pWrd0atTwyJM",
+            "collection": "Dimension",
+            "variable": "font/family/mono"
+          }
+        }
+      }
+    }
+  }
+}

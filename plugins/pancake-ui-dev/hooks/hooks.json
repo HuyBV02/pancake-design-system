@@ -1,0 +1,13 @@
+{
+  "description": "Soát Design System Pancake sau mỗi lần AI ghi / sửa file giao diện",
+  "hooks": {
+    "PostToolUse": [
+      {
+        "matcher": "Write|Edit|MultiEdit",
+        "hooks": [
+          { "type": "command", "command": "node \"${CLAUDE_PLUGIN_ROOT}/hooks/check-ui.mjs\"", "timeout": 15 }
+        ]
+      }
+    ]
+  }
+}

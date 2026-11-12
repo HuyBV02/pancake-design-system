@@ -1,0 +1,43 @@
+#TEXT name|family|style|size|lineHeight|letterSpacing
+H0 - 46/Light|Roboto|Light|46|54|0
+H0 - 46/Bold|Roboto|Bold|46|54|0
+H1 - 38/Regular|Roboto|Regular|38|46|0
+H1 - 38/Medium|Roboto|Medium|38|46|0
+H1 - 38/Bold|Roboto|Bold|38|46|0
+H2 - 30/Regular|Roboto|Regular|30|40|0
+H2 - 30/Medium|Roboto|Medium|30|40|0
+H2 - 30/Bold|Roboto|Bold|30|40|0
+H3 - 24/Regular|Roboto|Regular|24|32|0
+H3 - 24/Medium|Roboto|Medium|24|32|0
+H3 - 24/Bold|Roboto|Bold|24|32|0
+H4 - 20/Regular|Roboto|Regular|20|28|0
+H4 - 20/Medium|Roboto|Medium|20|28|0
+H4 - 20/Bold|Roboto|Bold|20|28|0
+Title 16/Regular|Roboto|Regular|16|24|0
+Title 16/Medium|Roboto|Medium|16|24|0
+Title 16/Bold|Roboto|Bold|16|24|0
+Body 14/Regular|Roboto|Regular|14|22|0
+Body 14/Medium|Roboto|Medium|14|22|0
+Body 14/Bold|Roboto|Bold|14|22|0
+Body 14/Regular-underline|Roboto|Regular|14|22|0
+Body 14/Regular-strikethrough|Roboto|Regular|14|22|0
+Body 14/Code|Roboto Mono|Regular|14|22|0
+Footnote 12/Regular|Roboto|Regular|12|16|0
+Footnote 12/Medium|Roboto|Medium|12|16|0
+Footnote 12/Bold|Roboto|Bold|12|16|0
+Footnote 12/System-monospace|Roboto Mono|Regular|12|16|0
+Dense 13/Regular|Roboto|Regular|13|20|0
+Dense 13/Medium|Roboto|Medium|13|20|0
+Dense 11/Regular|Roboto|Regular|11|16|0
+Dense 11/Medium|Roboto|Medium|11|16|0
+Dense 10/Regular|Roboto|Regular|10|14|0
+Dense 10/Medium|Roboto|Medium|10|14|0
+#EFFECT name|json
+Drop-Shadow/0.15|[{"t":"DROP_SHADOW","c":"#00000026","x":0,"y":2,"b":8,"s":0}]
+Drop-Shadow/0.12+0.8+0.5|[{"t":"DROP_SHADOW","c":"#0000000d","x":0,"y":9,"b":28,"s":8},{"t":"DROP_SHADOW","c":"#00000014","x":0,"y":6,"b":16,"s":0},{"t":"DROP_SHADOW","c":"#0000001f","x":0,"y":3,"b":6,"s":-4}]
+Drop-Shadow/button-primary|[{"t":"DROP_SHADOW","c":"#0000000b","x":0,"y":2,"b":0,"s":0}]
+Drop-Shadow/button-secondary|[{"t":"DROP_SHADOW","c":"#00000004","x":0,"y":2,"b":0,"s":0}]
+Background blur/sm|[{"t":"BACKGROUND_BLUR","r":8}]
+Background blur/md|[{"t":"BACKGROUND_BLUR","r":16}]
+Background blur/lg|[{"t":"BACKGROUND_BLUR","r":24}]
+Background blur/xl|[{"t":"BACKGROUND_BLUR","r":40}]

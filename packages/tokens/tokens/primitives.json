@@ -1,0 +1,1776 @@
+{
+  "gray": {
+    "0": {
+      "$type": "color",
+      "$value": "#ffffff",
+      "$extensions": {
+        "vn.pancake.figma": {
+          "file": "aScl8gFsM1pWrd0atTwyJM",
+          "collection": "Primitives",
+          "variable": "gray/0"
+        }
+      }
+    },
+    "50": {
+      "$type": "color",
+      "$value": "#f9fafb",
+      "$extensions": {
+        "vn.pancake.figma": {
+          "file": "aScl8gFsM1pWrd0atTwyJM",
+          "collection": "Primitives",
+          "variable": "gray/50"
+        }
+      }
+    },
+    "100": {
+      "$type": "color",
+      "$value": "#f2f4f7",
+      "$extensions": {
+        "vn.pancake.figma": {
+          "file": "aScl8gFsM1pWrd0atTwyJM",
+          "collection": "Primitives",
+          "variable": "gray/100"
+        }
+      }
+    },
+    "150": {
+      "$type": "color",
+      "$value": "#ecedf4",
+      "$extensions": {
+        "vn.pancake.figma": {
+          "file": "aScl8gFsM1pWrd0atTwyJM",
+          "collection": "Primitives",
+          "variable": "gray/150"
+        }
+      }
+    },
+    "200": {
+      "$type": "color",
+      "$value": "#eaecf0",
+      "$extensions": {
+        "vn.pancake.figma": {
+          "file": "aScl8gFsM1pWrd0atTwyJM",
+          "collection": "Primitives",
+          "variable": "gray/200"
+        }
+      }
+    },
+    "250": {
+      "$type": "color",
+      "$value": "#dde1e7",
+      "$extensions": {
+        "vn.pancake.figma": {
+          "file": "aScl8gFsM1pWrd0atTwyJM",
+          "collection": "Primitives",
+          "variable": "gray/250"
+        }
+      }
+    },
+    "300": {
+      "$type": "color",
+      "$value": "#d0d5dd",
+      "$extensions": {
+        "vn.pancake.figma": {
+          "file": "aScl8gFsM1pWrd0atTwyJM",
+          "collection": "Primitives",
+          "variable": "gray/300"
+        }
+      }
+    },
+    "400": {
+      "$type": "color",
+      "$value": "#98a2b3",
+      "$extensions": {
+        "vn.pancake.figma": {
+          "file": "aScl8gFsM1pWrd0atTwyJM",
+          "collection": "Primitives",
+          "variable": "gray/400"
+        }
+      }
+    },
+    "500": {
+      "$type": "color",
+      "$value": "#667085",
+      "$extensions": {
+        "vn.pancake.figma": {
+          "file": "aScl8gFsM1pWrd0atTwyJM",
+          "collection": "Primitives",
+          "variable": "gray/500"
+        }
+      }
+    },
+    "600": {
+      "$type": "color",
+      "$value": "#475467",
+      "$extensions": {
+        "vn.pancake.figma": {
+          "file": "aScl8gFsM1pWrd0atTwyJM",
+          "collection": "Primitives",
+          "variable": "gray/600"
+        }
+      }
+    },
+    "700": {
+      "$type": "color",
+      "$value": "#344054",
+      "$extensions": {
+        "vn.pancake.figma": {
+          "file": "aScl8gFsM1pWrd0atTwyJM",
+          "collection": "Primitives",
+          "variable": "gray/700"
+        }
+      }
+    },
+    "800": {
+      "$type": "color",
+      "$value": "#1d2939",
+      "$extensions": {
+        "vn.pancake.figma": {
+          "file": "aScl8gFsM1pWrd0atTwyJM",
+          "collection": "Primitives",
+          "variable": "gray/800"
+        }
+      }
+    },
+    "900": {
+      "$type": "color",
+      "$value": "#101828",
+      "$extensions": {
+        "vn.pancake.figma": {
+          "file": "aScl8gFsM1pWrd0atTwyJM",
+          "collection": "Primitives",
+          "variable": "gray/900"
+        }
+      }
+    },
+    "1000": {
+      "$type": "color",
+      "$value": "#000000",
+      "$extensions": {
+        "vn.pancake.figma": {
+          "file": "aScl8gFsM1pWrd0atTwyJM",
+          "collection": "Primitives",
+          "variable": "gray/1000"
+        }
+      }
+    }
+  },
+  "blue": {
+    "50": {
+      "$type": "color",
+      "$value": "#e2f2ff",
+      "$extensions": {
+        "vn.pancake.figma": {
+          "file": "aScl8gFsM1pWrd0atTwyJM",
+          "collection": "Primitives",
+          "variable": "blue/50"
+        }
+      }
+    },
+    "100": {
+      "$type": "color",
+      "$value": "#d2ebff",
+      "$extensions": {
+        "vn.pancake.figma": {
+          "file": "aScl8gFsM1pWrd0atTwyJM",
+          "collection": "Primitives",
+          "variable": "blue/100"
+        }
+      }
+    },
+    "200": {
+      "$type": "color",
+      "$value": "#bae0ff",
+      "$extensions": {
+        "vn.pancake.figma": {
+          "file": "aScl8gFsM1pWrd0atTwyJM",
+          "collection": "Primitives",
+          "variable": "blue/200"
+        }
+      }
+    },
+    "300": {
+      "$type": "color",
+      "$value": "#91caff",
+      "$extensions": {
+        "vn.pancake.figma": {
+          "file": "aScl8gFsM1pWrd0atTwyJM",
+          "collection": "Primitives",
+          "variable": "blue/300"
+        }
+      }
+    },
+    "400": {
+      "$type": "color",
+      "$value": "#69b1ff",
+      "$extensions": {
+        "vn.pancake.figma": {
+          "file": "aScl8gFsM1pWrd0atTwyJM",
+          "collection": "Primitives",
+          "variable": "blue/400"
+        }
+      }
+    },
+    "500": {
+      "$type": "color",
+      "$value": "#4096ff",
+      "$extensions": {
+        "vn.pancake.figma": {
+          "file": "aScl8gFsM1pWrd0atTwyJM",
+          "collection": "Primitives",
+          "variable": "blue/500"
+        }
+      }
+    },
+    "600": {
+      "$type": "color",
+      "$value": "#1677ff",
+      "$extensions": {
+        "vn.pancake.figma": {
+          "file": "aScl8gFsM1pWrd0atTwyJM",
+          "collection": "Primitives",
+          "variable": "blue/600"
+        }
+      }
+    },
+    "700": {
+      "$type": "color",
+      "$value": "#105ce2",
+      "$extensions": {
+        "vn.pancake.figma": {
+          "file": "aScl8gFsM1pWrd0atTwyJM",
+          "collection": "Primitives",
+          "variable": "blue/700"
+        }
+      }
+    },
+    "800": {
+      "$type": "color",
+      "$value": "#003eb3",
+      "$extensions": {
+        "vn.pancake.figma": {
+          "file": "aScl8gFsM1pWrd0atTwyJM",
+          "collection": "Primitives",
+          "variable": "blue/800"
+        }
+      }
+    },
+    "900": {
+      "$type": "color",
+      "$value": "#002c8c",
+      "$extensions": {
+        "vn.pancake.figma": {
+          "file": "aScl8gFsM1pWrd0atTwyJM",
+          "collection": "Primitives",
+          "variable": "blue/900"
+        }
+      }
+    },
+    "950": {
+      "$type": "color",
+      "$value": "#001d66",
+      "$extensions": {
+        "vn.pancake.figma": {
+          "file": "aScl8gFsM1pWrd0atTwyJM",
+          "collection": "Primitives",
+          "variable": "blue/950"
+        }
+      }
+    }
+  },
+  "crimson": {
+    "50": {
+      "$type": "color",
+      "$value": "#f8e3e8",
+      "$extensions": {
+        "vn.pancake.figma": {
+          "file": "aScl8gFsM1pWrd0atTwyJM",
+          "collection": "Primitives",
+          "variable": "crimson/50"
+        }
+      }
+    },
+    "100": {
+      "$type": "color",
+      "$value": "#fee4e2",
+      "$extensions": {
+        "vn.pancake.figma": {
+          "file": "aScl8gFsM1pWrd0atTwyJM",
+          "collection": "Primitives",
+          "variable": "crimson/100"
+        }
+      }
+    },
+    "200": {
+      "$type": "color",
+      "$value": "#f8d3d0",
+      "$extensions": {
+        "vn.pancake.figma": {
+          "file": "aScl8gFsM1pWrd0atTwyJM",
+          "collection": "Primitives",
+          "variable": "crimson/200"
+        }
+      }
+    },
+    "300": {
+      "$type": "color",
+      "$value": "#f6bdb9",
+      "$extensions": {
+        "vn.pancake.figma": {
+          "file": "aScl8gFsM1pWrd0atTwyJM",
+          "collection": "Primitives",
+          "variable": "crimson/300"
+        }
+      }
+    },
+    "500": {
+      "$type": "color",
+      "$value": "#d87486",
+      "$extensions": {
+        "vn.pancake.figma": {
+          "file": "aScl8gFsM1pWrd0atTwyJM",
+          "collection": "Primitives",
+          "variable": "crimson/500"
+        }
+      }
+    },
+    "600": {
+      "$type": "color",
+      "$value": "#c9405a",
+      "$extensions": {
+        "vn.pancake.figma": {
+          "file": "aScl8gFsM1pWrd0atTwyJM",
+          "collection": "Primitives",
+          "variable": "crimson/600"
+        }
+      }
+    }
+  },
+  "slate": {
+    "400": {
+      "$type": "color",
+      "$value": "#8496b4",
+      "$extensions": {
+        "vn.pancake.figma": {
+          "file": "aScl8gFsM1pWrd0atTwyJM",
+          "collection": "Primitives",
+          "variable": "slate/400"
+        }
+      }
+    }
+  },
+  "beige": {
+    "100": {
+      "$type": "color",
+      "$value": "#ede8e2",
+      "$extensions": {
+        "vn.pancake.figma": {
+          "file": "aScl8gFsM1pWrd0atTwyJM",
+          "collection": "Primitives",
+          "variable": "beige/100"
+        }
+      }
+    },
+    "200": {
+      "$type": "color",
+      "$value": "#e5ded8",
+      "$extensions": {
+        "vn.pancake.figma": {
+          "file": "aScl8gFsM1pWrd0atTwyJM",
+          "collection": "Primitives",
+          "variable": "beige/200"
+        }
+      }
+    }
+  },
+  "teal": {
+    "50": {
+      "$type": "color",
+      "$value": "#e5fdff",
+      "$extensions": {
+        "vn.pancake.figma": {
+          "file": "aScl8gFsM1pWrd0atTwyJM",
+          "collection": "Primitives",
+          "variable": "teal/50"
+        }
+      }
+    },
+    "800": {
+      "$type": "color",
+      "$value": "#296266",
+      "$extensions": {
+        "vn.pancake.figma": {
+          "file": "aScl8gFsM1pWrd0atTwyJM",
+          "collection": "Primitives",
+          "variable": "teal/800"
+        }
+      }
+    }
+  },
+  "red": {
+    "100": {
+      "$type": "color",
+      "$value": "#fff1f0",
+      "$extensions": {
+        "vn.pancake.figma": {
+          "file": "aScl8gFsM1pWrd0atTwyJM",
+          "collection": "Primitives",
+          "variable": "red/100"
+        }
+      }
+    },
+    "200": {
+      "$type": "color",
+      "$value": "#ffccc7",
+      "$extensions": {
+        "vn.pancake.figma": {
+          "file": "aScl8gFsM1pWrd0atTwyJM",
+          "collection": "Primitives",
+          "variable": "red/200"
+        }
+      }
+    },
+    "300": {
+      "$type": "color",
+      "$value": "#ffa39e",
+      "$extensions": {
+        "vn.pancake.figma": {
+          "file": "aScl8gFsM1pWrd0atTwyJM",
+          "collection": "Primitives",
+          "variable": "red/300"
+        }
+      }
+    },
+    "400": {
+      "$type": "color",
+      "$value": "#ff7875",
+      "$extensions": {
+        "vn.pancake.figma": {
+          "file": "aScl8gFsM1pWrd0atTwyJM",
+          "collection": "Primitives",
+          "variable": "red/400"
+        }
+      }
+    },
+    "500": {
+      "$type": "color",
+      "$value": "#ff4d4f",
+      "$extensions": {
+        "vn.pancake.figma": {
+          "file": "aScl8gFsM1pWrd0atTwyJM",
+          "collection": "Primitives",
+          "variable": "red/500"
+        }
+      }
+    },
+    "600": {
+      "$type": "color",
+      "$value": "#f5222d",
+      "$extensions": {
+        "vn.pancake.figma": {
+          "file": "aScl8gFsM1pWrd0atTwyJM",
+          "collection": "Primitives",
+          "variable": "red/600"
+        }
+      }
+    },
+    "700": {
+      "$type": "color",
+      "$value": "#cf1322",
+      "$extensions": {
+        "vn.pancake.figma": {
+          "file": "aScl8gFsM1pWrd0atTwyJM",
+          "collection": "Primitives",
+          "variable": "red/700"
+        }
+      }
+    },
+    "800": {
+      "$type": "color",
+      "$value": "#a8071a",
+      "$extensions": {
+        "vn.pancake.figma": {
+          "file": "aScl8gFsM1pWrd0atTwyJM",
+          "collection": "Primitives",
+          "variable": "red/800"
+        }
+      }
+    },
+    "900": {
+      "$type": "color",
+      "$value": "#820014",
+      "$extensions": {
+        "vn.pancake.figma": {
+          "file": "aScl8gFsM1pWrd0atTwyJM",
+          "collection": "Primitives",
+          "variable": "red/900"
+        }
+      }
+    },
+    "950": {
+      "$type": "color",
+      "$value": "#5c0011",
+      "$extensions": {
+        "vn.pancake.figma": {
+          "file": "aScl8gFsM1pWrd0atTwyJM",
+          "collection": "Primitives",
+          "variable": "red/950"
+        }
+      }
+    }
+  },
+  "volcano": {
+    "100": {
+      "$type": "color",
+      "$value": "#fff2e8",
+      "$extensions": {
+        "vn.pancake.figma": {
+          "file": "aScl8gFsM1pWrd0atTwyJM",
+          "collection": "Primitives",
+          "variable": "volcano/100"
+        }
+      }
+    },
+    "200": {
+      "$type": "color",
+      "$value": "#ffd8bf",
+      "$extensions": {
+        "vn.pancake.figma": {
+          "file": "aScl8gFsM1pWrd0atTwyJM",
+          "collection": "Primitives",
+          "variable": "volcano/200"
+        }
+      }
+    },
+    "300": {
+      "$type": "color",
+      "$value": "#ffbb96",
+      "$extensions": {
+        "vn.pancake.figma": {
+          "file": "aScl8gFsM1pWrd0atTwyJM",
+          "collection": "Primitives",
+          "variable": "volcano/300"
+        }
+      }
+    },
+    "400": {
+      "$type": "color",
+      "$value": "#ff9c6e",
+      "$extensions": {
+        "vn.pancake.figma": {
+          "file": "aScl8gFsM1pWrd0atTwyJM",
+          "collection": "Primitives",
+          "variable": "volcano/400"
+        }
+      }
+    },
+    "500": {
+      "$type": "color",
+      "$value": "#ff7a45",
+      "$extensions": {
+        "vn.pancake.figma": {
+          "file": "aScl8gFsM1pWrd0atTwyJM",
+          "collection": "Primitives",
+          "variable": "volcano/500"
+        }
+      }
+    },
+    "600": {
+      "$type": "color",
+      "$value": "#fa541c",
+      "$extensions": {
+        "vn.pancake.figma": {
+          "file": "aScl8gFsM1pWrd0atTwyJM",
+          "collection": "Primitives",
+          "variable": "volcano/600"
+        }
+      }
+    },
+    "700": {
+      "$type": "color",
+      "$value": "#d4380d",
+      "$extensions": {
+        "vn.pancake.figma": {
+          "file": "aScl8gFsM1pWrd0atTwyJM",
+          "collection": "Primitives",
+          "variable": "volcano/700"
+        }
+      }
+    },
+    "800": {
+      "$type": "color",
+      "$value": "#ad2102",
+      "$extensions": {
+        "vn.pancake.figma": {
+          "file": "aScl8gFsM1pWrd0atTwyJM",
+          "collection": "Primitives",
+          "variable": "volcano/800"
+        }
+      }
+    },
+    "900": {
+      "$type": "color",
+      "$value": "#871400",
+      "$extensions": {
+        "vn.pancake.figma": {
+          "file": "aScl8gFsM1pWrd0atTwyJM",
+          "collection": "Primitives",
+          "variable": "volcano/900"
+        }
+      }
+    },
+    "950": {
+      "$type": "color",
+      "$value": "#610b00",
+      "$extensions": {
+        "vn.pancake.figma": {
+          "file": "aScl8gFsM1pWrd0atTwyJM",
+          "collection": "Primitives",
+          "variable": "volcano/950"
+        }
+      }
+    }
+  },
+  "orange": {
+    "100": {
+      "$type": "color",
+      "$value": "#fff7e6",
+      "$extensions": {
+        "vn.pancake.figma": {
+          "file": "aScl8gFsM1pWrd0atTwyJM",
+          "collection": "Primitives",
+          "variable": "orange/100"
+        }
+      }
+    },
+    "200": {
+      "$type": "color",
+      "$value": "#ffe7ba",
+      "$extensions": {
+        "vn.pancake.figma": {
+          "file": "aScl8gFsM1pWrd0atTwyJM",
+          "collection": "Primitives",
+          "variable": "orange/200"
+        }
+      }
+    },
+    "300": {
+      "$type": "color",
+      "$value": "#ffd591",
+      "$extensions": {
+        "vn.pancake.figma": {
+          "file": "aScl8gFsM1pWrd0atTwyJM",
+          "collection": "Primitives",
+          "variable": "orange/300"
+        }
+      }
+    },
+    "400": {
+      "$type": "color",
+      "$value": "#ffc069",
+      "$extensions": {
+        "vn.pancake.figma": {
+          "file": "aScl8gFsM1pWrd0atTwyJM",
+          "collection": "Primitives",
+          "variable": "orange/400"
+        }
+      }
+    },
+    "500": {
+      "$type": "color",
+      "$value": "#ffa940",
+      "$extensions": {
+        "vn.pancake.figma": {
+          "file": "aScl8gFsM1pWrd0atTwyJM",
+          "collection": "Primitives",
+          "variable": "orange/500"
+        }
+      }
+    },
+    "600": {
+      "$type": "color",
+      "$value": "#fa8c16",
+      "$extensions": {
+        "vn.pancake.figma": {
+          "file": "aScl8gFsM1pWrd0atTwyJM",
+          "collection": "Primitives",
+          "variable": "orange/600"
+        }
+      }
+    },
+    "650": {
+      "$type": "color",
+      "$value": "#ff8100",
+      "$extensions": {
+        "vn.pancake.figma": {
+          "file": "aScl8gFsM1pWrd0atTwyJM",
+          "collection": "Primitives",
+          "variable": "orange/650"
+        }
+      }
+    },
+    "700": {
+      "$type": "color",
+      "$value": "#d46b08",
+      "$extensions": {
+        "vn.pancake.figma": {
+          "file": "aScl8gFsM1pWrd0atTwyJM",
+          "collection": "Primitives",
+          "variable": "orange/700"
+        }
+      }
+    },
+    "800": {
+      "$type": "color",
+      "$value": "#ad4e00",
+      "$extensions": {
+        "vn.pancake.figma": {
+          "file": "aScl8gFsM1pWrd0atTwyJM",
+          "collection": "Primitives",
+          "variable": "orange/800"
+        }
+      }
+    },
+    "900": {
+      "$type": "color",
+      "$value": "#873800",
+      "$extensions": {
+        "vn.pancake.figma": {
+          "file": "aScl8gFsM1pWrd0atTwyJM",
+          "collection": "Primitives",
+          "variable": "orange/900"
+        }
+      }
+    },
+    "950": {
+      "$type": "color",
+      "$value": "#612500",
+      "$extensions": {
+        "vn.pancake.figma": {
+          "file": "aScl8gFsM1pWrd0atTwyJM",
+          "collection": "Primitives",
+          "variable": "orange/950"
+        }
+      }
+    }
+  },
+  "gold": {
+    "100": {
+      "$type": "color",
+      "$value": "#fffbe6",
+      "$extensions": {
+        "vn.pancake.figma": {
+          "file": "aScl8gFsM1pWrd0atTwyJM",
+          "collection": "Primitives",
+          "variable": "gold/100"
+        }
+      }
+    },
+    "200": {
+      "$type": "color",
+      "$value": "#fff1b8",
+      "$extensions": {
+        "vn.pancake.figma": {
+          "file": "aScl8gFsM1pWrd0atTwyJM",
+          "collection": "Primitives",
+          "variable": "gold/200"
+        }
+      }
+    },
+    "300": {
+      "$type": "color",
+      "$value": "#ffe58f",
+      "$extensions": {
+        "vn.pancake.figma": {
+          "file": "aScl8gFsM1pWrd0atTwyJM",
+          "collection": "Primitives",
+          "variable": "gold/300"
+        }
+      }
+    },
+    "400": {
+      "$type": "color",
+      "$value": "#ffd666",
+      "$extensions": {
+        "vn.pancake.figma": {
+          "file": "aScl8gFsM1pWrd0atTwyJM",
+          "collection": "Primitives",
+          "variable": "gold/400"
+        }
+      }
+    },
+    "500": {
+      "$type": "color",
+      "$value": "#ffc53d",
+      "$extensions": {
+        "vn.pancake.figma": {
+          "file": "aScl8gFsM1pWrd0atTwyJM",
+          "collection": "Primitives",
+          "variable": "gold/500"
+        }
+      }
+    },
+    "600": {
+      "$type": "color",
+      "$value": "#faad14",
+      "$extensions": {
+        "vn.pancake.figma": {
+          "file": "aScl8gFsM1pWrd0atTwyJM",
+          "collection": "Primitives",
+          "variable": "gold/600"
+        }
+      }
+    },
+    "700": {
+      "$type": "color",
+      "$value": "#d48806",
+      "$extensions": {
+        "vn.pancake.figma": {
+          "file": "aScl8gFsM1pWrd0atTwyJM",
+          "collection": "Primitives",
+          "variable": "gold/700"
+        }
+      }
+    },
+    "800": {
+      "$type": "color",
+      "$value": "#ad6800",
+      "$extensions": {
+        "vn.pancake.figma": {
+          "file": "aScl8gFsM1pWrd0atTwyJM",
+          "collection": "Primitives",
+          "variable": "gold/800"
+        }
+      }
+    },
+    "900": {
+      "$type": "color",
+      "$value": "#874d00",
+      "$extensions": {
+        "vn.pancake.figma": {
+          "file": "aScl8gFsM1pWrd0atTwyJM",
+          "collection": "Primitives",
+          "variable": "gold/900"
+        }
+      }
+    },
+    "950": {
+      "$type": "color",
+      "$value": "#613400",
+      "$extensions": {
+        "vn.pancake.figma": {
+          "file": "aScl8gFsM1pWrd0atTwyJM",
+          "collection": "Primitives",
+          "variable": "gold/950"
+        }
+      }
+    }
+  },
+  "yellow": {
+    "100": {
+      "$type": "color",
+      "$value": "#feffe6",
+      "$extensions": {
+        "vn.pancake.figma": {
+          "file": "aScl8gFsM1pWrd0atTwyJM",
+          "collection": "Primitives",
+          "variable": "yellow/100"
+        }
+      }
+    },
+    "200": {
+      "$type": "color",
+      "$value": "#ffffb8",
+      "$extensions": {
+        "vn.pancake.figma": {
+          "file": "aScl8gFsM1pWrd0atTwyJM",
+          "collection": "Primitives",
+          "variable": "yellow/200"
+        }
+      }
+    },
+    "300": {
+      "$type": "color",
+      "$value": "#fffb8f",
+      "$extensions": {
+        "vn.pancake.figma": {
+          "file": "aScl8gFsM1pWrd0atTwyJM",
+          "collection": "Primitives",
+          "variable": "yellow/300"
+        }
+      }
+    },
+    "400": {
+      "$type": "color",
+      "$value": "#fff566",
+      "$extensions": {
+        "vn.pancake.figma": {
+          "file": "aScl8gFsM1pWrd0atTwyJM",
+          "collection": "Primitives",
+          "variable": "yellow/400"
+        }
+      }
+    },
+    "500": {
+      "$type": "color",
+      "$value": "#ffec3d",
+      "$extensions": {
+        "vn.pancake.figma": {
+          "file": "aScl8gFsM1pWrd0atTwyJM",
+          "collection": "Primitives",
+          "variable": "yellow/500"
+        }
+      }
+    },
+    "600": {
+      "$type": "color",
+      "$value": "#fadb14",
+      "$extensions": {
+        "vn.pancake.figma": {
+          "file": "aScl8gFsM1pWrd0atTwyJM",
+          "collection": "Primitives",
+          "variable": "yellow/600"
+        }
+      }
+    },
+    "700": {
+      "$type": "color",
+      "$value": "#d4b106",
+      "$extensions": {
+        "vn.pancake.figma": {
+          "file": "aScl8gFsM1pWrd0atTwyJM",
+          "collection": "Primitives",
+          "variable": "yellow/700"
+        }
+      }
+    },
+    "800": {
+      "$type": "color",
+      "$value": "#ad8b00",
+      "$extensions": {
+        "vn.pancake.figma": {
+          "file": "aScl8gFsM1pWrd0atTwyJM",
+          "collection": "Primitives",
+          "variable": "yellow/800"
+        }
+      }
+    },
+    "900": {
+      "$type": "color",
+      "$value": "#876800",
+      "$extensions": {
+        "vn.pancake.figma": {
+          "file": "aScl8gFsM1pWrd0atTwyJM",
+          "collection": "Primitives",
+          "variable": "yellow/900"
+        }
+      }
+    },
+    "950": {
+      "$type": "color",
+      "$value": "#614700",
+      "$extensions": {
+        "vn.pancake.figma": {
+          "file": "aScl8gFsM1pWrd0atTwyJM",
+          "collection": "Primitives",
+          "variable": "yellow/950"
+        }
+      }
+    }
+  },
+  "lime": {
+    "100": {
+      "$type": "color",
+      "$value": "#fcffe6",
+      "$extensions": {
+        "vn.pancake.figma": {
+          "file": "aScl8gFsM1pWrd0atTwyJM",
+          "collection": "Primitives",
+          "variable": "lime/100"
+        }
+      }
+    },
+    "200": {
+      "$type": "color",
+      "$value": "#f4ffb8",
+      "$extensions": {
+        "vn.pancake.figma": {
+          "file": "aScl8gFsM1pWrd0atTwyJM",
+          "collection": "Primitives",
+          "variable": "lime/200"
+        }
+      }
+    },
+    "300": {
+      "$type": "color",
+      "$value": "#eaff8f",
+      "$extensions": {
+        "vn.pancake.figma": {
+          "file": "aScl8gFsM1pWrd0atTwyJM",
+          "collection": "Primitives",
+          "variable": "lime/300"
+        }
+      }
+    },
+    "400": {
+      "$type": "color",
+      "$value": "#d3f261",
+      "$extensions": {
+        "vn.pancake.figma": {
+          "file": "aScl8gFsM1pWrd0atTwyJM",
+          "collection": "Primitives",
+          "variable": "lime/400"
+        }
+      }
+    },
+    "500": {
+      "$type": "color",
+      "$value": "#bae637",
+      "$extensions": {
+        "vn.pancake.figma": {
+          "file": "aScl8gFsM1pWrd0atTwyJM",
+          "collection": "Primitives",
+          "variable": "lime/500"
+        }
+      }
+    },
+    "600": {
+      "$type": "color",
+      "$value": "#a0d911",
+      "$extensions": {
+        "vn.pancake.figma": {
+          "file": "aScl8gFsM1pWrd0atTwyJM",
+          "collection": "Primitives",
+          "variable": "lime/600"
+        }
+      }
+    },
+    "700": {
+      "$type": "color",
+      "$value": "#7cb305",
+      "$extensions": {
+        "vn.pancake.figma": {
+          "file": "aScl8gFsM1pWrd0atTwyJM",
+          "collection": "Primitives",
+          "variable": "lime/700"
+        }
+      }
+    },
+    "800": {
+      "$type": "color",
+      "$value": "#5b8c00",
+      "$extensions": {
+        "vn.pancake.figma": {
+          "file": "aScl8gFsM1pWrd0atTwyJM",
+          "collection": "Primitives",
+          "variable": "lime/800"
+        }
+      }
+    },
+    "900": {
+      "$type": "color",
+      "$value": "#3f6600",
+      "$extensions": {
+        "vn.pancake.figma": {
+          "file": "aScl8gFsM1pWrd0atTwyJM",
+          "collection": "Primitives",
+          "variable": "lime/900"
+        }
+      }
+    },
+    "950": {
+      "$type": "color",
+      "$value": "#254000",
+      "$extensions": {
+        "vn.pancake.figma": {
+          "file": "aScl8gFsM1pWrd0atTwyJM",
+          "collection": "Primitives",
+          "variable": "lime/950"
+        }
+      }
+    }
+  },
+  "green": {
+    "100": {
+      "$type": "color",
+      "$value": "#f6ffed",
+      "$extensions": {
+        "vn.pancake.figma": {
+          "file": "aScl8gFsM1pWrd0atTwyJM",
+          "collection": "Primitives",
+          "variable": "green/100"
+        }
+      }
+    },
+    "150": {
+      "$type": "color",
+      "$value": "#dcf8c6",
+      "$extensions": {
+        "vn.pancake.figma": {
+          "file": "aScl8gFsM1pWrd0atTwyJM",
+          "collection": "Primitives",
+          "variable": "green/150"
+        }
+      }
+    },
+    "200": {
+      "$type": "color",
+      "$value": "#d9f7be",
+      "$extensions": {
+        "vn.pancake.figma": {
+          "file": "aScl8gFsM1pWrd0atTwyJM",
+          "collection": "Primitives",
+          "variable": "green/200"
+        }
+      }
+    },
+    "300": {
+      "$type": "color",
+      "$value": "#b7eb8f",
+      "$extensions": {
+        "vn.pancake.figma": {
+          "file": "aScl8gFsM1pWrd0atTwyJM",
+          "collection": "Primitives",
+          "variable": "green/300"
+        }
+      }
+    },
+    "400": {
+      "$type": "color",
+      "$value": "#95de64",
+      "$extensions": {
+        "vn.pancake.figma": {
+          "file": "aScl8gFsM1pWrd0atTwyJM",
+          "collection": "Primitives",
+          "variable": "green/400"
+        }
+      }
+    },
+    "500": {
+      "$type": "color",
+      "$value": "#73d13d",
+      "$extensions": {
+        "vn.pancake.figma": {
+          "file": "aScl8gFsM1pWrd0atTwyJM",
+          "collection": "Primitives",
+          "variable": "green/500"
+        }
+      }
+    },
+    "600": {
+      "$type": "color",
+      "$value": "#52c41a",
+      "$extensions": {
+        "vn.pancake.figma": {
+          "file": "aScl8gFsM1pWrd0atTwyJM",
+          "collection": "Primitives",
+          "variable": "green/600"
+        }
+      }
+    },
+    "700": {
+      "$type": "color",
+      "$value": "#389e0d",
+      "$extensions": {
+        "vn.pancake.figma": {
+          "file": "aScl8gFsM1pWrd0atTwyJM",
+          "collection": "Primitives",
+          "variable": "green/700"
+        }
+      }
+    },
+    "800": {
+      "$type": "color",
+      "$value": "#237804",
+      "$extensions": {
+        "vn.pancake.figma": {
+          "file": "aScl8gFsM1pWrd0atTwyJM",
+          "collection": "Primitives",
+          "variable": "green/800"
+        }
+      }
+    },
+    "900": {
+      "$type": "color",
+      "$value": "#135200",
+      "$extensions": {
+        "vn.pancake.figma": {
+          "file": "aScl8gFsM1pWrd0atTwyJM",
+          "collection": "Primitives",
+          "variable": "green/900"
+        }
+      }
+    },
+    "950": {
+      "$type": "color",
+      "$value": "#092b00",
+      "$extensions": {
+        "vn.pancake.figma": {
+          "file": "aScl8gFsM1pWrd0atTwyJM",
+          "collection": "Primitives",
+          "variable": "green/950"
+        }
+      }
+    }
+  },
+  "cyan": {
+    "100": {
+      "$type": "color",
+      "$value": "#e6fffb",
+      "$extensions": {
+        "vn.pancake.figma": {
+          "file": "aScl8gFsM1pWrd0atTwyJM",
+          "collection": "Primitives",
+          "variable": "cyan/100"
+        }
+      }
+    },
+    "200": {
+      "$type": "color",
+      "$value": "#b5f5ec",
+      "$extensions": {
+        "vn.pancake.figma": {
+          "file": "aScl8gFsM1pWrd0atTwyJM",
+          "collection": "Primitives",
+          "variable": "cyan/200"
+        }
+      }
+    },
+    "300": {
+      "$type": "color",
+      "$value": "#87e8de",
+      "$extensions": {
+        "vn.pancake.figma": {
+          "file": "aScl8gFsM1pWrd0atTwyJM",
+          "collection": "Primitives",
+          "variable": "cyan/300"
+        }
+      }
+    },
+    "400": {
+      "$type": "color",
+      "$value": "#5cdbd3",
+      "$extensions": {
+        "vn.pancake.figma": {
+          "file": "aScl8gFsM1pWrd0atTwyJM",
+          "collection": "Primitives",
+          "variable": "cyan/400"
+        }
+      }
+    },
+    "500": {
+      "$type": "color",
+      "$value": "#36cfc9",
+      "$extensions": {
+        "vn.pancake.figma": {
+          "file": "aScl8gFsM1pWrd0atTwyJM",
+          "collection": "Primitives",
+          "variable": "cyan/500"
+        }
+      }
+    },
+    "600": {
+      "$type": "color",
+      "$value": "#13c2c2",
+      "$extensions": {
+        "vn.pancake.figma": {
+          "file": "aScl8gFsM1pWrd0atTwyJM",
+          "collection": "Primitives",
+          "variable": "cyan/600"
+        }
+      }
+    },
+    "700": {
+      "$type": "color",
+      "$value": "#08979c",
+      "$extensions": {
+        "vn.pancake.figma": {
+          "file": "aScl8gFsM1pWrd0atTwyJM",
+          "collection": "Primitives",
+          "variable": "cyan/700"
+        }
+      }
+    },
+    "800": {
+      "$type": "color",
+      "$value": "#006d75",
+      "$extensions": {
+        "vn.pancake.figma": {
+          "file": "aScl8gFsM1pWrd0atTwyJM",
+          "collection": "Primitives",
+          "variable": "cyan/800"
+        }
+      }
+    },
+    "900": {
+      "$type": "color",
+      "$value": "#00474f",
+      "$extensions": {
+        "vn.pancake.figma": {
+          "file": "aScl8gFsM1pWrd0atTwyJM",
+          "collection": "Primitives",
+          "variable": "cyan/900"
+        }
+      }
+    },
+    "950": {
+      "$type": "color",
+      "$value": "#002329",
+      "$extensions": {
+        "vn.pancake.figma": {
+          "file": "aScl8gFsM1pWrd0atTwyJM",
+          "collection": "Primitives",
+          "variable": "cyan/950"
+        }
+      }
+    }
+  },
+  "sky": {
+    "100": {
+      "$type": "color",
+      "$value": "#e6f7ff",
+      "$extensions": {
+        "vn.pancake.figma": {
+          "file": "aScl8gFsM1pWrd0atTwyJM",
+          "collection": "Primitives",
+          "variable": "sky/100"
+        }
+      }
+    },
+    "200": {
+      "$type": "color",
+      "$value": "#bae7ff",
+      "$extensions": {
+        "vn.pancake.figma": {
+          "file": "aScl8gFsM1pWrd0atTwyJM",
+          "collection": "Primitives",
+          "variable": "sky/200"
+        }
+      }
+    },
+    "300": {
+      "$type": "color",
+      "$value": "#91d5ff",
+      "$extensions": {
+        "vn.pancake.figma": {
+          "file": "aScl8gFsM1pWrd0atTwyJM",
+          "collection": "Primitives",
+          "variable": "sky/300"
+        }
+      }
+    },
+    "400": {
+      "$type": "color",
+      "$value": "#69c0ff",
+      "$extensions": {
+        "vn.pancake.figma": {
+          "file": "aScl8gFsM1pWrd0atTwyJM",
+          "collection": "Primitives",
+          "variable": "sky/400"
+        }
+      }
+    },
+    "500": {
+      "$type": "color",
+      "$value": "#40a9ff",
+      "$extensions": {
+        "vn.pancake.figma": {
+          "file": "aScl8gFsM1pWrd0atTwyJM",
+          "collection": "Primitives",
+          "variable": "sky/500"
+        }
+      }
+    },
+    "600": {
+      "$type": "color",
+      "$value": "#1890ff",
+      "$extensions": {
+        "vn.pancake.figma": {
+          "file": "aScl8gFsM1pWrd0atTwyJM",
+          "collection": "Primitives",
+          "variable": "sky/600"
+        }
+      }
+    },
+    "700": {
+      "$type": "color",
+      "$value": "#096dd9",
+      "$extensions": {
+        "vn.pancake.figma": {
+          "file": "aScl8gFsM1pWrd0atTwyJM",
+          "collection": "Primitives",
+          "variable": "sky/700"
+        }
+      }
+    },
+    "800": {
+      "$type": "color",
+      "$value": "#0050b3",
+      "$extensions": {
+        "vn.pancake.figma": {
+          "file": "aScl8gFsM1pWrd0atTwyJM",
+          "collection": "Primitives",
+          "variable": "sky/800"
+        }
+      }
+    },
+    "900": {
+      "$type": "color",
+      "$value": "#003a8c",
+      "$extensions": {
+        "vn.pancake.figma": {
+          "file": "aScl8gFsM1pWrd0atTwyJM",
+          "collection": "Primitives",
+          "variable": "sky/900"
+        }
+      }
+    },
+    "950": {
+      "$type": "color",
+      "$value": "#002766",
+      "$extensions": {
+        "vn.pancake.figma": {
+          "file": "aScl8gFsM1pWrd0atTwyJM",
+          "collection": "Primitives",
+          "variable": "sky/950"
+        }
+      }
+    }
+  },
+  "geekblue": {
+    "100": {
+      "$type": "color",
+      "$value": "#f0f5ff",
+      "$extensions": {
+        "vn.pancake.figma": {
+          "file": "aScl8gFsM1pWrd0atTwyJM",
+          "collection": "Primitives",
+          "variable": "geekblue/100"
+        }
+      }
+    },
+    "200": {
+      "$type": "color",
+      "$value": "#d6e4ff",
+      "$extensions": {
+        "vn.pancake.figma": {
+          "file": "aScl8gFsM1pWrd0atTwyJM",
+          "collection": "Primitives",
+          "variable": "geekblue/200"
+        }
+      }
+    },
+    "300": {
+      "$type": "color",
+      "$value": "#adc6ff",
+      "$extensions": {
+        "vn.pancake.figma": {
+          "file": "aScl8gFsM1pWrd0atTwyJM",
+          "collection": "Primitives",
+          "variable": "geekblue/300"
+        }
+      }
+    },
+    "400": {
+      "$type": "color",
+      "$value": "#85a5ff",
+      "$extensions": {
+        "vn.pancake.figma": {
+          "file": "aScl8gFsM1pWrd0atTwyJM",
+          "collection": "Primitives",
+          "variable": "geekblue/400"
+        }
+      }
+    },
+    "500": {
+      "$type": "color",
+      "$value": "#597ef7",
+      "$extensions": {
+        "vn.pancake.figma": {
+          "file": "aScl8gFsM1pWrd0atTwyJM",
+          "collection": "Primitives",
+          "variable": "geekblue/500"
+        }
+      }
+    },
+    "600": {
+      "$type": "color",
+      "$value": "#2f54eb",
+      "$extensions": {
+        "vn.pancake.figma": {
+          "file": "aScl8gFsM1pWrd0atTwyJM",
+          "collection": "Primitives",
+          "variable": "geekblue/600"
+        }
+      }
+    },
+    "700": {
+      "$type": "color",
+      "$value": "#1d39c4",
+      "$extensions": {
+        "vn.pancake.figma": {
+          "file": "aScl8gFsM1pWrd0atTwyJM",
+          "collection": "Primitives",
+          "variable": "geekblue/700"
+        }
+      }
+    },
+    "800": {
+      "$type": "color",
+      "$value": "#10239e",
+      "$extensions": {
+        "vn.pancake.figma": {
+          "file": "aScl8gFsM1pWrd0atTwyJM",
+          "collection": "Primitives",
+          "variable": "geekblue/800"
+        }
+      }
+    },
+    "900": {
+      "$type": "color",
+      "$value": "#061178",
+      "$extensions": {
+        "vn.pancake.figma": {
+          "file": "aScl8gFsM1pWrd0atTwyJM",
+          "collection": "Primitives",
+          "variable": "geekblue/900"
+        }
+      }
+    },
+    "950": {
+      "$type": "color",
+      "$value": "#030852",
+      "$extensions": {
+        "vn.pancake.figma": {
+          "file": "aScl8gFsM1pWrd0atTwyJM",
+          "collection": "Primitives",
+          "variable": "geekblue/950"
+        }
+      }
+    }
+  },
+  "purple": {
+    "100": {
+      "$type": "color",
+      "$value": "#f9f0ff",
+      "$extensions": {
+        "vn.pancake.figma": {
+          "file": "aScl8gFsM1pWrd0atTwyJM",
+          "collection": "Primitives",
+          "variable": "purple/100"
+        }
+      }
+    },
+    "200": {
+      "$type": "color",
+      "$value": "#efdbff",
+      "$extensions": {
+        "vn.pancake.figma": {
+          "file": "aScl8gFsM1pWrd0atTwyJM",
+          "collection": "Primitives",
+          "variable": "purple/200"
+        }
+      }
+    },
+    "300": {
+      "$type": "color",
+      "$value": "#d3adf7",
+      "$extensions": {
+        "vn.pancake.figma": {
+          "file": "aScl8gFsM1pWrd0atTwyJM",
+          "collection": "Primitives",
+          "variable": "purple/300"
+        }
+      }
+    },
+    "400": {
+      "$type": "color",
+      "$value": "#b37feb",
+      "$extensions": {
+        "vn.pancake.figma": {
+          "file": "aScl8gFsM1pWrd0atTwyJM",
+          "collection": "Primitives",
+          "variable": "purple/400"
+        }
+      }
+    },
+    "500": {
+      "$type": "color",
+      "$value": "#9254de",
+      "$extensions": {
+        "vn.pancake.figma": {
+          "file": "aScl8gFsM1pWrd0atTwyJM",
+          "collection": "Primitives",
+          "variable": "purple/500"
+        }
+      }
+    },
+    "600": {
+      "$type": "color",
+      "$value": "#722ed1",
+      "$extensions": {
+        "vn.pancake.figma": {
+          "file": "aScl8gFsM1pWrd0atTwyJM",
+          "collection": "Primitives",
+          "variable": "purple/600"
+        }
+      }
+    },
+    "700": {
+      "$type": "color",
+      "$value": "#531dab",
+      "$extensions": {
+        "vn.pancake.figma": {
+          "file": "aScl8gFsM1pWrd0atTwyJM",
+          "collection": "Primitives",
+          "variable": "purple/700"
+        }
+      }
+    },
+    "800": {
+      "$type": "color",
+      "$value": "#391085",
+      "$extensions": {
+        "vn.pancake.figma": {
+          "file": "aScl8gFsM1pWrd0atTwyJM",
+          "collection": "Primitives",
+          "variable": "purple/800"
+        }
+      }
+    },
+    "900": {
+      "$type": "color",
+      "$value": "#22075e",
+      "$extensions": {
+        "vn.pancake.figma": {
+          "file": "aScl8gFsM1pWrd0atTwyJM",
+          "collection": "Primitives",
+          "variable": "purple/900"
+        }
+      }
+    },
+    "950": {
+      "$type": "color",
+      "$value": "#120338",
+      "$extensions": {
+        "vn.pancake.figma": {
+          "file": "aScl8gFsM1pWrd0atTwyJM",
+          "collection": "Primitives",
+          "variable": "purple/950"
+        }
+      }
+    }
+  },
+  "magenta": {
+    "100": {
+      "$type": "color",
+      "$value": "#fff0f6",
+      "$extensions": {
+        "vn.pancake.figma": {
+          "file": "aScl8gFsM1pWrd0atTwyJM",
+          "collection": "Primitives",
+          "variable": "magenta/100"
+        }
+      }
+    },
+    "200": {
+      "$type": "color",
+      "$value": "#ffd6e7",
+      "$extensions": {
+        "vn.pancake.figma": {
+          "file": "aScl8gFsM1pWrd0atTwyJM",
+          "collection": "Primitives",
+          "variable": "magenta/200"
+        }
+      }
+    },
+    "300": {
+      "$type": "color",
+      "$value": "#ffadd2",
+      "$extensions": {
+        "vn.pancake.figma": {
+          "file": "aScl8gFsM1pWrd0atTwyJM",
+          "collection": "Primitives",
+          "variable": "magenta/300"
+        }
+      }
+    },
+    "400": {
+      "$type": "color",
+      "$value": "#ff85c0",
+      "$extensions": {
+        "vn.pancake.figma": {
+          "file": "aScl8gFsM1pWrd0atTwyJM",
+          "collection": "Primitives",
+          "variable": "magenta/400"
+        }
+      }
+    },
+    "500": {
+      "$type": "color",
+      "$value": "#f759ab",
+      "$extensions": {
+        "vn.pancake.figma": {
+          "file": "aScl8gFsM1pWrd0atTwyJM",
+          "collection": "Primitives",
+          "variable": "magenta/500"
+        }
+      }
+    },
+    "600": {
+      "$type": "color",
+      "$value": "#eb2f96",
+      "$extensions": {
+        "vn.pancake.figma": {
+          "file": "aScl8gFsM1pWrd0atTwyJM",
+          "collection": "Primitives",
+          "variable": "magenta/600"
+        }
+      }
+    },
+    "700": {
+      "$type": "color",
+      "$value": "#c41d7f",
+      "$extensions": {
+        "vn.pancake.figma": {
+          "file": "aScl8gFsM1pWrd0atTwyJM",
+          "collection": "Primitives",
+          "variable": "magenta/700"
+        }
+      }
+    },
+    "800": {
+      "$type": "color",
+      "$value": "#9e1068",
+      "$extensions": {
+        "vn.pancake.figma": {
+          "file": "aScl8gFsM1pWrd0atTwyJM",
+          "collection": "Primitives",
+          "variable": "magenta/800"
+        }
+      }
+    },
+    "900": {
+      "$type": "color",
+      "$value": "#780650",
+      "$extensions": {
+        "vn.pancake.figma": {
+          "file": "aScl8gFsM1pWrd0atTwyJM",
+          "collection": "Primitives",
+          "variable": "magenta/900"
+        }
+      }
+    },
+    "950": {
+      "$type": "color",
+      "$value": "#520339",
+      "$extensions": {
+        "vn.pancake.figma": {
+          "file": "aScl8gFsM1pWrd0atTwyJM",
+          "collection": "Primitives",
+          "variable": "magenta/950"
+        }
+      }
+    }
+  }
+}

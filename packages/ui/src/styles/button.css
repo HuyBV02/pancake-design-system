@@ -1,0 +1,85 @@
+/* Nút Pancake — mỗi kiểu khai báo bộ biến --_*, một luật chung áp dụng. Giá trị = token Semantic (DS_AI trang Button). */
+.pk-btn {
+  --_bd: transparent; --_bd-h: var(--_bd); --_bd-p: var(--_bd-h); --_bd-d: transparent;
+  --_fg-h: var(--_fg); --_fg-p: var(--_fg-h);
+  --_shadow: none; --_ring: none;
+}
+.pk-btn.ant-btn {
+  background: var(--_bg);
+  color: var(--_fg);
+  border-color: var(--_bd);
+  box-shadow: var(--_shadow);
+  font-weight: var(--pk-font-weight-medium);
+}
+.pk-btn.ant-btn:not(:disabled):hover { background: var(--_bg-h); color: var(--_fg-h); border-color: var(--_bd-h); }
+.pk-btn.ant-btn:not(:disabled):active { background: var(--_bg-p); color: var(--_fg-p); border-color: var(--_bd-p); box-shadow: var(--_ring); }
+.pk-btn.ant-btn:focus-visible { outline: none; box-shadow: var(--_ring); }
+.pk-btn.ant-btn:disabled { background: var(--_bg-d); color: var(--_fg-d); border-color: var(--_bd-d); box-shadow: none; cursor: not-allowed; }
+
+/* Cỡ: icon S 18 · M/L 20 */
+.pk-btn--s .ant-btn-icon { font-size: var(--pk-size-icon-md); }
+.pk-btn--m .ant-btn-icon, .pk-btn--l .ant-btn-icon { font-size: var(--pk-size-icon-lg); }
+
+/* Primary */
+.pk-btn--primary {
+  --_bg: var(--pk-bg-brand-bold-rest); --_bg-h: var(--pk-bg-brand-bold-hover); --_bg-p: var(--pk-bg-brand-bold-hover); --_bg-d: var(--pk-bg-brand-bold-disabled);
+  --_fg: var(--pk-text-inverse); --_fg-d: var(--pk-text-inverse);
+  --_shadow: var(--pk-elevation-button-primary); --_ring: var(--pk-focus-brand);
+}
+/* Secondary Blue */
+.pk-btn--secondary-blue {
+  --_bg: var(--pk-bg-brand-subtle-rest); --_bg-h: var(--pk-bg-brand-subtle-hover); --_bg-p: var(--pk-bg-brand-subtle-pressed); --_bg-d: var(--pk-bg-disabled);
+  --_fg: var(--pk-text-brand-rest); --_fg-d: var(--pk-text-disabled);
+}
+/* Secondary Gray */
+.pk-btn--secondary-gray {
+  --_bg: var(--pk-bg-neutral-rest); --_bg-h: var(--pk-bg-neutral-hover); --_bg-p: var(--pk-bg-neutral-pressed); --_bg-d: var(--pk-bg-disabled);
+  --_fg: var(--pk-text-control); --_fg-d: var(--pk-text-disabled);
+}
+/* Tertiary Blue */
+.pk-btn--tertiary-blue {
+  --_bg: var(--pk-surface-default); --_bg-h: var(--pk-surface-default); --_bg-p: var(--pk-surface-default); --_bg-d: var(--pk-surface-default);
+  --_bd: var(--pk-border-brand-rest); --_bd-h: var(--pk-border-brand-hover); --_bd-p: var(--pk-border-brand-hover); --_bd-d: var(--pk-border-disabled);
+  --_fg: var(--pk-text-brand-rest); --_fg-h: var(--pk-text-brand-hover); --_fg-d: var(--pk-text-disabled);
+  --_shadow: var(--pk-elevation-button-default); --_ring: var(--pk-focus-brand);
+}
+/* Tertiary Gray */
+.pk-btn--tertiary-gray {
+  --_bg: var(--pk-surface-default); --_bg-h: var(--pk-bg-neutral-rest); --_bg-p: var(--pk-bg-neutral-hover); --_bg-d: var(--pk-surface-default);
+  --_bd: var(--pk-border-default); --_bd-d: var(--pk-border-disabled);
+  --_fg: var(--pk-text-control); --_fg-d: var(--pk-text-disabled);
+  --_shadow: var(--pk-elevation-button-default); --_ring: var(--pk-focus-neutral);
+}
+/* Text */
+.pk-btn--text {
+  --_bg: var(--pk-bg-neutral-subtle-rest); --_bg-h: var(--pk-bg-neutral-subtle-hover); --_bg-p: var(--pk-bg-neutral-subtle-pressed); --_bg-d: var(--pk-bg-neutral-subtle-rest);
+  --_fg: var(--pk-text-control); --_fg-d: var(--pk-text-disabled);
+}
+/* Link — có padding ngang 8 và nền khi hover */
+.pk-btn--link {
+  --_bg: var(--pk-bg-neutral-subtle-rest); --_bg-h: var(--pk-bg-neutral-subtle-hover); --_bg-p: var(--pk-bg-neutral-subtle-pressed); --_bg-d: var(--pk-bg-neutral-subtle-rest);
+  --_fg: var(--pk-text-brand-rest); --_fg-d: var(--pk-text-disabled);
+}
+.pk-btn--link.ant-btn { padding-inline: var(--pk-space-100); }
+
+/* ---------- Negative ---------- */
+.pk-btn--primary.pk-btn--negative {
+  --_bg: var(--pk-bg-danger-bold-rest); --_bg-h: var(--pk-bg-danger-bold-hover); --_bg-p: var(--pk-bg-danger-bold-pressed); --_bg-d: var(--pk-bg-danger-bold-disabled);
+  --_shadow: none; --_ring: var(--pk-focus-danger);
+}
+.pk-btn--secondary-blue.pk-btn--negative,
+.pk-btn--secondary-gray.pk-btn--negative {
+  --_bg: var(--pk-bg-danger-subtle-rest); --_bg-h: var(--pk-bg-danger-subtle-hover); --_bg-p: var(--pk-bg-danger-subtle-pressed);
+  --_fg: var(--pk-text-danger); --_ring: var(--pk-focus-danger);
+}
+.pk-btn--tertiary-blue.pk-btn--negative,
+.pk-btn--tertiary-gray.pk-btn--negative {
+  --_bg-h: var(--pk-surface-default); --_bg-p: var(--pk-surface-default);
+  --_bd: var(--pk-border-danger-rest); --_bd-h: var(--pk-border-danger-hover); --_bd-p: var(--pk-border-danger-pressed);
+  --_fg: var(--pk-button-tertiary-negative-text-rest); --_fg-h: var(--pk-button-tertiary-negative-text-hover); --_fg-p: var(--pk-button-tertiary-negative-text-pressed);
+  --_ring: var(--pk-focus-danger);
+}
+.pk-btn--text.pk-btn--negative,
+.pk-btn--link.pk-btn--negative { --_fg: var(--pk-text-danger); }
+
+.pk-btn--dashed.ant-btn { border-style: dashed; }

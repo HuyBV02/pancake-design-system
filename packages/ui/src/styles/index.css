@@ -1,0 +1,5 @@
+/* @pancake/ui — import một lần ở entry app: import '@pancake/ui/styles.css' */
+@layer antd;
+@import '@pancake/tokens/css';
+@import './button.css';
+@import './components.css';

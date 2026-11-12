@@ -1,0 +1,16 @@
+{
+  "name": "@pancake/lint",
+  "version": "0.1.0",
+  "description": "Luật ESLint + Stylelint giữ code giao diện đúng Design System Pancake (chỉ dùng @pancake/ui + token)",
+  "type": "module",
+  "exports": {
+    "./eslint": "./eslint.config.js",
+    "./stylelint": "./stylelint.config.js"
+  },
+  "files": ["eslint.config.js", "stylelint.config.js"],
+  "peerDependencies": {
+    "eslint": ">=9",
+    "typescript-eslint": ">=8",
+    "stylelint": ">=16"
+  }
+}

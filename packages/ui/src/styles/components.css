@@ -1,0 +1,112 @@
+/* Phần DS_AI khác mặc định antd — chỉ dùng token --pk-*. CSS này không nằm trong @layer nên thắng style antd (@layer antd). */
+
+.pk-root { font-family: var(--pk-font-family-sans); color: var(--pk-text-default); }
+
+/* ---------- Tag: cao 24 · bo tròn · padding 1/8 · Body 14 ---------- */
+.pk-tag.ant-tag {
+  --_bg: var(--pk-bg-neutral-rest); --_fg: var(--pk-text-control); --_bd: var(--pk-border-subtle);
+  --_fg-strong: var(--pk-text-default); --_bold: var(--pk-bg-neutral-bold-rest);
+  display: inline-flex; align-items: center; gap: var(--pk-space-050);
+  height: var(--pk-size-tag); padding: 1px var(--pk-space-100); margin: 0;
+  border-radius: var(--pk-radius-rounded); border: var(--pk-border-width-default) solid transparent;
+  font: var(--pk-typography-body-14-regular); background: var(--_bg); color: var(--_fg);
+}
+.pk-tag.ant-tag .anticon, .pk-tag.ant-tag svg { font-size: var(--pk-size-icon-xs); }
+.pk-tag--bordered.ant-tag { border-color: var(--_bd); color: var(--_fg-strong); }
+.pk-tag--solid.ant-tag {
+  height: 22px; font: var(--pk-typography-footnote-12-regular);
+  background: var(--_bold); color: var(--pk-text-inverse); border-color: transparent;
+}
+.pk-tag__dot { width: var(--pk-size-dot); height: var(--pk-size-dot); border-radius: 50%; background: currentColor; }
+.pk-tag--new.ant-tag { --_bg: var(--pk-tag-new-bg); --_fg: var(--pk-tag-new-text); --_bd: var(--pk-tag-new-border); --_fg-strong: var(--pk-tag-new-text); --_bold: var(--pk-tag-new-text); }
+.pk-tag--blue.ant-tag { --_bg: var(--pk-accent-blue-bg); --_fg: var(--pk-accent-blue-text); --_bd: var(--pk-accent-blue-border); --_fg-strong: var(--pk-accent-blue-text-strong); --_bold: var(--pk-accent-blue-bold); }
+.pk-tag--cyan.ant-tag { --_bg: var(--pk-accent-cyan-bg); --_fg: var(--pk-accent-cyan-text); --_bd: var(--pk-accent-cyan-border); --_fg-strong: var(--pk-accent-cyan-text-strong); --_bold: var(--pk-accent-cyan-bold); }
+.pk-tag--geekblue.ant-tag { --_bg: var(--pk-accent-geekblue-bg); --_fg: var(--pk-accent-geekblue-text); --_bd: var(--pk-accent-geekblue-border); --_fg-strong: var(--pk-accent-geekblue-text-strong); --_bold: var(--pk-accent-geekblue-bold); }
+.pk-tag--purple.ant-tag { --_bg: var(--pk-accent-purple-bg); --_fg: var(--pk-accent-purple-text); --_bd: var(--pk-accent-purple-border); --_fg-strong: var(--pk-accent-purple-text-strong); --_bold: var(--pk-accent-purple-bold); }
+.pk-tag--magenta.ant-tag { --_bg: var(--pk-accent-magenta-bg); --_fg: var(--pk-accent-magenta-text); --_bd: var(--pk-accent-magenta-border); --_fg-strong: var(--pk-accent-magenta-text-strong); --_bold: var(--pk-accent-magenta-bold); }
+.pk-tag--red.ant-tag { --_bg: var(--pk-accent-red-bg); --_fg: var(--pk-accent-red-text); --_bd: var(--pk-accent-red-border); --_fg-strong: var(--pk-accent-red-text-strong); --_bold: var(--pk-accent-red-bold); }
+.pk-tag--volcano.ant-tag { --_bg: var(--pk-accent-volcano-bg); --_fg: var(--pk-accent-volcano-text); --_bd: var(--pk-accent-volcano-border); --_fg-strong: var(--pk-accent-volcano-text-strong); --_bold: var(--pk-accent-volcano-bold); }
+.pk-tag--orange.ant-tag { --_bg: var(--pk-accent-orange-bg); --_fg: var(--pk-accent-orange-text); --_bd: var(--pk-accent-orange-border); --_fg-strong: var(--pk-accent-orange-text-strong); --_bold: var(--pk-accent-orange-bold); }
+.pk-tag--gold.ant-tag { --_bg: var(--pk-accent-gold-bg); --_fg: var(--pk-accent-gold-text); --_bd: var(--pk-accent-gold-border); --_fg-strong: var(--pk-accent-gold-text-strong); --_bold: var(--pk-accent-gold-bold); }
+.pk-tag--lime.ant-tag { --_bg: var(--pk-accent-lime-bg); --_fg: var(--pk-accent-lime-text); --_bd: var(--pk-accent-lime-border); --_fg-strong: var(--pk-accent-lime-text-strong); --_bold: var(--pk-accent-lime-bold); }
+.pk-tag--green.ant-tag { --_bg: var(--pk-accent-green-bg); --_fg: var(--pk-accent-green-text); --_bd: var(--pk-accent-green-border); --_fg-strong: var(--pk-accent-green-text-strong); --_bold: var(--pk-accent-green-bold); }
+
+/* ---------- Alert ---------- */
+.pk-alert.ant-alert { border: none; border-radius: var(--pk-radius-md); align-items: center; gap: var(--pk-space-100); }
+.pk-alert--full.ant-alert { gap: var(--pk-space-150); }
+.pk-alert--compact.ant-alert { min-height: var(--pk-size-control-md); padding: var(--pk-space-050) var(--pk-space-100); gap: var(--pk-space-100); }
+.pk-alert--full.ant-alert { padding: var(--pk-space-250) var(--pk-space-300); align-items: flex-start; }
+.pk-alert.ant-alert .ant-alert-icon { font-size: var(--pk-size-icon-lg); margin: 0; }
+.pk-alert--full .ant-alert-title { font: var(--pk-typography-title-16-regular); }
+.pk-alert.ant-alert-info { background: var(--pk-bg-info-subtlest); } .pk-alert.ant-alert-info .ant-alert-icon { color: var(--pk-icon-info); }
+.pk-alert.ant-alert-success { background: var(--pk-bg-success-subtlest); } .pk-alert.ant-alert-success .ant-alert-icon { color: var(--pk-icon-success); }
+.pk-alert.ant-alert-warning { background: var(--pk-bg-warning-subtlest); } .pk-alert.ant-alert-warning .ant-alert-icon { color: var(--pk-icon-warning); }
+.pk-alert.ant-alert-error { background: var(--pk-bg-danger-subtlest); } .pk-alert.ant-alert-error .ant-alert-icon { color: var(--pk-icon-danger); }
+
+/* ---------- Kbd / Shortcut ---------- */
+.pk-shortcut { display: inline-flex; gap: var(--pk-space-025); vertical-align: middle; }
+.pk-kbd {
+  display: inline-flex; align-items: center; justify-content: center; box-sizing: border-box;
+  background: var(--pk-surface-default); color: var(--pk-text-subtlest);
+  border: var(--pk-border-width-default) solid var(--pk-border-default); border-radius: var(--pk-radius-xs);
+  font-family: var(--pk-font-family-sans);
+}
+.pk-kbd--sm { height: var(--pk-size-kbd-sm); min-width: var(--pk-size-kbd-sm); padding: 0 var(--pk-space-050); font: var(--pk-typography-footnote-12-regular); }
+.pk-kbd--md { height: var(--pk-size-kbd-md); min-width: var(--pk-size-kbd-md); padding: 0 var(--pk-space-075); font: var(--pk-typography-body-14-regular); }
+
+/* ---------- Checkbox / Radio (antd v6: style nằm trên .ant-checkbox / .ant-radio, dấu là ::after)
+   Đã chọn = nền bg/brand-subtlest + viền border/focus + dấu blue/600 (bản _Checkbox base mới) ---------- */
+.ant-checkbox { border-color: var(--pk-border-subtle); background: var(--pk-surface-default); }
+.ant-checkbox-wrapper:not(.ant-checkbox-wrapper-disabled):hover .ant-checkbox:not(.ant-checkbox-disabled) { border-color: var(--pk-border-focus); background: var(--pk-bg-brand-subtlest); }
+.ant-checkbox.ant-checkbox-checked,
+.ant-checkbox.ant-checkbox-indeterminate { background: var(--pk-bg-brand-subtlest); border-color: var(--pk-border-focus); }
+.ant-checkbox.ant-checkbox-checked::after { border-color: var(--pk-icon-info); }
+.ant-checkbox.ant-checkbox-indeterminate::after { background: var(--pk-icon-info); }
+.ant-checkbox-wrapper:not(.ant-checkbox-wrapper-disabled):hover .ant-checkbox-checked:not(.ant-checkbox-disabled) { background: var(--pk-bg-brand-subtle-rest); border-color: var(--pk-border-focus); }
+.ant-checkbox:has(.ant-checkbox-input:focus-visible) { box-shadow: var(--pk-focus-control); outline: none; }
+.ant-checkbox.ant-checkbox-disabled { background: var(--pk-surface-sunken); border-color: var(--pk-border-subtle); }
+.ant-checkbox.ant-checkbox-disabled.ant-checkbox-checked::after { border-color: var(--pk-icon-disabled); }
+.ant-radio { border-color: var(--pk-border-subtle); background: var(--pk-surface-default); }
+.ant-radio-wrapper:not(.ant-radio-wrapper-disabled):hover .ant-radio:not(.ant-radio-disabled) { border-color: var(--pk-border-focus); background: var(--pk-bg-brand-subtlest); }
+.ant-radio.ant-radio-checked { background: var(--pk-bg-brand-subtlest); border-color: var(--pk-border-focus); }
+.ant-radio.ant-radio-checked::after { background: var(--pk-icon-info); }
+.ant-radio:has(.ant-radio-input:focus-visible) { box-shadow: var(--pk-focus-control); }
+.ant-checkbox-group, .ant-radio-group:not(.ant-radio-group-solid):not(.ant-radio-group-outline) { gap: var(--pk-space-150) var(--pk-space-250); }
+
+/* ---------- Switch: tắt = bg/control/off ---------- */
+.pk-switch.ant-switch:not(.ant-switch-checked) { background: var(--pk-bg-control-off); }
+.pk-switch.ant-switch:not(.ant-switch-checked):not(.ant-switch-disabled):hover { background: var(--pk-bg-control-off-hover); }
+.pk-switch.ant-switch.ant-switch-checked { background: var(--pk-bg-brand-bold-rest); }
+.pk-switch.ant-switch.ant-switch-checked:not(.ant-switch-disabled):hover { background: var(--pk-bg-brand-bold-hover); }
+.pk-switch.ant-switch.ant-switch-disabled { opacity: 0.4; }
+
+/* ---------- Segmented: item chọn có elevation/selected ---------- */
+.pk-segmented .ant-segmented-item-selected { box-shadow: var(--pk-elevation-selected); }
+.pk-segmented--s.ant-segmented { border-radius: var(--pk-radius-sm); }
+.pk-segmented--s .ant-segmented-item { border-radius: var(--pk-radius-xs); }
+.pk-segmented--m .ant-segmented-item, .pk-segmented--l .ant-segmented-item { border-radius: var(--pk-radius-sm); }
+.pk-segmented--l .ant-segmented-item-label { font: var(--pk-typography-title-16-regular); display: flex; align-items: center; }
+.pk-segmented .ant-segmented-item-icon + * { margin-inline-start: var(--pk-space-075); }
+
+/* ---------- Bảng: hover dòng có elevation/raised ---------- */
+.ant-table-thead > tr > th { font: var(--pk-typography-body-14-medium); border-bottom-color: var(--pk-border-subtle); }
+.ant-table-tbody > tr:hover > td { box-shadow: none; }
+.ant-table-tbody > tr.ant-table-row-selected > td { border-bottom-color: var(--pk-border-selected); }
+
+/* ---------- Dropdown / Menu: panel rộng 210, padding 6, gap 4 ---------- */
+.ant-dropdown .ant-dropdown-menu { padding: var(--pk-space-075); min-width: var(--pk-size-dropdown-width); border: var(--pk-border-width-default) solid var(--pk-border-subtlest); }
+.ant-dropdown-menu-item-group-title { font: var(--pk-typography-footnote-12-medium); color: var(--pk-text-subtlest); }
+
+/* ---------- Modal ---------- */
+.pk-modal .ant-modal-title { font: var(--pk-typography-title-16-medium); color: var(--pk-text-strong); }
+.pk-modal .ant-modal-footer { display: flex; justify-content: flex-end; gap: var(--pk-space-100); }
+.pk-modal .ant-modal-footer > .ant-btn + .ant-btn { margin-inline-start: 0; }
+
+/* ---------- Tooltip có phím tắt ---------- */
+.ant-tooltip .pk-kbd { background: transparent; color: var(--pk-tooltip-dark-text-subtle); border-color: var(--pk-tooltip-dark-keystroke-bg); }
+
+/* ---------- Form: label → 8 → input → 4 → helper/lỗi; giữ khoảng cách giữa các field khi có helper ---------- */
+.ant-form-item-with-help .ant-form-item-additional { padding-bottom: var(--pk-space-200); }
+.ant-form-item-explain { margin-top: var(--pk-space-050); font: var(--pk-typography-footnote-12-regular); }
+.ant-form-item-explain:not(.ant-form-item-explain-error) { color: var(--pk-text-subtlest); }
+.ant-form-item-explain-error { color: var(--pk-text-danger); }

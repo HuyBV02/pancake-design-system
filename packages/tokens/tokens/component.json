@@ -1,0 +1,926 @@
+{
+  "button": {
+    "tertiary-negative": {
+      "text": {
+        "rest": {
+          "$type": "color",
+          "$value": "{crimson.600}",
+          "$extensions": {
+            "vn.pancake.figma": {
+              "file": "aScl8gFsM1pWrd0atTwyJM",
+              "collection": "Component Token",
+              "variable": "button/tertiary-negative/text/rest"
+            }
+          }
+        },
+        "hover": {
+          "$type": "color",
+          "$value": "{crimson.500}",
+          "$extensions": {
+            "vn.pancake.figma": {
+              "file": "aScl8gFsM1pWrd0atTwyJM",
+              "collection": "Component Token",
+              "variable": "button/tertiary-negative/text/hover"
+            }
+          }
+        },
+        "pressed": {
+          "$type": "color",
+          "$value": "{crimson.500}",
+          "$extensions": {
+            "vn.pancake.figma": {
+              "file": "aScl8gFsM1pWrd0atTwyJM",
+              "collection": "Component Token",
+              "variable": "button/tertiary-negative/text/pressed"
+            }
+          }
+        }
+      },
+      "icon": {
+        "rest": {
+          "$type": "color",
+          "$value": "{crimson.600}",
+          "$extensions": {
+            "vn.pancake.figma": {
+              "file": "aScl8gFsM1pWrd0atTwyJM",
+              "collection": "Component Token",
+              "variable": "button/tertiary-negative/icon/rest"
+            }
+          }
+        },
+        "hover": {
+          "$type": "color",
+          "$value": "{crimson.500}",
+          "$extensions": {
+            "vn.pancake.figma": {
+              "file": "aScl8gFsM1pWrd0atTwyJM",
+              "collection": "Component Token",
+              "variable": "button/tertiary-negative/icon/hover"
+            }
+          }
+        },
+        "pressed": {
+          "$type": "color",
+          "$value": "{crimson.500}",
+          "$extensions": {
+            "vn.pancake.figma": {
+              "file": "aScl8gFsM1pWrd0atTwyJM",
+              "collection": "Component Token",
+              "variable": "button/tertiary-negative/icon/pressed"
+            }
+          }
+        }
+      }
+    }
+  },
+  "input": {
+    "icon": {
+      "error": {
+        "$type": "color",
+        "$value": "{crimson.600}",
+        "$extensions": {
+          "vn.pancake.figma": {
+            "file": "aScl8gFsM1pWrd0atTwyJM",
+            "collection": "Component Token",
+            "variable": "input/icon/error"
+          }
+        }
+      },
+      "error-subtle": {
+        "$type": "color",
+        "$value": "{red.400}",
+        "$extensions": {
+          "vn.pancake.figma": {
+            "file": "aScl8gFsM1pWrd0atTwyJM",
+            "collection": "Component Token",
+            "variable": "input/icon/error-subtle"
+          }
+        }
+      }
+    },
+    "text": {
+      "error": {
+        "$type": "color",
+        "$value": "{crimson.600}",
+        "$extensions": {
+          "vn.pancake.figma": {
+            "file": "aScl8gFsM1pWrd0atTwyJM",
+            "collection": "Component Token",
+            "variable": "input/text/error"
+          }
+        }
+      }
+    }
+  },
+  "checkbox": {
+    "text": {
+      "disabled": {
+        "$type": "color",
+        "$value": "{gray.300}",
+        "$extensions": {
+          "vn.pancake.figma": {
+            "file": "aScl8gFsM1pWrd0atTwyJM",
+            "collection": "Component Token",
+            "variable": "checkbox/text/disabled"
+          }
+        }
+      }
+    }
+  },
+  "tabs": {
+    "icon": {
+      "divider": {
+        "$type": "color",
+        "$value": "{gray.100}",
+        "$extensions": {
+          "vn.pancake.figma": {
+            "file": "aScl8gFsM1pWrd0atTwyJM",
+            "collection": "Component Token",
+            "variable": "tabs/icon/divider"
+          }
+        }
+      }
+    },
+    "border": {
+      "divider": {
+        "$type": "color",
+        "$value": "{gray.100}",
+        "$extensions": {
+          "vn.pancake.figma": {
+            "file": "aScl8gFsM1pWrd0atTwyJM",
+            "collection": "Component Token",
+            "variable": "tabs/border/divider"
+          }
+        }
+      }
+    }
+  },
+  "dropdown": {
+    "text": {
+      "danger": {
+        "$type": "color",
+        "$value": "{red.500}",
+        "$extensions": {
+          "vn.pancake.figma": {
+            "file": "aScl8gFsM1pWrd0atTwyJM",
+            "collection": "Component Token",
+            "variable": "dropdown/text/danger"
+          }
+        }
+      }
+    },
+    "icon": {
+      "scrollbar": {
+        "$type": "color",
+        "$value": "{gray.300}",
+        "$extensions": {
+          "vn.pancake.figma": {
+            "file": "aScl8gFsM1pWrd0atTwyJM",
+            "collection": "Component Token",
+            "variable": "dropdown/icon/scrollbar"
+          }
+        }
+      }
+    }
+  },
+  "tag": {
+    "magenta": {
+      "text-800": {
+        "$type": "color",
+        "$value": "{magenta.800}",
+        "$extensions": {
+          "vn.pancake.figma": {
+            "file": "aScl8gFsM1pWrd0atTwyJM",
+            "collection": "Component Token",
+            "variable": "tag/magenta/text-800"
+          }
+        }
+      },
+      "icon-600": {
+        "$type": "color",
+        "$value": "{magenta.600}",
+        "$extensions": {
+          "vn.pancake.figma": {
+            "file": "aScl8gFsM1pWrd0atTwyJM",
+            "collection": "Component Token",
+            "variable": "tag/magenta/icon-600"
+          }
+        }
+      },
+      "border-400": {
+        "$type": "color",
+        "$value": "{magenta.400}",
+        "$extensions": {
+          "vn.pancake.figma": {
+            "file": "aScl8gFsM1pWrd0atTwyJM",
+            "collection": "Component Token",
+            "variable": "tag/magenta/border-400"
+          }
+        }
+      },
+      "icon-500": {
+        "$type": "color",
+        "$value": "{magenta.500}",
+        "$extensions": {
+          "vn.pancake.figma": {
+            "file": "aScl8gFsM1pWrd0atTwyJM",
+            "collection": "Component Token",
+            "variable": "tag/magenta/icon-500"
+          }
+        }
+      }
+    },
+    "red": {
+      "icon-600": {
+        "$type": "color",
+        "$value": "{red.600}",
+        "$extensions": {
+          "vn.pancake.figma": {
+            "file": "aScl8gFsM1pWrd0atTwyJM",
+            "collection": "Component Token",
+            "variable": "tag/red/icon-600"
+          }
+        }
+      },
+      "text-600": {
+        "$type": "color",
+        "$value": "{red.600}",
+        "$extensions": {
+          "vn.pancake.figma": {
+            "file": "aScl8gFsM1pWrd0atTwyJM",
+            "collection": "Component Token",
+            "variable": "tag/red/text-600"
+          }
+        }
+      }
+    },
+    "volcano": {
+      "icon-700": {
+        "$type": "color",
+        "$value": "{volcano.700}",
+        "$extensions": {
+          "vn.pancake.figma": {
+            "file": "aScl8gFsM1pWrd0atTwyJM",
+            "collection": "Component Token",
+            "variable": "tag/volcano/icon-700"
+          }
+        }
+      },
+      "icon-600": {
+        "$type": "color",
+        "$value": "{volcano.600}",
+        "$extensions": {
+          "vn.pancake.figma": {
+            "file": "aScl8gFsM1pWrd0atTwyJM",
+            "collection": "Component Token",
+            "variable": "tag/volcano/icon-600"
+          }
+        }
+      },
+      "text-600": {
+        "$type": "color",
+        "$value": "{volcano.600}",
+        "$extensions": {
+          "vn.pancake.figma": {
+            "file": "aScl8gFsM1pWrd0atTwyJM",
+            "collection": "Component Token",
+            "variable": "tag/volcano/text-600"
+          }
+        }
+      }
+    },
+    "orange": {
+      "icon-700": {
+        "$type": "color",
+        "$value": "{orange.700}",
+        "$extensions": {
+          "vn.pancake.figma": {
+            "file": "aScl8gFsM1pWrd0atTwyJM",
+            "collection": "Component Token",
+            "variable": "tag/orange/icon-700"
+          }
+        }
+      },
+      "icon-600": {
+        "$type": "color",
+        "$value": "{orange.600}",
+        "$extensions": {
+          "vn.pancake.figma": {
+            "file": "aScl8gFsM1pWrd0atTwyJM",
+            "collection": "Component Token",
+            "variable": "tag/orange/icon-600"
+          }
+        }
+      }
+    },
+    "gold": {
+      "icon-800": {
+        "$type": "color",
+        "$value": "{gold.800}",
+        "$extensions": {
+          "vn.pancake.figma": {
+            "file": "aScl8gFsM1pWrd0atTwyJM",
+            "collection": "Component Token",
+            "variable": "tag/gold/icon-800"
+          }
+        }
+      },
+      "text-800": {
+        "$type": "color",
+        "$value": "{gold.800}",
+        "$extensions": {
+          "vn.pancake.figma": {
+            "file": "aScl8gFsM1pWrd0atTwyJM",
+            "collection": "Component Token",
+            "variable": "tag/gold/text-800"
+          }
+        }
+      },
+      "icon-600": {
+        "$type": "color",
+        "$value": "{gold.600}",
+        "$extensions": {
+          "vn.pancake.figma": {
+            "file": "aScl8gFsM1pWrd0atTwyJM",
+            "collection": "Component Token",
+            "variable": "tag/gold/icon-600"
+          }
+        }
+      }
+    },
+    "lime": {
+      "icon-800": {
+        "$type": "color",
+        "$value": "{lime.800}",
+        "$extensions": {
+          "vn.pancake.figma": {
+            "file": "aScl8gFsM1pWrd0atTwyJM",
+            "collection": "Component Token",
+            "variable": "tag/lime/icon-800"
+          }
+        }
+      },
+      "text-800": {
+        "$type": "color",
+        "$value": "{lime.800}",
+        "$extensions": {
+          "vn.pancake.figma": {
+            "file": "aScl8gFsM1pWrd0atTwyJM",
+            "collection": "Component Token",
+            "variable": "tag/lime/text-800"
+          }
+        }
+      },
+      "icon-700": {
+        "$type": "color",
+        "$value": "{lime.700}",
+        "$extensions": {
+          "vn.pancake.figma": {
+            "file": "aScl8gFsM1pWrd0atTwyJM",
+            "collection": "Component Token",
+            "variable": "tag/lime/icon-700"
+          }
+        }
+      },
+      "bg-700": {
+        "$type": "color",
+        "$value": "{lime.700}",
+        "$extensions": {
+          "vn.pancake.figma": {
+            "file": "aScl8gFsM1pWrd0atTwyJM",
+            "collection": "Component Token",
+            "variable": "tag/lime/bg-700"
+          }
+        }
+      }
+    },
+    "cyan": {
+      "icon-700": {
+        "$type": "color",
+        "$value": "{cyan.700}",
+        "$extensions": {
+          "vn.pancake.figma": {
+            "file": "aScl8gFsM1pWrd0atTwyJM",
+            "collection": "Component Token",
+            "variable": "tag/cyan/icon-700"
+          }
+        }
+      },
+      "bg-700": {
+        "$type": "color",
+        "$value": "{cyan.700}",
+        "$extensions": {
+          "vn.pancake.figma": {
+            "file": "aScl8gFsM1pWrd0atTwyJM",
+            "collection": "Component Token",
+            "variable": "tag/cyan/bg-700"
+          }
+        }
+      }
+    },
+    "geekblue": {
+      "text-600": {
+        "$type": "color",
+        "$value": "{geekblue.600}",
+        "$extensions": {
+          "vn.pancake.figma": {
+            "file": "aScl8gFsM1pWrd0atTwyJM",
+            "collection": "Component Token",
+            "variable": "tag/geekblue/text-600"
+          }
+        }
+      },
+      "icon-600": {
+        "$type": "color",
+        "$value": "{geekblue.600}",
+        "$extensions": {
+          "vn.pancake.figma": {
+            "file": "aScl8gFsM1pWrd0atTwyJM",
+            "collection": "Component Token",
+            "variable": "tag/geekblue/icon-600"
+          }
+        }
+      },
+      "bg-500": {
+        "$type": "color",
+        "$value": "{geekblue.500}",
+        "$extensions": {
+          "vn.pancake.figma": {
+            "file": "aScl8gFsM1pWrd0atTwyJM",
+            "collection": "Component Token",
+            "variable": "tag/geekblue/bg-500"
+          }
+        }
+      }
+    },
+    "purple": {
+      "text-600": {
+        "$type": "color",
+        "$value": "{purple.600}",
+        "$extensions": {
+          "vn.pancake.figma": {
+            "file": "aScl8gFsM1pWrd0atTwyJM",
+            "collection": "Component Token",
+            "variable": "tag/purple/text-600"
+          }
+        }
+      },
+      "icon-500": {
+        "$type": "color",
+        "$value": "{purple.500}",
+        "$extensions": {
+          "vn.pancake.figma": {
+            "file": "aScl8gFsM1pWrd0atTwyJM",
+            "collection": "Component Token",
+            "variable": "tag/purple/icon-500"
+          }
+        }
+      },
+      "icon-600": {
+        "$type": "color",
+        "$value": "{purple.600}",
+        "$extensions": {
+          "vn.pancake.figma": {
+            "file": "aScl8gFsM1pWrd0atTwyJM",
+            "collection": "Component Token",
+            "variable": "tag/purple/icon-600"
+          }
+        }
+      },
+      "bg-500": {
+        "$type": "color",
+        "$value": "{purple.500}",
+        "$extensions": {
+          "vn.pancake.figma": {
+            "file": "aScl8gFsM1pWrd0atTwyJM",
+            "collection": "Component Token",
+            "variable": "tag/purple/bg-500"
+          }
+        }
+      }
+    },
+    "green": {
+      "text-600": {
+        "$type": "color",
+        "$value": "{green.600}",
+        "$extensions": {
+          "vn.pancake.figma": {
+            "file": "aScl8gFsM1pWrd0atTwyJM",
+            "collection": "Component Token",
+            "variable": "tag/green/text-600"
+          }
+        }
+      }
+    },
+    "new": {
+      "bg": {
+        "$type": "color",
+        "$value": "{teal.50}",
+        "$extensions": {
+          "vn.pancake.figma": {
+            "file": "aScl8gFsM1pWrd0atTwyJM",
+            "collection": "Component Token",
+            "variable": "tag/new/bg"
+          }
+        }
+      },
+      "text": {
+        "$type": "color",
+        "$value": "{teal.800}",
+        "$extensions": {
+          "vn.pancake.figma": {
+            "file": "aScl8gFsM1pWrd0atTwyJM",
+            "collection": "Component Token",
+            "variable": "tag/new/text"
+          }
+        }
+      },
+      "border": {
+        "$type": "color",
+        "$value": "{teal.800}",
+        "$extensions": {
+          "vn.pancake.figma": {
+            "file": "aScl8gFsM1pWrd0atTwyJM",
+            "collection": "Component Token",
+            "variable": "tag/new/border"
+          }
+        }
+      }
+    }
+  },
+  "badge": {
+    "pink": {
+      "bg": {
+        "$type": "color",
+        "$value": "{magenta.400}",
+        "$extensions": {
+          "vn.pancake.figma": {
+            "file": "aScl8gFsM1pWrd0atTwyJM",
+            "collection": "Component Token",
+            "variable": "badge/pink/bg"
+          }
+        }
+      }
+    },
+    "yellow": {
+      "bg": {
+        "$type": "color",
+        "$value": "{yellow.600}",
+        "$extensions": {
+          "vn.pancake.figma": {
+            "file": "aScl8gFsM1pWrd0atTwyJM",
+            "collection": "Component Token",
+            "variable": "badge/yellow/bg"
+          }
+        }
+      }
+    },
+    "ribbon": {
+      "border": {
+        "$type": "color",
+        "$value": "{gray.100}",
+        "$extensions": {
+          "vn.pancake.figma": {
+            "file": "aScl8gFsM1pWrd0atTwyJM",
+            "collection": "Component Token",
+            "variable": "badge/ribbon/border"
+          }
+        }
+      }
+    }
+  },
+  "notification": {
+    "success": {
+      "text": {
+        "$type": "color",
+        "$value": "{green.800}",
+        "$extensions": {
+          "vn.pancake.figma": {
+            "file": "aScl8gFsM1pWrd0atTwyJM",
+            "collection": "Component Token",
+            "variable": "notification/success/text"
+          }
+        }
+      }
+    },
+    "info-notes": {
+      "bg": {
+        "$type": "color",
+        "$value": "{geekblue.500}",
+        "$extensions": {
+          "vn.pancake.figma": {
+            "file": "aScl8gFsM1pWrd0atTwyJM",
+            "collection": "Component Token",
+            "variable": "notification/info-notes/bg"
+          }
+        }
+      }
+    },
+    "error": {
+      "text": {
+        "$type": "color",
+        "$value": "{red.800}",
+        "$extensions": {
+          "vn.pancake.figma": {
+            "file": "aScl8gFsM1pWrd0atTwyJM",
+            "collection": "Component Token",
+            "variable": "notification/error/text"
+          }
+        }
+      }
+    }
+  },
+  "message": {
+    "error": {
+      "icon": {
+        "$type": "color",
+        "$value": "{red.600}",
+        "$extensions": {
+          "vn.pancake.figma": {
+            "file": "aScl8gFsM1pWrd0atTwyJM",
+            "collection": "Component Token",
+            "variable": "message/error/icon"
+          }
+        }
+      }
+    },
+    "warning": {
+      "icon": {
+        "$type": "color",
+        "$value": "{orange.600}",
+        "$extensions": {
+          "vn.pancake.figma": {
+            "file": "aScl8gFsM1pWrd0atTwyJM",
+            "collection": "Component Token",
+            "variable": "message/warning/icon"
+          }
+        }
+      }
+    }
+  },
+  "modal-confirm": {
+    "warning": {
+      "icon": {
+        "$type": "color",
+        "$value": "{orange.600}",
+        "$extensions": {
+          "vn.pancake.figma": {
+            "file": "aScl8gFsM1pWrd0atTwyJM",
+            "collection": "Component Token",
+            "variable": "modal-confirm/warning/icon"
+          }
+        }
+      }
+    },
+    "danger": {
+      "icon": {
+        "$type": "color",
+        "$value": "{red.600}",
+        "$extensions": {
+          "vn.pancake.figma": {
+            "file": "aScl8gFsM1pWrd0atTwyJM",
+            "collection": "Component Token",
+            "variable": "modal-confirm/danger/icon"
+          }
+        }
+      }
+    }
+  },
+  "popover": {
+    "icon": {
+      "subtle": {
+        "$type": "color",
+        "$value": "{gray.300}",
+        "$extensions": {
+          "vn.pancake.figma": {
+            "file": "aScl8gFsM1pWrd0atTwyJM",
+            "collection": "Component Token",
+            "variable": "popover/icon/subtle"
+          }
+        }
+      }
+    },
+    "border": {
+      "divider": {
+        "$type": "color",
+        "$value": "{gray.100}",
+        "$extensions": {
+          "vn.pancake.figma": {
+            "file": "aScl8gFsM1pWrd0atTwyJM",
+            "collection": "Component Token",
+            "variable": "popover/border/divider"
+          }
+        }
+      }
+    },
+    "bg": {
+      "placeholder": {
+        "$type": "color",
+        "$value": "{gray.300}",
+        "$extensions": {
+          "vn.pancake.figma": {
+            "file": "aScl8gFsM1pWrd0atTwyJM",
+            "collection": "Component Token",
+            "variable": "popover/bg/placeholder"
+          }
+        }
+      }
+    }
+  },
+  "tooltip": {
+    "dark": {
+      "text": {
+        "$type": "color",
+        "$value": "{gray.100}",
+        "$extensions": {
+          "vn.pancake.figma": {
+            "file": "aScl8gFsM1pWrd0atTwyJM",
+            "collection": "Component Token",
+            "variable": "tooltip/dark/text"
+          }
+        }
+      },
+      "text-subtle": {
+        "$type": "color",
+        "$value": "{gray.300}",
+        "$extensions": {
+          "vn.pancake.figma": {
+            "file": "aScl8gFsM1pWrd0atTwyJM",
+            "collection": "Component Token",
+            "variable": "tooltip/dark/text-subtle"
+          }
+        }
+      },
+      "icon": {
+        "$type": "color",
+        "$value": "{gray.300}",
+        "$extensions": {
+          "vn.pancake.figma": {
+            "file": "aScl8gFsM1pWrd0atTwyJM",
+            "collection": "Component Token",
+            "variable": "tooltip/dark/icon"
+          }
+        }
+      },
+      "keystroke-bg": {
+        "$type": "color",
+        "$value": "{gray.700}",
+        "$extensions": {
+          "vn.pancake.figma": {
+            "file": "aScl8gFsM1pWrd0atTwyJM",
+            "collection": "Component Token",
+            "variable": "tooltip/dark/keystroke-bg"
+          }
+        }
+      }
+    }
+  },
+  "tour": {
+    "dark": {
+      "text": {
+        "$type": "color",
+        "$value": "{gray.100}",
+        "$extensions": {
+          "vn.pancake.figma": {
+            "file": "aScl8gFsM1pWrd0atTwyJM",
+            "collection": "Component Token",
+            "variable": "tour/dark/text"
+          }
+        }
+      },
+      "bg-subtle": {
+        "$type": "color",
+        "$value": "{gray.600}",
+        "$extensions": {
+          "vn.pancake.figma": {
+            "file": "aScl8gFsM1pWrd0atTwyJM",
+            "collection": "Component Token",
+            "variable": "tour/dark/bg-subtle"
+          }
+        }
+      }
+    }
+  },
+  "table": {
+    "row": {
+      "icon-danger": {
+        "$type": "color",
+        "$value": "{crimson.600}",
+        "$extensions": {
+          "vn.pancake.figma": {
+            "file": "aScl8gFsM1pWrd0atTwyJM",
+            "collection": "Component Token",
+            "variable": "table/row/icon-danger"
+          }
+        }
+      },
+      "accent-bg": {
+        "$type": "color",
+        "$value": "#43b5c3",
+        "$extensions": {
+          "vn.pancake.figma": {
+            "file": "aScl8gFsM1pWrd0atTwyJM",
+            "collection": "Component Token",
+            "variable": "table/row/accent-bg"
+          }
+        }
+      },
+      "tag-icon": {
+        "$type": "color",
+        "$value": "{accent.cyan.bold}",
+        "$extensions": {
+          "vn.pancake.figma": {
+            "file": "aScl8gFsM1pWrd0atTwyJM",
+            "collection": "Component Token",
+            "variable": "table/row/tag-icon"
+          }
+        }
+      }
+    },
+    "header": {
+      "divider": {
+        "$type": "color",
+        "$value": "{gray.100}",
+        "$extensions": {
+          "vn.pancake.figma": {
+            "file": "aScl8gFsM1pWrd0atTwyJM",
+            "collection": "Component Token",
+            "variable": "table/header/divider"
+          }
+        }
+      }
+    }
+  },
+  "spinner": {
+    "track": {
+      "$type": "color",
+      "$value": "{blue.100}",
+      "$extensions": {
+        "vn.pancake.figma": {
+          "file": "aScl8gFsM1pWrd0atTwyJM",
+          "collection": "Component Token",
+          "variable": "spinner/track"
+        }
+      }
+    },
+    "indicator": {
+      "$type": "color",
+      "$value": "{bg.indicator.info}",
+      "$extensions": {
+        "vn.pancake.figma": {
+          "file": "aScl8gFsM1pWrd0atTwyJM",
+          "collection": "Component Token",
+          "variable": "spinner/indicator"
+        }
+      }
+    }
+  },
+  "chat": {
+    "bg": {
+      "$type": "color",
+      "$value": "{beige.100}",
+      "$extensions": {
+        "vn.pancake.figma": {
+          "file": "aScl8gFsM1pWrd0atTwyJM",
+          "collection": "Component Token",
+          "variable": "chat/bg"
+        }
+      }
+    },
+    "bubble-outgoing": {
+      "$type": "color",
+      "$value": "{green.150}",
+      "$extensions": {
+        "vn.pancake.figma": {
+          "file": "aScl8gFsM1pWrd0atTwyJM",
+          "collection": "Component Token",
+          "variable": "chat/bubble-outgoing"
+        }
+      }
+    },
+    "bubble-incoming": {
+      "$type": "color",
+      "$value": "{surface.default}",
+      "$extensions": {
+        "vn.pancake.figma": {
+          "file": "aScl8gFsM1pWrd0atTwyJM",
+          "collection": "Component Token",
+          "variable": "chat/bubble-incoming"
+        }
+      }
+    }
+  },
+  "alert": {
+    "warning-strong": {
+      "$type": "color",
+      "$value": "{orange.650}",
+      "$extensions": {
+        "vn.pancake.figma": {
+          "file": "aScl8gFsM1pWrd0atTwyJM",
+          "collection": "Component Token",
+          "variable": "alert/warning-strong"
+        }
+      }
+    }
+  }
+}

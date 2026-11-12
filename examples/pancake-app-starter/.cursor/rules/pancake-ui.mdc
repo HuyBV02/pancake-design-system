@@ -1,0 +1,12 @@
+---
+description: Giao diện Pancake Web — dựng màn, sửa UI, prototype bằng @pancake/ui và token DS_AI
+globs: ["src/**/*.tsx", "src/**/*.ts", "src/**/*.css"]
+alwaysApply: false
+---
+Làm theo `AGENTS.md` ở gốc repo (luật cứng + quy trình lên design trong playground).
+Tra cứu trước khi viết UI:
+- @node_modules/@pancake/ui/docs/components.md
+- @node_modules/@pancake/tokens/dist/docs/tokens.md
+- @node_modules/@pancake/ui/docs/rules.md
+- @node_modules/@pancake/ui/docs/recipes.md
+Chạy `npm run lint` sau khi sửa và sửa hết lỗi `@pancake/lint` trước khi báo xong.

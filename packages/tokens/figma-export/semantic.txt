@@ -1,0 +1,174 @@
+text/default|C|{gray/800}|Nội dung chính, tiêu đề, giá trị input
+text/strong|C|{gray/900}|Giá trị cần nhấn, tiêu đề modal xác nhận
+text/control|C|{gray/700}|Nhãn nút Secondary Gray / Tertiary Gray / Text Button
+text/subtle|C|{gray/600}|Label form, nội dung phụ, danh sách tính năng
+text/subtlest|C|{gray/500}|Mô tả, meta, thời gian, giá gạch ngang
+text/placeholder|C|{gray/400}|Placeholder input/select
+text/disabled|C|{gray/400}|Chữ trên control vô hiệu
+text/inverse|C|{gray/0}|Chữ trên nền đậm
+text/brand/rest|C|{blue/700}|Link, ID, nút Link/Secondary Blue/Tertiary Blue
+text/brand/hover|C|{blue/600}|Hover link, Tertiary Blue
+text/brand/pressed|C|{blue/800}|Nhấn giữ link
+text/selected|C|{blue/600}|Tab đang chọn, menu checked
+text/danger|C|{red/700}|Nhãn nút phủ định, dấu * bắt buộc, chữ lỗi
+text/success|C|{green/700}|Số tiền được trừ, trạng thái thành công
+text/warning|C|{orange/800}|Tiêu đề notification cảnh báo
+text/info|C|{blue/600}|Chữ thông tin, liên kết trong Alert info
+icon/default|C|{gray/700}|Icon trong nút xám, Text Button, toolbar
+icon/subtle|C|{gray/500}|Caret input, icon meta, icon ô tìm kiếm
+icon/subtlest|C|{gray/400}|Icon rất nhạt: nút xoá trong input, resizer
+icon/disabled|C|{gray/400}|Icon trên control vô hiệu
+icon/inverse|C|{gray/0}|Icon trên nền đậm
+icon/brand|C|{blue/700}|Icon trong nút xanh, link có icon
+icon/info|C|{blue/600}|Alert/Message thông tin
+icon/success|C|{green/600}|CheckCircle, Alert/Message thành công
+icon/warning|C|{volcano/500}|Alert/Message cảnh báo
+icon/danger|C|{red/500}|Alert/Message lỗi, XCircle
+surface/default|C|{gray/0}|Nền trang, card, panel
+surface/subtle|C|{gray/50}|Khối phụ trong card
+surface/sunken|C|{gray/100}|Header bảng, vùng lõm nhẹ
+surface/overlay|C|{gray/0}|Dropdown, popover, modal, toast — đi kèm elevation/overlay
+surface/inverse|C|{gray/800}|Tour tối, tooltip tối
+surface/chat|C|{beige/200}|Nền khung chat màn Hội thoại
+surface/canvas|C|{gray/150}|Nền vùng nội dung phía sau card (Cài đặt, Thống kê)
+bg/brand-bold/rest|C|{blue/700}|Nút Primary, switch bật
+bg/brand-bold/hover|C|{blue/600}|Hover nút Primary
+bg/brand-bold/pressed|C|{blue/800}|Nhấn nút Primary
+bg/brand-bold/disabled|C|{slate/400}|Nút Primary vô hiệu
+bg/brand-subtle/rest|C|{blue/100}|Nút Secondary Blue
+bg/brand-subtle/hover|C|{blue/200}|Hover Secondary Blue
+bg/brand-subtle/pressed|C|{blue/300}|Nhấn Secondary Blue
+bg/brand-subtlest|C|{blue/50}|Alert info, hover/checked checkbox
+bg/neutral/rest|C|{gray/200}|Nút Secondary Gray, rãnh segmented, chip Tag input
+bg/neutral/hover|C|{gray/250}|Hover Secondary Gray, item segmented
+bg/neutral/pressed|C|{gray/300}|Nhấn Secondary Gray
+bg/neutral-subtle/rest|C|#ffffff00|Text / Link Button khi nghỉ
+bg/neutral-subtle/hover|C|{gray/250}|Hover Text / Link Button
+bg/neutral-subtle/pressed|C|{gray/300}|Nhấn Text / Link Button
+bg/neutral-bold/rest|C|{gray/800}|Nền đậm trung tính: badge tối, toast/tooltip tối
+bg/neutral-bold/hover|C|{gray/700}|Hover nền đậm trung tính
+bg/neutral-bold/pressed|C|{gray/900}|Nhấn nền đậm trung tính
+bg/danger-bold/rest|C|{crimson/600}|Nút Primary Negative
+bg/danger-bold/hover|C|{crimson/500}|Hover Primary Negative
+bg/danger-bold/pressed|C|{crimson/500}|Nhấn Primary Negative
+bg/danger-bold/disabled|C|{slate/400}|Nút Primary Negative vô hiệu
+bg/danger-subtle/rest|C|{crimson/100}|Nút Secondary Negative
+bg/danger-subtle/hover|C|{crimson/200}|Hover Secondary Negative
+bg/danger-subtle/pressed|C|{crimson/300}|Nhấn Secondary Negative
+bg/success-bold/rest|C|{green/600}|Nút/khối thành công đậm (chữ trắng)
+bg/success-bold/hover|C|{green/500}|Hover thành công đậm
+bg/success-bold/pressed|C|{green/700}|Nhấn thành công đậm
+bg/success-subtle/rest|C|{green/200}|Nền thành công nhạt
+bg/success-subtle/hover|C|{green/300}|Hover thành công nhạt
+bg/success-subtle/pressed|C|{green/400}|Nhấn thành công nhạt
+bg/warning-bold/rest|C|{volcano/500}|Khối cảnh báo đậm (chữ trắng)
+bg/warning-bold/hover|C|{volcano/400}|Hover cảnh báo đậm
+bg/warning-bold/pressed|C|{volcano/600}|Nhấn cảnh báo đậm
+bg/warning-subtle/rest|C|{volcano/200}|Nền cảnh báo nhạt
+bg/warning-subtle/hover|C|{volcano/300}|Hover cảnh báo nhạt
+bg/warning-subtle/pressed|C|{volcano/400}|Nhấn cảnh báo nhạt
+bg/info-bold/rest|C|{blue/600}|Khối thông tin đậm (chữ trắng)
+bg/info-bold/hover|C|{blue/500}|Hover thông tin đậm
+bg/info-bold/pressed|C|{blue/700}|Nhấn thông tin đậm
+bg/info-subtle/rest|C|{blue/100}|Nền thông tin nhạt
+bg/info-subtle/hover|C|{blue/200}|Hover thông tin nhạt
+bg/info-subtle/pressed|C|{blue/300}|Nhấn thông tin nhạt
+bg/disabled|C|{gray/50}|Nền nút Secondary/Tertiary vô hiệu
+bg/input/rest|C|{gray/0}|Nền input, select, textarea
+bg/input/disabled|C|{gray/100}|Input vô hiệu
+bg/item/hover|C|{gray/200}|Hover dòng bảng, item dropdown, ô lịch
+bg/item/selected|C|{blue/100}|Dòng / item đang chọn
+bg/item/selected-hover|C|{blue/200}|Hover item đang chọn
+bg/control/off|C|{gray/300}|Switch tắt
+bg/control/off-hover|C|{gray/400}|Hover switch tắt
+bg/info-subtlest|C|{blue/50}|Alert thông tin
+bg/success-subtlest|C|{green/100}|Alert / Notification thành công
+bg/warning-subtlest|C|{volcano/100}|Alert cảnh báo
+bg/danger-subtlest|C|{red/100}|Alert / Notification lỗi
+bg/indicator/info|C|{blue/600}|Badge đếm xanh, chấm processing
+bg/indicator/success|C|{green/600}|Badge xanh lá, chấm thành công
+bg/indicator/warning|C|{gold/600}|Chấm cảnh báo
+bg/indicator/danger|C|{red/500}|Badge đếm đỏ (chưa đọc), chấm lỗi
+bg/indicator/neutral|C|{gray/400}|Badge xám, chấm mặc định
+bg/skeleton|C|{gray/200}|Khối skeleton
+border/default|C|{gray/300}|Input, select, Tertiary Gray, nút +/−
+border/subtle|C|{gray/250}|Dòng bảng, checkbox, card cài đặt
+border/subtlest|C|{gray/200}|Viền card, panel dropdown, divider trong card
+border/strong|C|{gray/400}|Viền cần nổi rõ trên nền xám
+border/brand/rest|C|{blue/700}|Tertiary Blue, radio button outlined đang chọn
+border/brand/hover|C|{blue/600}|Hover Tertiary Blue
+border/brand/pressed|C|{blue/600}|Nhấn Tertiary Blue
+border/focus|C|{blue/600}|Input hover & focus, checkbox hover
+border/selected|C|{blue/300}|Dòng bảng đang chọn
+border/danger/rest|C|{crimson/600}|Input lỗi, Tertiary Negative
+border/danger/hover|C|{crimson/500}|Hover Tertiary Negative
+border/danger/pressed|C|{crimson/500}|Nhấn Tertiary Negative
+border/disabled|C|{gray/300}|Control vô hiệu
+border/success|C|{green/300}|Viền khối thành công
+border/warning|C|{volcano/300}|Viền khối cảnh báo
+border/info|C|{blue/300}|Viền khối thông tin
+border/inverse|C|{gray/0}|Viền trắng trên nền đậm / ảnh (avatar, badge)
+overlay/backdrop|C|#47546799|Nền mờ sau Modal / Drawer — #475467 60%
+accent/blue/bg|C|{blue/100}|Nền tag blue
+accent/blue/border|C|{blue/300}|Viền tag blue
+accent/blue/text|C|{blue/700}|Chữ tag blue (không viền)
+accent/blue/text-strong|C|{blue/950}|Chữ tag blue (có viền)
+accent/blue/bold|C|{blue/600}|Nền tag solid blue, chữ trắng
+accent/cyan/bg|C|{cyan/100}|Nền tag cyan
+accent/cyan/border|C|{cyan/300}|Viền tag cyan
+accent/cyan/text|C|{cyan/700}|Chữ tag cyan (không viền)
+accent/cyan/text-strong|C|{cyan/950}|Chữ tag cyan (có viền)
+accent/cyan/bold|C|{cyan/600}|Nền tag solid cyan, chữ trắng
+accent/geekblue/bg|C|{geekblue/100}|Nền tag geekblue
+accent/geekblue/border|C|{geekblue/300}|Viền tag geekblue
+accent/geekblue/text|C|{geekblue/700}|Chữ tag geekblue (không viền)
+accent/geekblue/text-strong|C|{geekblue/950}|Chữ tag geekblue (có viền)
+accent/geekblue/bold|C|{geekblue/600}|Nền tag solid geekblue, chữ trắng
+accent/purple/bg|C|{purple/100}|Nền tag purple
+accent/purple/border|C|{purple/300}|Viền tag purple
+accent/purple/text|C|{purple/700}|Chữ tag purple (không viền)
+accent/purple/text-strong|C|{purple/950}|Chữ tag purple (có viền)
+accent/purple/bold|C|{purple/600}|Nền tag solid purple, chữ trắng
+accent/magenta/bg|C|{magenta/100}|Nền tag magenta
+accent/magenta/border|C|{magenta/300}|Viền tag magenta
+accent/magenta/text|C|{magenta/700}|Chữ tag magenta (không viền)
+accent/magenta/text-strong|C|{magenta/950}|Chữ tag magenta (có viền)
+accent/magenta/bold|C|{magenta/600}|Nền tag solid magenta, chữ trắng
+accent/red/bg|C|{red/100}|Nền tag red
+accent/red/border|C|{red/300}|Viền tag red
+accent/red/text|C|{red/700}|Chữ tag red (không viền)
+accent/red/text-strong|C|{red/950}|Chữ tag red (có viền)
+accent/red/bold|C|{red/600}|Nền tag solid red, chữ trắng
+accent/volcano/bg|C|{volcano/100}|Nền tag volcano
+accent/volcano/border|C|{volcano/300}|Viền tag volcano
+accent/volcano/text|C|{volcano/700}|Chữ tag volcano (không viền)
+accent/volcano/text-strong|C|{volcano/950}|Chữ tag volcano (có viền)
+accent/volcano/bold|C|{volcano/600}|Nền tag solid volcano, chữ trắng
+accent/orange/bg|C|{orange/100}|Nền tag orange
+accent/orange/border|C|{orange/300}|Viền tag orange
+accent/orange/text|C|{orange/700}|Chữ tag orange (không viền)
+accent/orange/text-strong|C|{orange/950}|Chữ tag orange (có viền)
+accent/orange/bold|C|{orange/600}|Nền tag solid orange, chữ trắng
+accent/gold/bg|C|{gold/100}|Nền tag gold
+accent/gold/border|C|{gold/400}|Viền tag gold
+accent/gold/text|C|{gold/700}|Chữ tag gold (không viền)
+accent/gold/text-strong|C|{gold/950}|Chữ tag gold (có viền)
+accent/gold/bold|C|{gold/600}|Nền tag solid gold, chữ trắng
+accent/lime/bg|C|{lime/100}|Nền tag lime
+accent/lime/border|C|{lime/500}|Viền tag lime
+accent/lime/text|C|{lime/700}|Chữ tag lime (không viền)
+accent/lime/text-strong|C|{lime/950}|Chữ tag lime (có viền)
+accent/lime/bold|C|{lime/600}|Nền tag solid lime, chữ trắng
+accent/green/bg|C|{green/100}|Nền tag green
+accent/green/border|C|{green/300}|Viền tag green
+accent/green/text|C|{green/700}|Chữ tag green (không viền)
+accent/green/text-strong|C|{green/950}|Chữ tag green (có viền)
+accent/green/bold|C|{green/600}|Nền tag solid green, chữ trắng
+chart/1|C|{blue/600}|Màu chuỗi biểu đồ 1
+chart/2|C|{cyan/600}|Màu chuỗi biểu đồ 2
+chart/3|C|{magenta/500}|Màu chuỗi biểu đồ 3
+chart/4|C|{orange/500}|Màu chuỗi biểu đồ 4
+chart/5|C|{purple/400}|Màu chuỗi biểu đồ 5
+chart/6|C|{green/600}|Màu chuỗi biểu đồ 6
+chart/7|C|{gold/400}|Màu chuỗi biểu đồ 7
+chart/8|C|{cyan/300}|Màu chuỗi biểu đồ 8

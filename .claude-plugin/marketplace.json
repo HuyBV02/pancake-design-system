@@ -1,0 +1,12 @@
+{
+  "name": "pancake",
+  "owner": { "name": "Pancake Design Team" },
+  "metadata": { "description": "Plugin Claude Code cho đội Pancake" },
+  "plugins": [
+    {
+      "name": "pancake-ui-dev",
+      "source": "./plugins/pancake-ui-dev",
+      "description": "Lên design và code UI Pancake Web đúng Design System, không cần Figma"
+    }
+  ]
+}

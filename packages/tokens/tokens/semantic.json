@@ -1,0 +1,2168 @@
+{
+  "text": {
+    "default": {
+      "$type": "color",
+      "$value": "{gray.800}",
+      "$description": "Nội dung chính, tiêu đề, giá trị input",
+      "$extensions": {
+        "vn.pancake.figma": {
+          "file": "aScl8gFsM1pWrd0atTwyJM",
+          "collection": "Semantic",
+          "variable": "text/default"
+        }
+      }
+    },
+    "strong": {
+      "$type": "color",
+      "$value": "{gray.900}",
+      "$description": "Giá trị cần nhấn, tiêu đề modal xác nhận",
+      "$extensions": {
+        "vn.pancake.figma": {
+          "file": "aScl8gFsM1pWrd0atTwyJM",
+          "collection": "Semantic",
+          "variable": "text/strong"
+        }
+      }
+    },
+    "control": {
+      "$type": "color",
+      "$value": "{gray.700}",
+      "$description": "Nhãn nút Secondary Gray / Tertiary Gray / Text Button",
+      "$extensions": {
+        "vn.pancake.figma": {
+          "file": "aScl8gFsM1pWrd0atTwyJM",
+          "collection": "Semantic",
+          "variable": "text/control"
+        }
+      }
+    },
+    "subtle": {
+      "$type": "color",
+      "$value": "{gray.600}",
+      "$description": "Label form, nội dung phụ, danh sách tính năng",
+      "$extensions": {
+        "vn.pancake.figma": {
+          "file": "aScl8gFsM1pWrd0atTwyJM",
+          "collection": "Semantic",
+          "variable": "text/subtle"
+        }
+      }
+    },
+    "subtlest": {
+      "$type": "color",
+      "$value": "{gray.500}",
+      "$description": "Mô tả, meta, thời gian, giá gạch ngang",
+      "$extensions": {
+        "vn.pancake.figma": {
+          "file": "aScl8gFsM1pWrd0atTwyJM",
+          "collection": "Semantic",
+          "variable": "text/subtlest"
+        }
+      }
+    },
+    "placeholder": {
+      "$type": "color",
+      "$value": "{gray.400}",
+      "$description": "Placeholder input/select",
+      "$extensions": {
+        "vn.pancake.figma": {
+          "file": "aScl8gFsM1pWrd0atTwyJM",
+          "collection": "Semantic",
+          "variable": "text/placeholder"
+        }
+      }
+    },
+    "disabled": {
+      "$type": "color",
+      "$value": "{gray.400}",
+      "$description": "Chữ trên control vô hiệu",
+      "$extensions": {
+        "vn.pancake.figma": {
+          "file": "aScl8gFsM1pWrd0atTwyJM",
+          "collection": "Semantic",
+          "variable": "text/disabled"
+        }
+      }
+    },
+    "inverse": {
+      "$type": "color",
+      "$value": "{gray.0}",
+      "$description": "Chữ trên nền đậm",
+      "$extensions": {
+        "vn.pancake.figma": {
+          "file": "aScl8gFsM1pWrd0atTwyJM",
+          "collection": "Semantic",
+          "variable": "text/inverse"
+        }
+      }
+    },
+    "brand": {
+      "rest": {
+        "$type": "color",
+        "$value": "{blue.700}",
+        "$description": "Link, ID, nút Link/Secondary Blue/Tertiary Blue",
+        "$extensions": {
+          "vn.pancake.figma": {
+            "file": "aScl8gFsM1pWrd0atTwyJM",
+            "collection": "Semantic",
+            "variable": "text/brand/rest"
+          }
+        }
+      },
+      "hover": {
+        "$type": "color",
+        "$value": "{blue.600}",
+        "$description": "Hover link, Tertiary Blue",
+        "$extensions": {
+          "vn.pancake.figma": {
+            "file": "aScl8gFsM1pWrd0atTwyJM",
+            "collection": "Semantic",
+            "variable": "text/brand/hover"
+          }
+        }
+      },
+      "pressed": {
+        "$type": "color",
+        "$value": "{blue.800}",
+        "$description": "Nhấn giữ link",
+        "$extensions": {
+          "vn.pancake.figma": {
+            "file": "aScl8gFsM1pWrd0atTwyJM",
+            "collection": "Semantic",
+            "variable": "text/brand/pressed"
+          }
+        }
+      }
+    },
+    "selected": {
+      "$type": "color",
+      "$value": "{blue.600}",
+      "$description": "Tab đang chọn, menu checked",
+      "$extensions": {
+        "vn.pancake.figma": {
+          "file": "aScl8gFsM1pWrd0atTwyJM",
+          "collection": "Semantic",
+          "variable": "text/selected"
+        }
+      }
+    },
+    "danger": {
+      "$type": "color",
+      "$value": "{red.700}",
+      "$description": "Nhãn nút phủ định, dấu * bắt buộc, chữ lỗi",
+      "$extensions": {
+        "vn.pancake.figma": {
+          "file": "aScl8gFsM1pWrd0atTwyJM",
+          "collection": "Semantic",
+          "variable": "text/danger"
+        }
+      }
+    },
+    "success": {
+      "$type": "color",
+      "$value": "{green.700}",
+      "$description": "Số tiền được trừ, trạng thái thành công",
+      "$extensions": {
+        "vn.pancake.figma": {
+          "file": "aScl8gFsM1pWrd0atTwyJM",
+          "collection": "Semantic",
+          "variable": "text/success"
+        }
+      }
+    },
+    "warning": {
+      "$type": "color",
+      "$value": "{orange.800}",
+      "$description": "Tiêu đề notification cảnh báo",
+      "$extensions": {
+        "vn.pancake.figma": {
+          "file": "aScl8gFsM1pWrd0atTwyJM",
+          "collection": "Semantic",
+          "variable": "text/warning"
+        }
+      }
+    },
+    "info": {
+      "$type": "color",
+      "$value": "{blue.600}",
+      "$description": "Chữ thông tin, liên kết trong Alert info",
+      "$extensions": {
+        "vn.pancake.figma": {
+          "file": "aScl8gFsM1pWrd0atTwyJM",
+          "collection": "Semantic",
+          "variable": "text/info"
+        }
+      }
+    }
+  },
+  "icon": {
+    "default": {
+      "$type": "color",
+      "$value": "{gray.700}",
+      "$description": "Icon trong nút xám, Text Button, toolbar",
+      "$extensions": {
+        "vn.pancake.figma": {
+          "file": "aScl8gFsM1pWrd0atTwyJM",
+          "collection": "Semantic",
+          "variable": "icon/default"
+        }
+      }
+    },
+    "subtle": {
+      "$type": "color",
+      "$value": "{gray.500}",
+      "$description": "Caret input, icon meta, icon ô tìm kiếm",
+      "$extensions": {
+        "vn.pancake.figma": {
+          "file": "aScl8gFsM1pWrd0atTwyJM",
+          "collection": "Semantic",
+          "variable": "icon/subtle"
+        }
+      }
+    },
+    "subtlest": {
+      "$type": "color",
+      "$value": "{gray.400}",
+      "$description": "Icon rất nhạt: nút xoá trong input, resizer",
+      "$extensions": {
+        "vn.pancake.figma": {
+          "file": "aScl8gFsM1pWrd0atTwyJM",
+          "collection": "Semantic",
+          "variable": "icon/subtlest"
+        }
+      }
+    },
+    "disabled": {
+      "$type": "color",
+      "$value": "{gray.400}",
+      "$description": "Icon trên control vô hiệu",
+      "$extensions": {
+        "vn.pancake.figma": {
+          "file": "aScl8gFsM1pWrd0atTwyJM",
+          "collection": "Semantic",
+          "variable": "icon/disabled"
+        }
+      }
+    },
+    "inverse": {
+      "$type": "color",
+      "$value": "{gray.0}",
+      "$description": "Icon trên nền đậm",
+      "$extensions": {
+        "vn.pancake.figma": {
+          "file": "aScl8gFsM1pWrd0atTwyJM",
+          "collection": "Semantic",
+          "variable": "icon/inverse"
+        }
+      }
+    },
+    "brand": {
+      "$type": "color",
+      "$value": "{blue.700}",
+      "$description": "Icon trong nút xanh, link có icon",
+      "$extensions": {
+        "vn.pancake.figma": {
+          "file": "aScl8gFsM1pWrd0atTwyJM",
+          "collection": "Semantic",
+          "variable": "icon/brand"
+        }
+      }
+    },
+    "info": {
+      "$type": "color",
+      "$value": "{blue.600}",
+      "$description": "Alert/Message thông tin",
+      "$extensions": {
+        "vn.pancake.figma": {
+          "file": "aScl8gFsM1pWrd0atTwyJM",
+          "collection": "Semantic",
+          "variable": "icon/info"
+        }
+      }
+    },
+    "success": {
+      "$type": "color",
+      "$value": "{green.600}",
+      "$description": "CheckCircle, Alert/Message thành công",
+      "$extensions": {
+        "vn.pancake.figma": {
+          "file": "aScl8gFsM1pWrd0atTwyJM",
+          "collection": "Semantic",
+          "variable": "icon/success"
+        }
+      }
+    },
+    "warning": {
+      "$type": "color",
+      "$value": "{volcano.500}",
+      "$description": "Alert/Message cảnh báo",
+      "$extensions": {
+        "vn.pancake.figma": {
+          "file": "aScl8gFsM1pWrd0atTwyJM",
+          "collection": "Semantic",
+          "variable": "icon/warning"
+        }
+      }
+    },
+    "danger": {
+      "$type": "color",
+      "$value": "{red.500}",
+      "$description": "Alert/Message lỗi, XCircle",
+      "$extensions": {
+        "vn.pancake.figma": {
+          "file": "aScl8gFsM1pWrd0atTwyJM",
+          "collection": "Semantic",
+          "variable": "icon/danger"
+        }
+      }
+    }
+  },
+  "surface": {
+    "default": {
+      "$type": "color",
+      "$value": "{gray.0}",
+      "$description": "Nền trang, card, panel",
+      "$extensions": {
+        "vn.pancake.figma": {
+          "file": "aScl8gFsM1pWrd0atTwyJM",
+          "collection": "Semantic",
+          "variable": "surface/default"
+        }
+      }
+    },
+    "subtle": {
+      "$type": "color",
+      "$value": "{gray.50}",
+      "$description": "Khối phụ trong card",
+      "$extensions": {
+        "vn.pancake.figma": {
+          "file": "aScl8gFsM1pWrd0atTwyJM",
+          "collection": "Semantic",
+          "variable": "surface/subtle"
+        }
+      }
+    },
+    "sunken": {
+      "$type": "color",
+      "$value": "{gray.100}",
+      "$description": "Header bảng, vùng lõm nhẹ",
+      "$extensions": {
+        "vn.pancake.figma": {
+          "file": "aScl8gFsM1pWrd0atTwyJM",
+          "collection": "Semantic",
+          "variable": "surface/sunken"
+        }
+      }
+    },
+    "overlay": {
+      "$type": "color",
+      "$value": "{gray.0}",
+      "$description": "Dropdown, popover, modal, toast — đi kèm elevation/overlay",
+      "$extensions": {
+        "vn.pancake.figma": {
+          "file": "aScl8gFsM1pWrd0atTwyJM",
+          "collection": "Semantic",
+          "variable": "surface/overlay"
+        }
+      }
+    },
+    "inverse": {
+      "$type": "color",
+      "$value": "{gray.800}",
+      "$description": "Tour tối, tooltip tối",
+      "$extensions": {
+        "vn.pancake.figma": {
+          "file": "aScl8gFsM1pWrd0atTwyJM",
+          "collection": "Semantic",
+          "variable": "surface/inverse"
+        }
+      }
+    },
+    "chat": {
+      "$type": "color",
+      "$value": "{beige.200}",
+      "$description": "Nền khung chat màn Hội thoại",
+      "$extensions": {
+        "vn.pancake.figma": {
+          "file": "aScl8gFsM1pWrd0atTwyJM",
+          "collection": "Semantic",
+          "variable": "surface/chat"
+        }
+      }
+    },
+    "canvas": {
+      "$type": "color",
+      "$value": "{gray.150}",
+      "$description": "Nền vùng nội dung phía sau card (Cài đặt, Thống kê)",
+      "$extensions": {
+        "vn.pancake.figma": {
+          "file": "aScl8gFsM1pWrd0atTwyJM",
+          "collection": "Semantic",
+          "variable": "surface/canvas"
+        }
+      }
+    }
+  },
+  "bg": {
+    "brand-bold": {
+      "rest": {
+        "$type": "color",
+        "$value": "{blue.700}",
+        "$description": "Nút Primary, switch bật",
+        "$extensions": {
+          "vn.pancake.figma": {
+            "file": "aScl8gFsM1pWrd0atTwyJM",
+            "collection": "Semantic",
+            "variable": "bg/brand-bold/rest"
+          }
+        }
+      },
+      "hover": {
+        "$type": "color",
+        "$value": "{blue.600}",
+        "$description": "Hover nút Primary",
+        "$extensions": {
+          "vn.pancake.figma": {
+            "file": "aScl8gFsM1pWrd0atTwyJM",
+            "collection": "Semantic",
+            "variable": "bg/brand-bold/hover"
+          }
+        }
+      },
+      "pressed": {
+        "$type": "color",
+        "$value": "{blue.800}",
+        "$description": "Nhấn nút Primary",
+        "$extensions": {
+          "vn.pancake.figma": {
+            "file": "aScl8gFsM1pWrd0atTwyJM",
+            "collection": "Semantic",
+            "variable": "bg/brand-bold/pressed"
+          }
+        }
+      },
+      "disabled": {
+        "$type": "color",
+        "$value": "{slate.400}",
+        "$description": "Nút Primary vô hiệu",
+        "$extensions": {
+          "vn.pancake.figma": {
+            "file": "aScl8gFsM1pWrd0atTwyJM",
+            "collection": "Semantic",
+            "variable": "bg/brand-bold/disabled"
+          }
+        }
+      }
+    },
+    "brand-subtle": {
+      "rest": {
+        "$type": "color",
+        "$value": "{blue.100}",
+        "$description": "Nút Secondary Blue",
+        "$extensions": {
+          "vn.pancake.figma": {
+            "file": "aScl8gFsM1pWrd0atTwyJM",
+            "collection": "Semantic",
+            "variable": "bg/brand-subtle/rest"
+          }
+        }
+      },
+      "hover": {
+        "$type": "color",
+        "$value": "{blue.200}",
+        "$description": "Hover Secondary Blue",
+        "$extensions": {
+          "vn.pancake.figma": {
+            "file": "aScl8gFsM1pWrd0atTwyJM",
+            "collection": "Semantic",
+            "variable": "bg/brand-subtle/hover"
+          }
+        }
+      },
+      "pressed": {
+        "$type": "color",
+        "$value": "{blue.300}",
+        "$description": "Nhấn Secondary Blue",
+        "$extensions": {
+          "vn.pancake.figma": {
+            "file": "aScl8gFsM1pWrd0atTwyJM",
+            "collection": "Semantic",
+            "variable": "bg/brand-subtle/pressed"
+          }
+        }
+      }
+    },
+    "brand-subtlest": {
+      "$type": "color",
+      "$value": "{blue.50}",
+      "$description": "Alert info, hover/checked checkbox",
+      "$extensions": {
+        "vn.pancake.figma": {
+          "file": "aScl8gFsM1pWrd0atTwyJM",
+          "collection": "Semantic",
+          "variable": "bg/brand-subtlest"
+        }
+      }
+    },
+    "neutral": {
+      "rest": {
+        "$type": "color",
+        "$value": "{gray.200}",
+        "$description": "Nút Secondary Gray, rãnh segmented, chip Tag input",
+        "$extensions": {
+          "vn.pancake.figma": {
+            "file": "aScl8gFsM1pWrd0atTwyJM",
+            "collection": "Semantic",
+            "variable": "bg/neutral/rest"
+          }
+        }
+      },
+      "hover": {
+        "$type": "color",
+        "$value": "{gray.250}",
+        "$description": "Hover Secondary Gray, item segmented",
+        "$extensions": {
+          "vn.pancake.figma": {
+            "file": "aScl8gFsM1pWrd0atTwyJM",
+            "collection": "Semantic",
+            "variable": "bg/neutral/hover"
+          }
+        }
+      },
+      "pressed": {
+        "$type": "color",
+        "$value": "{gray.300}",
+        "$description": "Nhấn Secondary Gray",
+        "$extensions": {
+          "vn.pancake.figma": {
+            "file": "aScl8gFsM1pWrd0atTwyJM",
+            "collection": "Semantic",
+            "variable": "bg/neutral/pressed"
+          }
+        }
+      }
+    },
+    "neutral-subtle": {
+      "rest": {
+        "$type": "color",
+        "$value": "#ffffff00",
+        "$description": "Text / Link Button khi nghỉ",
+        "$extensions": {
+          "vn.pancake.figma": {
+            "file": "aScl8gFsM1pWrd0atTwyJM",
+            "collection": "Semantic",
+            "variable": "bg/neutral-subtle/rest"
+          }
+        }
+      },
+      "hover": {
+        "$type": "color",
+        "$value": "{gray.250}",
+        "$description": "Hover Text / Link Button",
+        "$extensions": {
+          "vn.pancake.figma": {
+            "file": "aScl8gFsM1pWrd0atTwyJM",
+            "collection": "Semantic",
+            "variable": "bg/neutral-subtle/hover"
+          }
+        }
+      },
+      "pressed": {
+        "$type": "color",
+        "$value": "{gray.300}",
+        "$description": "Nhấn Text / Link Button",
+        "$extensions": {
+          "vn.pancake.figma": {
+            "file": "aScl8gFsM1pWrd0atTwyJM",
+            "collection": "Semantic",
+            "variable": "bg/neutral-subtle/pressed"
+          }
+        }
+      }
+    },
+    "neutral-bold": {
+      "rest": {
+        "$type": "color",
+        "$value": "{gray.800}",
+        "$description": "Nền đậm trung tính: badge tối, toast/tooltip tối",
+        "$extensions": {
+          "vn.pancake.figma": {
+            "file": "aScl8gFsM1pWrd0atTwyJM",
+            "collection": "Semantic",
+            "variable": "bg/neutral-bold/rest"
+          }
+        }
+      },
+      "hover": {
+        "$type": "color",
+        "$value": "{gray.700}",
+        "$description": "Hover nền đậm trung tính",
+        "$extensions": {
+          "vn.pancake.figma": {
+            "file": "aScl8gFsM1pWrd0atTwyJM",
+            "collection": "Semantic",
+            "variable": "bg/neutral-bold/hover"
+          }
+        }
+      },
+      "pressed": {
+        "$type": "color",
+        "$value": "{gray.900}",
+        "$description": "Nhấn nền đậm trung tính",
+        "$extensions": {
+          "vn.pancake.figma": {
+            "file": "aScl8gFsM1pWrd0atTwyJM",
+            "collection": "Semantic",
+            "variable": "bg/neutral-bold/pressed"
+          }
+        }
+      }
+    },
+    "danger-bold": {
+      "rest": {
+        "$type": "color",
+        "$value": "{crimson.600}",
+        "$description": "Nút Primary Negative",
+        "$extensions": {
+          "vn.pancake.figma": {
+            "file": "aScl8gFsM1pWrd0atTwyJM",
+            "collection": "Semantic",
+            "variable": "bg/danger-bold/rest"
+          }
+        }
+      },
+      "hover": {
+        "$type": "color",
+        "$value": "{crimson.500}",
+        "$description": "Hover Primary Negative",
+        "$extensions": {
+          "vn.pancake.figma": {
+            "file": "aScl8gFsM1pWrd0atTwyJM",
+            "collection": "Semantic",
+            "variable": "bg/danger-bold/hover"
+          }
+        }
+      },
+      "pressed": {
+        "$type": "color",
+        "$value": "{crimson.500}",
+        "$description": "Nhấn Primary Negative",
+        "$extensions": {
+          "vn.pancake.figma": {
+            "file": "aScl8gFsM1pWrd0atTwyJM",
+            "collection": "Semantic",
+            "variable": "bg/danger-bold/pressed"
+          }
+        }
+      },
+      "disabled": {
+        "$type": "color",
+        "$value": "{slate.400}",
+        "$description": "Nút Primary Negative vô hiệu",
+        "$extensions": {
+          "vn.pancake.figma": {
+            "file": "aScl8gFsM1pWrd0atTwyJM",
+            "collection": "Semantic",
+            "variable": "bg/danger-bold/disabled"
+          }
+        }
+      }
+    },
+    "danger-subtle": {
+      "rest": {
+        "$type": "color",
+        "$value": "{crimson.100}",
+        "$description": "Nút Secondary Negative",
+        "$extensions": {
+          "vn.pancake.figma": {
+            "file": "aScl8gFsM1pWrd0atTwyJM",
+            "collection": "Semantic",
+            "variable": "bg/danger-subtle/rest"
+          }
+        }
+      },
+      "hover": {
+        "$type": "color",
+        "$value": "{crimson.200}",
+        "$description": "Hover Secondary Negative",
+        "$extensions": {
+          "vn.pancake.figma": {
+            "file": "aScl8gFsM1pWrd0atTwyJM",
+            "collection": "Semantic",
+            "variable": "bg/danger-subtle/hover"
+          }
+        }
+      },
+      "pressed": {
+        "$type": "color",
+        "$value": "{crimson.300}",
+        "$description": "Nhấn Secondary Negative",
+        "$extensions": {
+          "vn.pancake.figma": {
+            "file": "aScl8gFsM1pWrd0atTwyJM",
+            "collection": "Semantic",
+            "variable": "bg/danger-subtle/pressed"
+          }
+        }
+      }
+    },
+    "success-bold": {
+      "rest": {
+        "$type": "color",
+        "$value": "{green.600}",
+        "$description": "Nút/khối thành công đậm (chữ trắng)",
+        "$extensions": {
+          "vn.pancake.figma": {
+            "file": "aScl8gFsM1pWrd0atTwyJM",
+            "collection": "Semantic",
+            "variable": "bg/success-bold/rest"
+          }
+        }
+      },
+      "hover": {
+        "$type": "color",
+        "$value": "{green.500}",
+        "$description": "Hover thành công đậm",
+        "$extensions": {
+          "vn.pancake.figma": {
+            "file": "aScl8gFsM1pWrd0atTwyJM",
+            "collection": "Semantic",
+            "variable": "bg/success-bold/hover"
+          }
+        }
+      },
+      "pressed": {
+        "$type": "color",
+        "$value": "{green.700}",
+        "$description": "Nhấn thành công đậm",
+        "$extensions": {
+          "vn.pancake.figma": {
+            "file": "aScl8gFsM1pWrd0atTwyJM",
+            "collection": "Semantic",
+            "variable": "bg/success-bold/pressed"
+          }
+        }
+      }
+    },
+    "success-subtle": {
+      "rest": {
+        "$type": "color",
+        "$value": "{green.200}",
+        "$description": "Nền thành công nhạt",
+        "$extensions": {
+          "vn.pancake.figma": {
+            "file": "aScl8gFsM1pWrd0atTwyJM",
+            "collection": "Semantic",
+            "variable": "bg/success-subtle/rest"
+          }
+        }
+      },
+      "hover": {
+        "$type": "color",
+        "$value": "{green.300}",
+        "$description": "Hover thành công nhạt",
+        "$extensions": {
+          "vn.pancake.figma": {
+            "file": "aScl8gFsM1pWrd0atTwyJM",
+            "collection": "Semantic",
+            "variable": "bg/success-subtle/hover"
+          }
+        }
+      },
+      "pressed": {
+        "$type": "color",
+        "$value": "{green.400}",
+        "$description": "Nhấn thành công nhạt",
+        "$extensions": {
+          "vn.pancake.figma": {
+            "file": "aScl8gFsM1pWrd0atTwyJM",
+            "collection": "Semantic",
+            "variable": "bg/success-subtle/pressed"
+          }
+        }
+      }
+    },
+    "warning-bold": {
+      "rest": {
+        "$type": "color",
+        "$value": "{volcano.500}",
+        "$description": "Khối cảnh báo đậm (chữ trắng)",
+        "$extensions": {
+          "vn.pancake.figma": {
+            "file": "aScl8gFsM1pWrd0atTwyJM",
+            "collection": "Semantic",
+            "variable": "bg/warning-bold/rest"
+          }
+        }
+      },
+      "hover": {
+        "$type": "color",
+        "$value": "{volcano.400}",
+        "$description": "Hover cảnh báo đậm",
+        "$extensions": {
+          "vn.pancake.figma": {
+            "file": "aScl8gFsM1pWrd0atTwyJM",
+            "collection": "Semantic",
+            "variable": "bg/warning-bold/hover"
+          }
+        }
+      },
+      "pressed": {
+        "$type": "color",
+        "$value": "{volcano.600}",
+        "$description": "Nhấn cảnh báo đậm",
+        "$extensions": {
+          "vn.pancake.figma": {
+            "file": "aScl8gFsM1pWrd0atTwyJM",
+            "collection": "Semantic",
+            "variable": "bg/warning-bold/pressed"
+          }
+        }
+      }
+    },
+    "warning-subtle": {
+      "rest": {
+        "$type": "color",
+        "$value": "{volcano.200}",
+        "$description": "Nền cảnh báo nhạt",
+        "$extensions": {
+          "vn.pancake.figma": {
+            "file": "aScl8gFsM1pWrd0atTwyJM",
+            "collection": "Semantic",
+            "variable": "bg/warning-subtle/rest"
+          }
+        }
+      },
+      "hover": {
+        "$type": "color",
+        "$value": "{volcano.300}",
+        "$description": "Hover cảnh báo nhạt",
+        "$extensions": {
+          "vn.pancake.figma": {
+            "file": "aScl8gFsM1pWrd0atTwyJM",
+            "collection": "Semantic",
+            "variable": "bg/warning-subtle/hover"
+          }
+        }
+      },
+      "pressed": {
+        "$type": "color",
+        "$value": "{volcano.400}",
+        "$description": "Nhấn cảnh báo nhạt",
+        "$extensions": {
+          "vn.pancake.figma": {
+            "file": "aScl8gFsM1pWrd0atTwyJM",
+            "collection": "Semantic",
+            "variable": "bg/warning-subtle/pressed"
+          }
+        }
+      }
+    },
+    "info-bold": {
+      "rest": {
+        "$type": "color",
+        "$value": "{blue.600}",
+        "$description": "Khối thông tin đậm (chữ trắng)",
+        "$extensions": {
+          "vn.pancake.figma": {
+            "file": "aScl8gFsM1pWrd0atTwyJM",
+            "collection": "Semantic",
+            "variable": "bg/info-bold/rest"
+          }
+        }
+      },
+      "hover": {
+        "$type": "color",
+        "$value": "{blue.500}",
+        "$description": "Hover thông tin đậm",
+        "$extensions": {
+          "vn.pancake.figma": {
+            "file": "aScl8gFsM1pWrd0atTwyJM",
+            "collection": "Semantic",
+            "variable": "bg/info-bold/hover"
+          }
+        }
+      },
+      "pressed": {
+        "$type": "color",
+        "$value": "{blue.700}",
+        "$description": "Nhấn thông tin đậm",
+        "$extensions": {
+          "vn.pancake.figma": {
+            "file": "aScl8gFsM1pWrd0atTwyJM",
+            "collection": "Semantic",
+            "variable": "bg/info-bold/pressed"
+          }
+        }
+      }
+    },
+    "info-subtle": {
+      "rest": {
+        "$type": "color",
+        "$value": "{blue.100}",
+        "$description": "Nền thông tin nhạt",
+        "$extensions": {
+          "vn.pancake.figma": {
+            "file": "aScl8gFsM1pWrd0atTwyJM",
+            "collection": "Semantic",
+            "variable": "bg/info-subtle/rest"
+          }
+        }
+      },
+      "hover": {
+        "$type": "color",
+        "$value": "{blue.200}",
+        "$description": "Hover thông tin nhạt",
+        "$extensions": {
+          "vn.pancake.figma": {
+            "file": "aScl8gFsM1pWrd0atTwyJM",
+            "collection": "Semantic",
+            "variable": "bg/info-subtle/hover"
+          }
+        }
+      },
+      "pressed": {
+        "$type": "color",
+        "$value": "{blue.300}",
+        "$description": "Nhấn thông tin nhạt",
+        "$extensions": {
+          "vn.pancake.figma": {
+            "file": "aScl8gFsM1pWrd0atTwyJM",
+            "collection": "Semantic",
+            "variable": "bg/info-subtle/pressed"
+          }
+        }
+      }
+    },
+    "disabled": {
+      "$type": "color",
+      "$value": "{gray.50}",
+      "$description": "Nền nút Secondary/Tertiary vô hiệu",
+      "$extensions": {
+        "vn.pancake.figma": {
+          "file": "aScl8gFsM1pWrd0atTwyJM",
+          "collection": "Semantic",
+          "variable": "bg/disabled"
+        }
+      }
+    },
+    "input": {
+      "rest": {
+        "$type": "color",
+        "$value": "{gray.0}",
+        "$description": "Nền input, select, textarea",
+        "$extensions": {
+          "vn.pancake.figma": {
+            "file": "aScl8gFsM1pWrd0atTwyJM",
+            "collection": "Semantic",
+            "variable": "bg/input/rest"
+          }
+        }
+      },
+      "disabled": {
+        "$type": "color",
+        "$value": "{gray.100}",
+        "$description": "Input vô hiệu",
+        "$extensions": {
+          "vn.pancake.figma": {
+            "file": "aScl8gFsM1pWrd0atTwyJM",
+            "collection": "Semantic",
+            "variable": "bg/input/disabled"
+          }
+        }
+      }
+    },
+    "item": {
+      "hover": {
+        "$type": "color",
+        "$value": "{gray.200}",
+        "$description": "Hover dòng bảng, item dropdown, ô lịch",
+        "$extensions": {
+          "vn.pancake.figma": {
+            "file": "aScl8gFsM1pWrd0atTwyJM",
+            "collection": "Semantic",
+            "variable": "bg/item/hover"
+          }
+        }
+      },
+      "selected": {
+        "$type": "color",
+        "$value": "{blue.100}",
+        "$description": "Dòng / item đang chọn",
+        "$extensions": {
+          "vn.pancake.figma": {
+            "file": "aScl8gFsM1pWrd0atTwyJM",
+            "collection": "Semantic",
+            "variable": "bg/item/selected"
+          }
+        }
+      },
+      "selected-hover": {
+        "$type": "color",
+        "$value": "{blue.200}",
+        "$description": "Hover item đang chọn",
+        "$extensions": {
+          "vn.pancake.figma": {
+            "file": "aScl8gFsM1pWrd0atTwyJM",
+            "collection": "Semantic",
+            "variable": "bg/item/selected-hover"
+          }
+        }
+      }
+    },
+    "control": {
+      "off": {
+        "$type": "color",
+        "$value": "{gray.300}",
+        "$description": "Switch tắt",
+        "$extensions": {
+          "vn.pancake.figma": {
+            "file": "aScl8gFsM1pWrd0atTwyJM",
+            "collection": "Semantic",
+            "variable": "bg/control/off"
+          }
+        }
+      },
+      "off-hover": {
+        "$type": "color",
+        "$value": "{gray.400}",
+        "$description": "Hover switch tắt",
+        "$extensions": {
+          "vn.pancake.figma": {
+            "file": "aScl8gFsM1pWrd0atTwyJM",
+            "collection": "Semantic",
+            "variable": "bg/control/off-hover"
+          }
+        }
+      }
+    },
+    "info-subtlest": {
+      "$type": "color",
+      "$value": "{blue.50}",
+      "$description": "Alert thông tin",
+      "$extensions": {
+        "vn.pancake.figma": {
+          "file": "aScl8gFsM1pWrd0atTwyJM",
+          "collection": "Semantic",
+          "variable": "bg/info-subtlest"
+        }
+      }
+    },
+    "success-subtlest": {
+      "$type": "color",
+      "$value": "{green.100}",
+      "$description": "Alert / Notification thành công",
+      "$extensions": {
+        "vn.pancake.figma": {
+          "file": "aScl8gFsM1pWrd0atTwyJM",
+          "collection": "Semantic",
+          "variable": "bg/success-subtlest"
+        }
+      }
+    },
+    "warning-subtlest": {
+      "$type": "color",
+      "$value": "{volcano.100}",
+      "$description": "Alert cảnh báo",
+      "$extensions": {
+        "vn.pancake.figma": {
+          "file": "aScl8gFsM1pWrd0atTwyJM",
+          "collection": "Semantic",
+          "variable": "bg/warning-subtlest"
+        }
+      }
+    },
+    "danger-subtlest": {
+      "$type": "color",
+      "$value": "{red.100}",
+      "$description": "Alert / Notification lỗi",
+      "$extensions": {
+        "vn.pancake.figma": {
+          "file": "aScl8gFsM1pWrd0atTwyJM",
+          "collection": "Semantic",
+          "variable": "bg/danger-subtlest"
+        }
+      }
+    },
+    "indicator": {
+      "info": {
+        "$type": "color",
+        "$value": "{blue.600}",
+        "$description": "Badge đếm xanh, chấm processing",
+        "$extensions": {
+          "vn.pancake.figma": {
+            "file": "aScl8gFsM1pWrd0atTwyJM",
+            "collection": "Semantic",
+            "variable": "bg/indicator/info"
+          }
+        }
+      },
+      "success": {
+        "$type": "color",
+        "$value": "{green.600}",
+        "$description": "Badge xanh lá, chấm thành công",
+        "$extensions": {
+          "vn.pancake.figma": {
+            "file": "aScl8gFsM1pWrd0atTwyJM",
+            "collection": "Semantic",
+            "variable": "bg/indicator/success"
+          }
+        }
+      },
+      "warning": {
+        "$type": "color",
+        "$value": "{gold.600}",
+        "$description": "Chấm cảnh báo",
+        "$extensions": {
+          "vn.pancake.figma": {
+            "file": "aScl8gFsM1pWrd0atTwyJM",
+            "collection": "Semantic",
+            "variable": "bg/indicator/warning"
+          }
+        }
+      },
+      "danger": {
+        "$type": "color",
+        "$value": "{red.500}",
+        "$description": "Badge đếm đỏ (chưa đọc), chấm lỗi",
+        "$extensions": {
+          "vn.pancake.figma": {
+            "file": "aScl8gFsM1pWrd0atTwyJM",
+            "collection": "Semantic",
+            "variable": "bg/indicator/danger"
+          }
+        }
+      },
+      "neutral": {
+        "$type": "color",
+        "$value": "{gray.400}",
+        "$description": "Badge xám, chấm mặc định",
+        "$extensions": {
+          "vn.pancake.figma": {
+            "file": "aScl8gFsM1pWrd0atTwyJM",
+            "collection": "Semantic",
+            "variable": "bg/indicator/neutral"
+          }
+        }
+      }
+    },
+    "skeleton": {
+      "$type": "color",
+      "$value": "{gray.200}",
+      "$description": "Khối skeleton",
+      "$extensions": {
+        "vn.pancake.figma": {
+          "file": "aScl8gFsM1pWrd0atTwyJM",
+          "collection": "Semantic",
+          "variable": "bg/skeleton"
+        }
+      }
+    }
+  },
+  "border": {
+    "default": {
+      "$type": "color",
+      "$value": "{gray.300}",
+      "$description": "Input, select, Tertiary Gray, nút +/−",
+      "$extensions": {
+        "vn.pancake.figma": {
+          "file": "aScl8gFsM1pWrd0atTwyJM",
+          "collection": "Semantic",
+          "variable": "border/default"
+        }
+      }
+    },
+    "subtle": {
+      "$type": "color",
+      "$value": "{gray.250}",
+      "$description": "Dòng bảng, checkbox, card cài đặt",
+      "$extensions": {
+        "vn.pancake.figma": {
+          "file": "aScl8gFsM1pWrd0atTwyJM",
+          "collection": "Semantic",
+          "variable": "border/subtle"
+        }
+      }
+    },
+    "subtlest": {
+      "$type": "color",
+      "$value": "{gray.200}",
+      "$description": "Viền card, panel dropdown, divider trong card",
+      "$extensions": {
+        "vn.pancake.figma": {
+          "file": "aScl8gFsM1pWrd0atTwyJM",
+          "collection": "Semantic",
+          "variable": "border/subtlest"
+        }
+      }
+    },
+    "strong": {
+      "$type": "color",
+      "$value": "{gray.400}",
+      "$description": "Viền cần nổi rõ trên nền xám",
+      "$extensions": {
+        "vn.pancake.figma": {
+          "file": "aScl8gFsM1pWrd0atTwyJM",
+          "collection": "Semantic",
+          "variable": "border/strong"
+        }
+      }
+    },
+    "brand": {
+      "rest": {
+        "$type": "color",
+        "$value": "{blue.700}",
+        "$description": "Tertiary Blue, radio button outlined đang chọn",
+        "$extensions": {
+          "vn.pancake.figma": {
+            "file": "aScl8gFsM1pWrd0atTwyJM",
+            "collection": "Semantic",
+            "variable": "border/brand/rest"
+          }
+        }
+      },
+      "hover": {
+        "$type": "color",
+        "$value": "{blue.600}",
+        "$description": "Hover Tertiary Blue",
+        "$extensions": {
+          "vn.pancake.figma": {
+            "file": "aScl8gFsM1pWrd0atTwyJM",
+            "collection": "Semantic",
+            "variable": "border/brand/hover"
+          }
+        }
+      },
+      "pressed": {
+        "$type": "color",
+        "$value": "{blue.600}",
+        "$description": "Nhấn Tertiary Blue",
+        "$extensions": {
+          "vn.pancake.figma": {
+            "file": "aScl8gFsM1pWrd0atTwyJM",
+            "collection": "Semantic",
+            "variable": "border/brand/pressed"
+          }
+        }
+      }
+    },
+    "focus": {
+      "$type": "color",
+      "$value": "{blue.600}",
+      "$description": "Input hover & focus, checkbox hover",
+      "$extensions": {
+        "vn.pancake.figma": {
+          "file": "aScl8gFsM1pWrd0atTwyJM",
+          "collection": "Semantic",
+          "variable": "border/focus"
+        }
+      }
+    },
+    "selected": {
+      "$type": "color",
+      "$value": "{blue.300}",
+      "$description": "Dòng bảng đang chọn",
+      "$extensions": {
+        "vn.pancake.figma": {
+          "file": "aScl8gFsM1pWrd0atTwyJM",
+          "collection": "Semantic",
+          "variable": "border/selected"
+        }
+      }
+    },
+    "danger": {
+      "rest": {
+        "$type": "color",
+        "$value": "{crimson.600}",
+        "$description": "Input lỗi, Tertiary Negative",
+        "$extensions": {
+          "vn.pancake.figma": {
+            "file": "aScl8gFsM1pWrd0atTwyJM",
+            "collection": "Semantic",
+            "variable": "border/danger/rest"
+          }
+        }
+      },
+      "hover": {
+        "$type": "color",
+        "$value": "{crimson.500}",
+        "$description": "Hover Tertiary Negative",
+        "$extensions": {
+          "vn.pancake.figma": {
+            "file": "aScl8gFsM1pWrd0atTwyJM",
+            "collection": "Semantic",
+            "variable": "border/danger/hover"
+          }
+        }
+      },
+      "pressed": {
+        "$type": "color",
+        "$value": "{crimson.500}",
+        "$description": "Nhấn Tertiary Negative",
+        "$extensions": {
+          "vn.pancake.figma": {
+            "file": "aScl8gFsM1pWrd0atTwyJM",
+            "collection": "Semantic",
+            "variable": "border/danger/pressed"
+          }
+        }
+      }
+    },
+    "disabled": {
+      "$type": "color",
+      "$value": "{gray.300}",
+      "$description": "Control vô hiệu",
+      "$extensions": {
+        "vn.pancake.figma": {
+          "file": "aScl8gFsM1pWrd0atTwyJM",
+          "collection": "Semantic",
+          "variable": "border/disabled"
+        }
+      }
+    },
+    "success": {
+      "$type": "color",
+      "$value": "{green.300}",
+      "$description": "Viền khối thành công",
+      "$extensions": {
+        "vn.pancake.figma": {
+          "file": "aScl8gFsM1pWrd0atTwyJM",
+          "collection": "Semantic",
+          "variable": "border/success"
+        }
+      }
+    },
+    "warning": {
+      "$type": "color",
+      "$value": "{volcano.300}",
+      "$description": "Viền khối cảnh báo",
+      "$extensions": {
+        "vn.pancake.figma": {
+          "file": "aScl8gFsM1pWrd0atTwyJM",
+          "collection": "Semantic",
+          "variable": "border/warning"
+        }
+      }
+    },
+    "info": {
+      "$type": "color",
+      "$value": "{blue.300}",
+      "$description": "Viền khối thông tin",
+      "$extensions": {
+        "vn.pancake.figma": {
+          "file": "aScl8gFsM1pWrd0atTwyJM",
+          "collection": "Semantic",
+          "variable": "border/info"
+        }
+      }
+    },
+    "inverse": {
+      "$type": "color",
+      "$value": "{gray.0}",
+      "$description": "Viền trắng trên nền đậm / ảnh (avatar, badge)",
+      "$extensions": {
+        "vn.pancake.figma": {
+          "file": "aScl8gFsM1pWrd0atTwyJM",
+          "collection": "Semantic",
+          "variable": "border/inverse"
+        }
+      }
+    }
+  },
+  "overlay": {
+    "backdrop": {
+      "$type": "color",
+      "$value": "#47546799",
+      "$description": "Nền mờ sau Modal / Drawer — #475467 60%",
+      "$extensions": {
+        "vn.pancake.figma": {
+          "file": "aScl8gFsM1pWrd0atTwyJM",
+          "collection": "Semantic",
+          "variable": "overlay/backdrop"
+        }
+      }
+    }
+  },
+  "accent": {
+    "blue": {
+      "bg": {
+        "$type": "color",
+        "$value": "{blue.100}",
+        "$description": "Nền tag blue",
+        "$extensions": {
+          "vn.pancake.figma": {
+            "file": "aScl8gFsM1pWrd0atTwyJM",
+            "collection": "Semantic",
+            "variable": "accent/blue/bg"
+          }
+        }
+      },
+      "border": {
+        "$type": "color",
+        "$value": "{blue.300}",
+        "$description": "Viền tag blue",
+        "$extensions": {
+          "vn.pancake.figma": {
+            "file": "aScl8gFsM1pWrd0atTwyJM",
+            "collection": "Semantic",
+            "variable": "accent/blue/border"
+          }
+        }
+      },
+      "text": {
+        "$type": "color",
+        "$value": "{blue.700}",
+        "$description": "Chữ tag blue (không viền)",
+        "$extensions": {
+          "vn.pancake.figma": {
+            "file": "aScl8gFsM1pWrd0atTwyJM",
+            "collection": "Semantic",
+            "variable": "accent/blue/text"
+          }
+        }
+      },
+      "text-strong": {
+        "$type": "color",
+        "$value": "{blue.950}",
+        "$description": "Chữ tag blue (có viền)",
+        "$extensions": {
+          "vn.pancake.figma": {
+            "file": "aScl8gFsM1pWrd0atTwyJM",
+            "collection": "Semantic",
+            "variable": "accent/blue/text-strong"
+          }
+        }
+      },
+      "bold": {
+        "$type": "color",
+        "$value": "{blue.600}",
+        "$description": "Nền tag solid blue, chữ trắng",
+        "$extensions": {
+          "vn.pancake.figma": {
+            "file": "aScl8gFsM1pWrd0atTwyJM",
+            "collection": "Semantic",
+            "variable": "accent/blue/bold"
+          }
+        }
+      }
+    },
+    "cyan": {
+      "bg": {
+        "$type": "color",
+        "$value": "{cyan.100}",
+        "$description": "Nền tag cyan",
+        "$extensions": {
+          "vn.pancake.figma": {
+            "file": "aScl8gFsM1pWrd0atTwyJM",
+            "collection": "Semantic",
+            "variable": "accent/cyan/bg"
+          }
+        }
+      },
+      "border": {
+        "$type": "color",
+        "$value": "{cyan.300}",
+        "$description": "Viền tag cyan",
+        "$extensions": {
+          "vn.pancake.figma": {
+            "file": "aScl8gFsM1pWrd0atTwyJM",
+            "collection": "Semantic",
+            "variable": "accent/cyan/border"
+          }
+        }
+      },
+      "text": {
+        "$type": "color",
+        "$value": "{cyan.700}",
+        "$description": "Chữ tag cyan (không viền)",
+        "$extensions": {
+          "vn.pancake.figma": {
+            "file": "aScl8gFsM1pWrd0atTwyJM",
+            "collection": "Semantic",
+            "variable": "accent/cyan/text"
+          }
+        }
+      },
+      "text-strong": {
+        "$type": "color",
+        "$value": "{cyan.950}",
+        "$description": "Chữ tag cyan (có viền)",
+        "$extensions": {
+          "vn.pancake.figma": {
+            "file": "aScl8gFsM1pWrd0atTwyJM",
+            "collection": "Semantic",
+            "variable": "accent/cyan/text-strong"
+          }
+        }
+      },
+      "bold": {
+        "$type": "color",
+        "$value": "{cyan.600}",
+        "$description": "Nền tag solid cyan, chữ trắng",
+        "$extensions": {
+          "vn.pancake.figma": {
+            "file": "aScl8gFsM1pWrd0atTwyJM",
+            "collection": "Semantic",
+            "variable": "accent/cyan/bold"
+          }
+        }
+      }
+    },
+    "geekblue": {
+      "bg": {
+        "$type": "color",
+        "$value": "{geekblue.100}",
+        "$description": "Nền tag geekblue",
+        "$extensions": {
+          "vn.pancake.figma": {
+            "file": "aScl8gFsM1pWrd0atTwyJM",
+            "collection": "Semantic",
+            "variable": "accent/geekblue/bg"
+          }
+        }
+      },
+      "border": {
+        "$type": "color",
+        "$value": "{geekblue.300}",
+        "$description": "Viền tag geekblue",
+        "$extensions": {
+          "vn.pancake.figma": {
+            "file": "aScl8gFsM1pWrd0atTwyJM",
+            "collection": "Semantic",
+            "variable": "accent/geekblue/border"
+          }
+        }
+      },
+      "text": {
+        "$type": "color",
+        "$value": "{geekblue.700}",
+        "$description": "Chữ tag geekblue (không viền)",
+        "$extensions": {
+          "vn.pancake.figma": {
+            "file": "aScl8gFsM1pWrd0atTwyJM",
+            "collection": "Semantic",
+            "variable": "accent/geekblue/text"
+          }
+        }
+      },
+      "text-strong": {
+        "$type": "color",
+        "$value": "{geekblue.950}",
+        "$description": "Chữ tag geekblue (có viền)",
+        "$extensions": {
+          "vn.pancake.figma": {
+            "file": "aScl8gFsM1pWrd0atTwyJM",
+            "collection": "Semantic",
+            "variable": "accent/geekblue/text-strong"
+          }
+        }
+      },
+      "bold": {
+        "$type": "color",
+        "$value": "{geekblue.600}",
+        "$description": "Nền tag solid geekblue, chữ trắng",
+        "$extensions": {
+          "vn.pancake.figma": {
+            "file": "aScl8gFsM1pWrd0atTwyJM",
+            "collection": "Semantic",
+            "variable": "accent/geekblue/bold"
+          }
+        }
+      }
+    },
+    "purple": {
+      "bg": {
+        "$type": "color",
+        "$value": "{purple.100}",
+        "$description": "Nền tag purple",
+        "$extensions": {
+          "vn.pancake.figma": {
+            "file": "aScl8gFsM1pWrd0atTwyJM",
+            "collection": "Semantic",
+            "variable": "accent/purple/bg"
+          }
+        }
+      },
+      "border": {
+        "$type": "color",
+        "$value": "{purple.300}",
+        "$description": "Viền tag purple",
+        "$extensions": {
+          "vn.pancake.figma": {
+            "file": "aScl8gFsM1pWrd0atTwyJM",
+            "collection": "Semantic",
+            "variable": "accent/purple/border"
+          }
+        }
+      },
+      "text": {
+        "$type": "color",
+        "$value": "{purple.700}",
+        "$description": "Chữ tag purple (không viền)",
+        "$extensions": {
+          "vn.pancake.figma": {
+            "file": "aScl8gFsM1pWrd0atTwyJM",
+            "collection": "Semantic",
+            "variable": "accent/purple/text"
+          }
+        }
+      },
+      "text-strong": {
+        "$type": "color",
+        "$value": "{purple.950}",
+        "$description": "Chữ tag purple (có viền)",
+        "$extensions": {
+          "vn.pancake.figma": {
+            "file": "aScl8gFsM1pWrd0atTwyJM",
+            "collection": "Semantic",
+            "variable": "accent/purple/text-strong"
+          }
+        }
+      },
+      "bold": {
+        "$type": "color",
+        "$value": "{purple.600}",
+        "$description": "Nền tag solid purple, chữ trắng",
+        "$extensions": {
+          "vn.pancake.figma": {
+            "file": "aScl8gFsM1pWrd0atTwyJM",
+            "collection": "Semantic",
+            "variable": "accent/purple/bold"
+          }
+        }
+      }
+    },
+    "magenta": {
+      "bg": {
+        "$type": "color",
+        "$value": "{magenta.100}",
+        "$description": "Nền tag magenta",
+        "$extensions": {
+          "vn.pancake.figma": {
+            "file": "aScl8gFsM1pWrd0atTwyJM",
+            "collection": "Semantic",
+            "variable": "accent/magenta/bg"
+          }
+        }
+      },
+      "border": {
+        "$type": "color",
+        "$value": "{magenta.300}",
+        "$description": "Viền tag magenta",
+        "$extensions": {
+          "vn.pancake.figma": {
+            "file": "aScl8gFsM1pWrd0atTwyJM",
+            "collection": "Semantic",
+            "variable": "accent/magenta/border"
+          }
+        }
+      },
+      "text": {
+        "$type": "color",
+        "$value": "{magenta.700}",
+        "$description": "Chữ tag magenta (không viền)",
+        "$extensions": {
+          "vn.pancake.figma": {
+            "file": "aScl8gFsM1pWrd0atTwyJM",
+            "collection": "Semantic",
+            "variable": "accent/magenta/text"
+          }
+        }
+      },
+      "text-strong": {
+        "$type": "color",
+        "$value": "{magenta.950}",
+        "$description": "Chữ tag magenta (có viền)",
+        "$extensions": {
+          "vn.pancake.figma": {
+            "file": "aScl8gFsM1pWrd0atTwyJM",
+            "collection": "Semantic",
+            "variable": "accent/magenta/text-strong"
+          }
+        }
+      },
+      "bold": {
+        "$type": "color",
+        "$value": "{magenta.600}",
+        "$description": "Nền tag solid magenta, chữ trắng",
+        "$extensions": {
+          "vn.pancake.figma": {
+            "file": "aScl8gFsM1pWrd0atTwyJM",
+            "collection": "Semantic",
+            "variable": "accent/magenta/bold"
+          }
+        }
+      }
+    },
+    "red": {
+      "bg": {
+        "$type": "color",
+        "$value": "{red.100}",
+        "$description": "Nền tag red",
+        "$extensions": {
+          "vn.pancake.figma": {
+            "file": "aScl8gFsM1pWrd0atTwyJM",
+            "collection": "Semantic",
+            "variable": "accent/red/bg"
+          }
+        }
+      },
+      "border": {
+        "$type": "color",
+        "$value": "{red.300}",
+        "$description": "Viền tag red",
+        "$extensions": {
+          "vn.pancake.figma": {
+            "file": "aScl8gFsM1pWrd0atTwyJM",
+            "collection": "Semantic",
+            "variable": "accent/red/border"
+          }
+        }
+      },
+      "text": {
+        "$type": "color",
+        "$value": "{red.700}",
+        "$description": "Chữ tag red (không viền)",
+        "$extensions": {
+          "vn.pancake.figma": {
+            "file": "aScl8gFsM1pWrd0atTwyJM",
+            "collection": "Semantic",
+            "variable": "accent/red/text"
+          }
+        }
+      },
+      "text-strong": {
+        "$type": "color",
+        "$value": "{red.950}",
+        "$description": "Chữ tag red (có viền)",
+        "$extensions": {
+          "vn.pancake.figma": {
+            "file": "aScl8gFsM1pWrd0atTwyJM",
+            "collection": "Semantic",
+            "variable": "accent/red/text-strong"
+          }
+        }
+      },
+      "bold": {
+        "$type": "color",
+        "$value": "{red.600}",
+        "$description": "Nền tag solid red, chữ trắng",
+        "$extensions": {
+          "vn.pancake.figma": {
+            "file": "aScl8gFsM1pWrd0atTwyJM",
+            "collection": "Semantic",
+            "variable": "accent/red/bold"
+          }
+        }
+      }
+    },
+    "volcano": {
+      "bg": {
+        "$type": "color",
+        "$value": "{volcano.100}",
+        "$description": "Nền tag volcano",
+        "$extensions": {
+          "vn.pancake.figma": {
+            "file": "aScl8gFsM1pWrd0atTwyJM",
+            "collection": "Semantic",
+            "variable": "accent/volcano/bg"
+          }
+        }
+      },
+      "border": {
+        "$type": "color",
+        "$value": "{volcano.300}",
+        "$description": "Viền tag volcano",
+        "$extensions": {
+          "vn.pancake.figma": {
+            "file": "aScl8gFsM1pWrd0atTwyJM",
+            "collection": "Semantic",
+            "variable": "accent/volcano/border"
+          }
+        }
+      },
+      "text": {
+        "$type": "color",
+        "$value": "{volcano.700}",
+        "$description": "Chữ tag volcano (không viền)",
+        "$extensions": {
+          "vn.pancake.figma": {
+            "file": "aScl8gFsM1pWrd0atTwyJM",
+            "collection": "Semantic",
+            "variable": "accent/volcano/text"
+          }
+        }
+      },
+      "text-strong": {
+        "$type": "color",
+        "$value": "{volcano.950}",
+        "$description": "Chữ tag volcano (có viền)",
+        "$extensions": {
+          "vn.pancake.figma": {
+            "file": "aScl8gFsM1pWrd0atTwyJM",
+            "collection": "Semantic",
+            "variable": "accent/volcano/text-strong"
+          }
+        }
+      },
+      "bold": {
+        "$type": "color",
+        "$value": "{volcano.600}",
+        "$description": "Nền tag solid volcano, chữ trắng",
+        "$extensions": {
+          "vn.pancake.figma": {
+            "file": "aScl8gFsM1pWrd0atTwyJM",
+            "collection": "Semantic",
+            "variable": "accent/volcano/bold"
+          }
+        }
+      }
+    },
+    "orange": {
+      "bg": {
+        "$type": "color",
+        "$value": "{orange.100}",
+        "$description": "Nền tag orange",
+        "$extensions": {
+          "vn.pancake.figma": {
+            "file": "aScl8gFsM1pWrd0atTwyJM",
+            "collection": "Semantic",
+            "variable": "accent/orange/bg"
+          }
+        }
+      },
+      "border": {
+        "$type": "color",
+        "$value": "{orange.300}",
+        "$description": "Viền tag orange",
+        "$extensions": {
+          "vn.pancake.figma": {
+            "file": "aScl8gFsM1pWrd0atTwyJM",
+            "collection": "Semantic",
+            "variable": "accent/orange/border"
+          }
+        }
+      },
+      "text": {
+        "$type": "color",
+        "$value": "{orange.700}",
+        "$description": "Chữ tag orange (không viền)",
+        "$extensions": {
+          "vn.pancake.figma": {
+            "file": "aScl8gFsM1pWrd0atTwyJM",
+            "collection": "Semantic",
+            "variable": "accent/orange/text"
+          }
+        }
+      },
+      "text-strong": {
+        "$type": "color",
+        "$value": "{orange.950}",
+        "$description": "Chữ tag orange (có viền)",
+        "$extensions": {
+          "vn.pancake.figma": {
+            "file": "aScl8gFsM1pWrd0atTwyJM",
+            "collection": "Semantic",
+            "variable": "accent/orange/text-strong"
+          }
+        }
+      },
+      "bold": {
+        "$type": "color",
+        "$value": "{orange.600}",
+        "$description": "Nền tag solid orange, chữ trắng",
+        "$extensions": {
+          "vn.pancake.figma": {
+            "file": "aScl8gFsM1pWrd0atTwyJM",
+            "collection": "Semantic",
+            "variable": "accent/orange/bold"
+          }
+        }
+      }
+    },
+    "gold": {
+      "bg": {
+        "$type": "color",
+        "$value": "{gold.100}",
+        "$description": "Nền tag gold",
+        "$extensions": {
+          "vn.pancake.figma": {
+            "file": "aScl8gFsM1pWrd0atTwyJM",
+            "collection": "Semantic",
+            "variable": "accent/gold/bg"
+          }
+        }
+      },
+      "border": {
+        "$type": "color",
+        "$value": "{gold.400}",
+        "$description": "Viền tag gold",
+        "$extensions": {
+          "vn.pancake.figma": {
+            "file": "aScl8gFsM1pWrd0atTwyJM",
+            "collection": "Semantic",
+            "variable": "accent/gold/border"
+          }
+        }
+      },
+      "text": {
+        "$type": "color",
+        "$value": "{gold.700}",
+        "$description": "Chữ tag gold (không viền)",
+        "$extensions": {
+          "vn.pancake.figma": {
+            "file": "aScl8gFsM1pWrd0atTwyJM",
+            "collection": "Semantic",
+            "variable": "accent/gold/text"
+          }
+        }
+      },
+      "text-strong": {
+        "$type": "color",
+        "$value": "{gold.950}",
+        "$description": "Chữ tag gold (có viền)",
+        "$extensions": {
+          "vn.pancake.figma": {
+            "file": "aScl8gFsM1pWrd0atTwyJM",
+            "collection": "Semantic",
+            "variable": "accent/gold/text-strong"
+          }
+        }
+      },
+      "bold": {
+        "$type": "color",
+        "$value": "{gold.600}",
+        "$description": "Nền tag solid gold, chữ trắng",
+        "$extensions": {
+          "vn.pancake.figma": {
+            "file": "aScl8gFsM1pWrd0atTwyJM",
+            "collection": "Semantic",
+            "variable": "accent/gold/bold"
+          }
+        }
+      }
+    },
+    "lime": {
+      "bg": {
+        "$type": "color",
+        "$value": "{lime.100}",
+        "$description": "Nền tag lime",
+        "$extensions": {
+          "vn.pancake.figma": {
+            "file": "aScl8gFsM1pWrd0atTwyJM",
+            "collection": "Semantic",
+            "variable": "accent/lime/bg"
+          }
+        }
+      },
+      "border": {
+        "$type": "color",
+        "$value": "{lime.500}",
+        "$description": "Viền tag lime",
+        "$extensions": {
+          "vn.pancake.figma": {
+            "file": "aScl8gFsM1pWrd0atTwyJM",
+            "collection": "Semantic",
+            "variable": "accent/lime/border"
+          }
+        }
+      },
+      "text": {
+        "$type": "color",
+        "$value": "{lime.700}",
+        "$description": "Chữ tag lime (không viền)",
+        "$extensions": {
+          "vn.pancake.figma": {
+            "file": "aScl8gFsM1pWrd0atTwyJM",
+            "collection": "Semantic",
+            "variable": "accent/lime/text"
+          }
+        }
+      },
+      "text-strong": {
+        "$type": "color",
+        "$value": "{lime.950}",
+        "$description": "Chữ tag lime (có viền)",
+        "$extensions": {
+          "vn.pancake.figma": {
+            "file": "aScl8gFsM1pWrd0atTwyJM",
+            "collection": "Semantic",
+            "variable": "accent/lime/text-strong"
+          }
+        }
+      },
+      "bold": {
+        "$type": "color",
+        "$value": "{lime.600}",
+        "$description": "Nền tag solid lime, chữ trắng",
+        "$extensions": {
+          "vn.pancake.figma": {
+            "file": "aScl8gFsM1pWrd0atTwyJM",
+            "collection": "Semantic",
+            "variable": "accent/lime/bold"
+          }
+        }
+      }
+    },
+    "green": {
+      "bg": {
+        "$type": "color",
+        "$value": "{green.100}",
+        "$description": "Nền tag green",
+        "$extensions": {
+          "vn.pancake.figma": {
+            "file": "aScl8gFsM1pWrd0atTwyJM",
+            "collection": "Semantic",
+            "variable": "accent/green/bg"
+          }
+        }
+      },
+      "border": {
+        "$type": "color",
+        "$value": "{green.300}",
+        "$description": "Viền tag green",
+        "$extensions": {
+          "vn.pancake.figma": {
+            "file": "aScl8gFsM1pWrd0atTwyJM",
+            "collection": "Semantic",
+            "variable": "accent/green/border"
+          }
+        }
+      },
+      "text": {
+        "$type": "color",
+        "$value": "{green.700}",
+        "$description": "Chữ tag green (không viền)",
+        "$extensions": {
+          "vn.pancake.figma": {
+            "file": "aScl8gFsM1pWrd0atTwyJM",
+            "collection": "Semantic",
+            "variable": "accent/green/text"
+          }
+        }
+      },
+      "text-strong": {
+        "$type": "color",
+        "$value": "{green.950}",
+        "$description": "Chữ tag green (có viền)",
+        "$extensions": {
+          "vn.pancake.figma": {
+            "file": "aScl8gFsM1pWrd0atTwyJM",
+            "collection": "Semantic",
+            "variable": "accent/green/text-strong"
+          }
+        }
+      },
+      "bold": {
+        "$type": "color",
+        "$value": "{green.600}",
+        "$description": "Nền tag solid green, chữ trắng",
+        "$extensions": {
+          "vn.pancake.figma": {
+            "file": "aScl8gFsM1pWrd0atTwyJM",
+            "collection": "Semantic",
+            "variable": "accent/green/bold"
+          }
+        }
+      }
+    }
+  },
+  "chart": {
+    "1": {
+      "$type": "color",
+      "$value": "{blue.600}",
+      "$description": "Màu chuỗi biểu đồ 1",
+      "$extensions": {
+        "vn.pancake.figma": {
+          "file": "aScl8gFsM1pWrd0atTwyJM",
+          "collection": "Semantic",
+          "variable": "chart/1"
+        }
+      }
+    },
+    "2": {
+      "$type": "color",
+      "$value": "{cyan.600}",
+      "$description": "Màu chuỗi biểu đồ 2",
+      "$extensions": {
+        "vn.pancake.figma": {
+          "file": "aScl8gFsM1pWrd0atTwyJM",
+          "collection": "Semantic",
+          "variable": "chart/2"
+        }
+      }
+    },
+    "3": {
+      "$type": "color",
+      "$value": "{magenta.500}",
+      "$description": "Màu chuỗi biểu đồ 3",
+      "$extensions": {
+        "vn.pancake.figma": {
+          "file": "aScl8gFsM1pWrd0atTwyJM",
+          "collection": "Semantic",
+          "variable": "chart/3"
+        }
+      }
+    },
+    "4": {
+      "$type": "color",
+      "$value": "{orange.500}",
+      "$description": "Màu chuỗi biểu đồ 4",
+      "$extensions": {
+        "vn.pancake.figma": {
+          "file": "aScl8gFsM1pWrd0atTwyJM",
+          "collection": "Semantic",
+          "variable": "chart/4"
+        }
+      }
+    },
+    "5": {
+      "$type": "color",
+      "$value": "{purple.400}",
+      "$description": "Màu chuỗi biểu đồ 5",
+      "$extensions": {
+        "vn.pancake.figma": {
+          "file": "aScl8gFsM1pWrd0atTwyJM",
+          "collection": "Semantic",
+          "variable": "chart/5"
+        }
+      }
+    },
+    "6": {
+      "$type": "color",
+      "$value": "{green.600}",
+      "$description": "Màu chuỗi biểu đồ 6",
+      "$extensions": {
+        "vn.pancake.figma": {
+          "file": "aScl8gFsM1pWrd0atTwyJM",
+          "collection": "Semantic",
+          "variable": "chart/6"
+        }
+      }
+    },
+    "7": {
+      "$type": "color",
+      "$value": "{gold.400}",
+      "$description": "Màu chuỗi biểu đồ 7",
+      "$extensions": {
+        "vn.pancake.figma": {
+          "file": "aScl8gFsM1pWrd0atTwyJM",
+          "collection": "Semantic",
+          "variable": "chart/7"
+        }
+      }
+    },
+    "8": {
+      "$type": "color",
+      "$value": "{cyan.300}",
+      "$description": "Màu chuỗi biểu đồ 8",
+      "$extensions": {
+        "vn.pancake.figma": {
+          "file": "aScl8gFsM1pWrd0atTwyJM",
+          "collection": "Semantic",
+          "variable": "chart/8"
+        }
+      }
+    }
+  }
+}

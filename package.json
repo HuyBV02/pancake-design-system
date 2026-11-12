@@ -1,0 +1,21 @@
+{
+  "name": "pancake-design-system",
+  "private": true,
+  "version": "1.0.0",
+  "description": "Pancake Web Design System — một nguồn token chung cho Figma và code + thư viện component @pancake/ui",
+  "workspaces": [
+    "packages/tokens",
+    "packages/ui",
+    "packages/lint",
+    "examples/*"
+  ],
+  "scripts": {
+    "tokens": "npm run build -w @pancake/tokens",
+    "build": "npm run build -w @pancake/tokens && npm run build -w @pancake/ui",
+    "storybook": "npm run storybook -w @pancake/ui",
+    "build-storybook": "npm run build-storybook -w @pancake/ui",
+    "gallery": "npm run gallery -w @pancake/ui",
+    "skill": "npm run build -w @pancake/tokens && node scripts/sync-skill.mjs",
+    "lint": "npm run lint -w pancake-app-starter"
+  }
+}

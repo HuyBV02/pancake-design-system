@@ -1,0 +1,30 @@
+{
+  "name": "@pancake/tokens",
+  "version": "1.3.0",
+  "description": "Design token Pancake Web (DS_AI v1.3) — chuẩn W3C DTCG, sinh CSS/JS/Tailwind bằng Style Dictionary",
+  "type": "module",
+  "main": "./dist/js/tokens.js",
+  "types": "./dist/js/tokens.d.ts",
+  "exports": {
+    ".": {
+      "types": "./dist/js/tokens.d.ts",
+      "default": "./dist/js/tokens.js"
+    },
+    "./css": "./dist/css/tokens.css",
+    "./tailwind": "./dist/tailwind/preset.js",
+    "./json": "./dist/json/tokens.flat.json",
+    "./tokens/*": "./tokens/*",
+    "./docs": "./dist/docs/tokens.md"
+  },
+  "files": [
+    "dist",
+    "tokens"
+  ],
+  "scripts": {
+    "figma": "node scripts/figma-to-dtcg.mjs",
+    "build": "node scripts/figma-to-dtcg.mjs && node style-dictionary.config.mjs && node scripts/gen-docs.mjs"
+  },
+  "devDependencies": {
+    "style-dictionary": "^5.8.0"
+  }
+}

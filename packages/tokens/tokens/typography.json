@@ -1,0 +1,633 @@
+{
+  "typography": {
+    "h0-light": {
+      "$type": "typography",
+      "$value": {
+        "fontFamily": "{font.family.sans}",
+        "fontWeight": 300,
+        "fontSize": "{font.heading.2xl.size}",
+        "lineHeight": "{font.heading.2xl.line-height}",
+        "letterSpacing": {
+          "value": 0,
+          "unit": "px"
+        }
+      },
+      "$extensions": {
+        "vn.pancake.figma": {
+          "file": "aScl8gFsM1pWrd0atTwyJM",
+          "textStyle": "H0 - 46/Light"
+        }
+      }
+    },
+    "h0-bold": {
+      "$type": "typography",
+      "$value": {
+        "fontFamily": "{font.family.sans}",
+        "fontWeight": "{font.weight.bold}",
+        "fontSize": "{font.heading.2xl.size}",
+        "lineHeight": "{font.heading.2xl.line-height}",
+        "letterSpacing": {
+          "value": 0,
+          "unit": "px"
+        }
+      },
+      "$extensions": {
+        "vn.pancake.figma": {
+          "file": "aScl8gFsM1pWrd0atTwyJM",
+          "textStyle": "H0 - 46/Bold"
+        }
+      }
+    },
+    "h1-regular": {
+      "$type": "typography",
+      "$value": {
+        "fontFamily": "{font.family.sans}",
+        "fontWeight": "{font.weight.regular}",
+        "fontSize": "{font.heading.xl.size}",
+        "lineHeight": "{font.heading.xl.line-height}",
+        "letterSpacing": {
+          "value": 0,
+          "unit": "px"
+        }
+      },
+      "$extensions": {
+        "vn.pancake.figma": {
+          "file": "aScl8gFsM1pWrd0atTwyJM",
+          "textStyle": "H1 - 38/Regular"
+        }
+      }
+    },
+    "h1-medium": {
+      "$type": "typography",
+      "$value": {
+        "fontFamily": "{font.family.sans}",
+        "fontWeight": "{font.weight.medium}",
+        "fontSize": "{font.heading.xl.size}",
+        "lineHeight": "{font.heading.xl.line-height}",
+        "letterSpacing": {
+          "value": 0,
+          "unit": "px"
+        }
+      },
+      "$extensions": {
+        "vn.pancake.figma": {
+          "file": "aScl8gFsM1pWrd0atTwyJM",
+          "textStyle": "H1 - 38/Medium"
+        }
+      }
+    },
+    "h1-bold": {
+      "$type": "typography",
+      "$value": {
+        "fontFamily": "{font.family.sans}",
+        "fontWeight": "{font.weight.bold}",
+        "fontSize": "{font.heading.xl.size}",
+        "lineHeight": "{font.heading.xl.line-height}",
+        "letterSpacing": {
+          "value": 0,
+          "unit": "px"
+        }
+      },
+      "$extensions": {
+        "vn.pancake.figma": {
+          "file": "aScl8gFsM1pWrd0atTwyJM",
+          "textStyle": "H1 - 38/Bold"
+        }
+      }
+    },
+    "h2-regular": {
+      "$type": "typography",
+      "$value": {
+        "fontFamily": "{font.family.sans}",
+        "fontWeight": "{font.weight.regular}",
+        "fontSize": "{font.heading.lg.size}",
+        "lineHeight": "{font.heading.lg.line-height}",
+        "letterSpacing": {
+          "value": 0,
+          "unit": "px"
+        }
+      },
+      "$extensions": {
+        "vn.pancake.figma": {
+          "file": "aScl8gFsM1pWrd0atTwyJM",
+          "textStyle": "H2 - 30/Regular"
+        }
+      }
+    },
+    "h2-medium": {
+      "$type": "typography",
+      "$value": {
+        "fontFamily": "{font.family.sans}",
+        "fontWeight": "{font.weight.medium}",
+        "fontSize": "{font.heading.lg.size}",
+        "lineHeight": "{font.heading.lg.line-height}",
+        "letterSpacing": {
+          "value": 0,
+          "unit": "px"
+        }
+      },
+      "$extensions": {
+        "vn.pancake.figma": {
+          "file": "aScl8gFsM1pWrd0atTwyJM",
+          "textStyle": "H2 - 30/Medium"
+        }
+      }
+    },
+    "h2-bold": {
+      "$type": "typography",
+      "$value": {
+        "fontFamily": "{font.family.sans}",
+        "fontWeight": "{font.weight.bold}",
+        "fontSize": "{font.heading.lg.size}",
+        "lineHeight": "{font.heading.lg.line-height}",
+        "letterSpacing": {
+          "value": 0,
+          "unit": "px"
+        }
+      },
+      "$extensions": {
+        "vn.pancake.figma": {
+          "file": "aScl8gFsM1pWrd0atTwyJM",
+          "textStyle": "H2 - 30/Bold"
+        }
+      }
+    },
+    "h3-regular": {
+      "$type": "typography",
+      "$value": {
+        "fontFamily": "{font.family.sans}",
+        "fontWeight": "{font.weight.regular}",
+        "fontSize": "{font.heading.md.size}",
+        "lineHeight": "{font.heading.md.line-height}",
+        "letterSpacing": {
+          "value": 0,
+          "unit": "px"
+        }
+      },
+      "$extensions": {
+        "vn.pancake.figma": {
+          "file": "aScl8gFsM1pWrd0atTwyJM",
+          "textStyle": "H3 - 24/Regular"
+        }
+      }
+    },
+    "h3-medium": {
+      "$type": "typography",
+      "$value": {
+        "fontFamily": "{font.family.sans}",
+        "fontWeight": "{font.weight.medium}",
+        "fontSize": "{font.heading.md.size}",
+        "lineHeight": "{font.heading.md.line-height}",
+        "letterSpacing": {
+          "value": 0,
+          "unit": "px"
+        }
+      },
+      "$extensions": {
+        "vn.pancake.figma": {
+          "file": "aScl8gFsM1pWrd0atTwyJM",
+          "textStyle": "H3 - 24/Medium"
+        }
+      }
+    },
+    "h3-bold": {
+      "$type": "typography",
+      "$value": {
+        "fontFamily": "{font.family.sans}",
+        "fontWeight": "{font.weight.bold}",
+        "fontSize": "{font.heading.md.size}",
+        "lineHeight": "{font.heading.md.line-height}",
+        "letterSpacing": {
+          "value": 0,
+          "unit": "px"
+        }
+      },
+      "$extensions": {
+        "vn.pancake.figma": {
+          "file": "aScl8gFsM1pWrd0atTwyJM",
+          "textStyle": "H3 - 24/Bold"
+        }
+      }
+    },
+    "h4-regular": {
+      "$type": "typography",
+      "$value": {
+        "fontFamily": "{font.family.sans}",
+        "fontWeight": "{font.weight.regular}",
+        "fontSize": "{font.heading.sm.size}",
+        "lineHeight": "{font.heading.sm.line-height}",
+        "letterSpacing": {
+          "value": 0,
+          "unit": "px"
+        }
+      },
+      "$extensions": {
+        "vn.pancake.figma": {
+          "file": "aScl8gFsM1pWrd0atTwyJM",
+          "textStyle": "H4 - 20/Regular"
+        }
+      }
+    },
+    "h4-medium": {
+      "$type": "typography",
+      "$value": {
+        "fontFamily": "{font.family.sans}",
+        "fontWeight": "{font.weight.medium}",
+        "fontSize": "{font.heading.sm.size}",
+        "lineHeight": "{font.heading.sm.line-height}",
+        "letterSpacing": {
+          "value": 0,
+          "unit": "px"
+        }
+      },
+      "$extensions": {
+        "vn.pancake.figma": {
+          "file": "aScl8gFsM1pWrd0atTwyJM",
+          "textStyle": "H4 - 20/Medium"
+        }
+      }
+    },
+    "h4-bold": {
+      "$type": "typography",
+      "$value": {
+        "fontFamily": "{font.family.sans}",
+        "fontWeight": "{font.weight.bold}",
+        "fontSize": "{font.heading.sm.size}",
+        "lineHeight": "{font.heading.sm.line-height}",
+        "letterSpacing": {
+          "value": 0,
+          "unit": "px"
+        }
+      },
+      "$extensions": {
+        "vn.pancake.figma": {
+          "file": "aScl8gFsM1pWrd0atTwyJM",
+          "textStyle": "H4 - 20/Bold"
+        }
+      }
+    },
+    "title-16-regular": {
+      "$type": "typography",
+      "$value": {
+        "fontFamily": "{font.family.sans}",
+        "fontWeight": "{font.weight.regular}",
+        "fontSize": "{font.heading.xs.size}",
+        "lineHeight": "{font.heading.xs.line-height}",
+        "letterSpacing": {
+          "value": 0,
+          "unit": "px"
+        }
+      },
+      "$extensions": {
+        "vn.pancake.figma": {
+          "file": "aScl8gFsM1pWrd0atTwyJM",
+          "textStyle": "Title 16/Regular"
+        }
+      }
+    },
+    "title-16-medium": {
+      "$type": "typography",
+      "$value": {
+        "fontFamily": "{font.family.sans}",
+        "fontWeight": "{font.weight.medium}",
+        "fontSize": "{font.heading.xs.size}",
+        "lineHeight": "{font.heading.xs.line-height}",
+        "letterSpacing": {
+          "value": 0,
+          "unit": "px"
+        }
+      },
+      "$extensions": {
+        "vn.pancake.figma": {
+          "file": "aScl8gFsM1pWrd0atTwyJM",
+          "textStyle": "Title 16/Medium"
+        }
+      }
+    },
+    "title-16-bold": {
+      "$type": "typography",
+      "$value": {
+        "fontFamily": "{font.family.sans}",
+        "fontWeight": "{font.weight.bold}",
+        "fontSize": "{font.heading.xs.size}",
+        "lineHeight": "{font.heading.xs.line-height}",
+        "letterSpacing": {
+          "value": 0,
+          "unit": "px"
+        }
+      },
+      "$extensions": {
+        "vn.pancake.figma": {
+          "file": "aScl8gFsM1pWrd0atTwyJM",
+          "textStyle": "Title 16/Bold"
+        }
+      }
+    },
+    "body-14-regular": {
+      "$type": "typography",
+      "$value": {
+        "fontFamily": "{font.family.sans}",
+        "fontWeight": "{font.weight.regular}",
+        "fontSize": "{font.body.md.size}",
+        "lineHeight": "{font.body.md.line-height}",
+        "letterSpacing": {
+          "value": 0,
+          "unit": "px"
+        }
+      },
+      "$extensions": {
+        "vn.pancake.figma": {
+          "file": "aScl8gFsM1pWrd0atTwyJM",
+          "textStyle": "Body 14/Regular"
+        }
+      }
+    },
+    "body-14-medium": {
+      "$type": "typography",
+      "$value": {
+        "fontFamily": "{font.family.sans}",
+        "fontWeight": "{font.weight.medium}",
+        "fontSize": "{font.body.md.size}",
+        "lineHeight": "{font.body.md.line-height}",
+        "letterSpacing": {
+          "value": 0,
+          "unit": "px"
+        }
+      },
+      "$extensions": {
+        "vn.pancake.figma": {
+          "file": "aScl8gFsM1pWrd0atTwyJM",
+          "textStyle": "Body 14/Medium"
+        }
+      }
+    },
+    "body-14-bold": {
+      "$type": "typography",
+      "$value": {
+        "fontFamily": "{font.family.sans}",
+        "fontWeight": "{font.weight.bold}",
+        "fontSize": "{font.body.md.size}",
+        "lineHeight": "{font.body.md.line-height}",
+        "letterSpacing": {
+          "value": 0,
+          "unit": "px"
+        }
+      },
+      "$extensions": {
+        "vn.pancake.figma": {
+          "file": "aScl8gFsM1pWrd0atTwyJM",
+          "textStyle": "Body 14/Bold"
+        }
+      }
+    },
+    "body-14-regular-underline": {
+      "$type": "typography",
+      "$value": {
+        "fontFamily": "{font.family.sans}",
+        "fontWeight": "{font.weight.regular}",
+        "fontSize": "{font.body.md.size}",
+        "lineHeight": "{font.body.md.line-height}",
+        "letterSpacing": {
+          "value": 0,
+          "unit": "px"
+        }
+      },
+      "$extensions": {
+        "vn.pancake.figma": {
+          "file": "aScl8gFsM1pWrd0atTwyJM",
+          "textStyle": "Body 14/Regular-underline",
+          "textDecoration": "underline"
+        }
+      }
+    },
+    "body-14-regular-strikethrough": {
+      "$type": "typography",
+      "$value": {
+        "fontFamily": "{font.family.sans}",
+        "fontWeight": "{font.weight.regular}",
+        "fontSize": "{font.body.md.size}",
+        "lineHeight": "{font.body.md.line-height}",
+        "letterSpacing": {
+          "value": 0,
+          "unit": "px"
+        }
+      },
+      "$extensions": {
+        "vn.pancake.figma": {
+          "file": "aScl8gFsM1pWrd0atTwyJM",
+          "textStyle": "Body 14/Regular-strikethrough",
+          "textDecoration": "line-through"
+        }
+      }
+    },
+    "body-14-code": {
+      "$type": "typography",
+      "$value": {
+        "fontFamily": "{font.family.mono}",
+        "fontWeight": "{font.weight.regular}",
+        "fontSize": "{font.code.md.size}",
+        "lineHeight": "{font.code.md.line-height}",
+        "letterSpacing": {
+          "value": 0,
+          "unit": "px"
+        }
+      },
+      "$extensions": {
+        "vn.pancake.figma": {
+          "file": "aScl8gFsM1pWrd0atTwyJM",
+          "textStyle": "Body 14/Code"
+        }
+      }
+    },
+    "footnote-12-regular": {
+      "$type": "typography",
+      "$value": {
+        "fontFamily": "{font.family.sans}",
+        "fontWeight": "{font.weight.regular}",
+        "fontSize": "{font.body.sm.size}",
+        "lineHeight": "{font.body.sm.line-height}",
+        "letterSpacing": {
+          "value": 0,
+          "unit": "px"
+        }
+      },
+      "$extensions": {
+        "vn.pancake.figma": {
+          "file": "aScl8gFsM1pWrd0atTwyJM",
+          "textStyle": "Footnote 12/Regular"
+        }
+      }
+    },
+    "footnote-12-medium": {
+      "$type": "typography",
+      "$value": {
+        "fontFamily": "{font.family.sans}",
+        "fontWeight": "{font.weight.medium}",
+        "fontSize": "{font.body.sm.size}",
+        "lineHeight": "{font.body.sm.line-height}",
+        "letterSpacing": {
+          "value": 0,
+          "unit": "px"
+        }
+      },
+      "$extensions": {
+        "vn.pancake.figma": {
+          "file": "aScl8gFsM1pWrd0atTwyJM",
+          "textStyle": "Footnote 12/Medium"
+        }
+      }
+    },
+    "footnote-12-bold": {
+      "$type": "typography",
+      "$value": {
+        "fontFamily": "{font.family.sans}",
+        "fontWeight": "{font.weight.bold}",
+        "fontSize": "{font.body.sm.size}",
+        "lineHeight": "{font.body.sm.line-height}",
+        "letterSpacing": {
+          "value": 0,
+          "unit": "px"
+        }
+      },
+      "$extensions": {
+        "vn.pancake.figma": {
+          "file": "aScl8gFsM1pWrd0atTwyJM",
+          "textStyle": "Footnote 12/Bold"
+        }
+      }
+    },
+    "footnote-12-system-monospace": {
+      "$type": "typography",
+      "$value": {
+        "fontFamily": "{font.family.mono}",
+        "fontWeight": "{font.weight.regular}",
+        "fontSize": "{font.code.sm.size}",
+        "lineHeight": "{font.code.sm.line-height}",
+        "letterSpacing": {
+          "value": 0,
+          "unit": "px"
+        }
+      },
+      "$extensions": {
+        "vn.pancake.figma": {
+          "file": "aScl8gFsM1pWrd0atTwyJM",
+          "textStyle": "Footnote 12/System-monospace"
+        }
+      }
+    },
+    "dense-13-regular": {
+      "$type": "typography",
+      "$value": {
+        "fontFamily": "{font.family.sans}",
+        "fontWeight": "{font.weight.regular}",
+        "fontSize": "{font.dense.md.size}",
+        "lineHeight": "{font.dense.md.line-height}",
+        "letterSpacing": {
+          "value": 0,
+          "unit": "px"
+        }
+      },
+      "$extensions": {
+        "vn.pancake.figma": {
+          "file": "aScl8gFsM1pWrd0atTwyJM",
+          "textStyle": "Dense 13/Regular"
+        }
+      }
+    },
+    "dense-13-medium": {
+      "$type": "typography",
+      "$value": {
+        "fontFamily": "{font.family.sans}",
+        "fontWeight": "{font.weight.medium}",
+        "fontSize": "{font.dense.md.size}",
+        "lineHeight": "{font.dense.md.line-height}",
+        "letterSpacing": {
+          "value": 0,
+          "unit": "px"
+        }
+      },
+      "$extensions": {
+        "vn.pancake.figma": {
+          "file": "aScl8gFsM1pWrd0atTwyJM",
+          "textStyle": "Dense 13/Medium"
+        }
+      }
+    },
+    "dense-11-regular": {
+      "$type": "typography",
+      "$value": {
+        "fontFamily": "{font.family.sans}",
+        "fontWeight": "{font.weight.regular}",
+        "fontSize": "{font.dense.sm.size}",
+        "lineHeight": "{font.dense.sm.line-height}",
+        "letterSpacing": {
+          "value": 0,
+          "unit": "px"
+        }
+      },
+      "$extensions": {
+        "vn.pancake.figma": {
+          "file": "aScl8gFsM1pWrd0atTwyJM",
+          "textStyle": "Dense 11/Regular"
+        }
+      }
+    },
+    "dense-11-medium": {
+      "$type": "typography",
+      "$value": {
+        "fontFamily": "{font.family.sans}",
+        "fontWeight": "{font.weight.medium}",
+        "fontSize": "{font.dense.sm.size}",
+        "lineHeight": "{font.dense.sm.line-height}",
+        "letterSpacing": {
+          "value": 0,
+          "unit": "px"
+        }
+      },
+      "$extensions": {
+        "vn.pancake.figma": {
+          "file": "aScl8gFsM1pWrd0atTwyJM",
+          "textStyle": "Dense 11/Medium"
+        }
+      }
+    },
+    "dense-10-regular": {
+      "$type": "typography",
+      "$value": {
+        "fontFamily": "{font.family.sans}",
+        "fontWeight": "{font.weight.regular}",
+        "fontSize": "{font.dense.xs.size}",
+        "lineHeight": "{font.dense.xs.line-height}",
+        "letterSpacing": {
+          "value": 0,
+          "unit": "px"
+        }
+      },
+      "$extensions": {
+        "vn.pancake.figma": {
+          "file": "aScl8gFsM1pWrd0atTwyJM",
+          "textStyle": "Dense 10/Regular"
+        }
+      }
+    },
+    "dense-10-medium": {
+      "$type": "typography",
+      "$value": {
+        "fontFamily": "{font.family.sans}",
+        "fontWeight": "{font.weight.medium}",
+        "fontSize": "{font.dense.xs.size}",
+        "lineHeight": "{font.dense.xs.line-height}",
+        "letterSpacing": {
+          "value": 0,
+          "unit": "px"
+        }
+      },
+      "$extensions": {
+        "vn.pancake.figma": {
+          "file": "aScl8gFsM1pWrd0atTwyJM",
+          "textStyle": "Dense 10/Medium"
+        }
+      }
+    }
+  }
+}
